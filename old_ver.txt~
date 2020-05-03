@@ -1,16 +1,16 @@
 AriaNg 1.1.6
 BorgBackup 1.1.11
 Django 3.0.5
-Fork "1.0.92"
+Fork 1.0.92
 GitLab v12.10.2-ee
-GitLab-Release "GitLab Security Release: 12.10.2, 12.9.5, 12.8.10"
+GitLab-Release GitLab Security Release: 12.10.2, 12.9.5, 12.8.10
 Google-Chrome-Beta 83.0.4103.34
 Google-Chrome-Dev 84.0.4128.3
 Google-Chrome-Stable 81.0.4044.129
 Metabase v0.35.3
 Sentry 10.0.0
-Surge-Mac-Beta "3.5.1-1066"
-Surge-Mac-Stable "3.5.0-1039"
+Surge-Mac-Beta 3.5.1-1066
+Surge-Mac-Stable 3.5.0-1039
 Visual-Studio-Code 1.44.2
 nvchecker v1.6
 tornado 6.0.4

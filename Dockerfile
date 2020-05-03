@@ -18,7 +18,7 @@ RUN set -ex \
     && apt-get install -y --no-install-recommends curl tzdata libssl-dev libcurl4-openssl-dev build-essential jq \
     # set timezone
     && ln -snf /usr/share/zoneinfo/${TZ} /etc/localtime && echo ${TZ} > /etc/timezone \
-    # install nvchecker yq
+    # pip install
     && pip install --no-cache-dir -U pip setuptools wheel \
     && pip install --no-cache-dir -U nvchecker==${NVCHECKER_VERSION} yq \
     # cleac cache

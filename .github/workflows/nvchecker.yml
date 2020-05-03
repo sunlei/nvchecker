@@ -54,7 +54,7 @@ jobs:
       - name: Commit version record files
         uses: stefanzweifel/git-auto-commit-action@v4.1.6
         with:
-          commit_message: Apply version record files changes
+          commit_message: 'chore: Apply version record files changes'
 
           branch: ${{ github.head_ref }}
           commit_options: "--no-verify --signoff"

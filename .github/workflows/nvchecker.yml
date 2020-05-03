@@ -2,11 +2,15 @@ name: nvchecker
 
 on:
   push:
-    branches: [ master ]
+    branches:
+      - master
   pull_request:
-    branches: [ master ]
+    branches:
+      - master
+    paths:
+      - 'source.ini'
   schedule:
-    - cron:  '* */3 * * *'
+    - cron: '* */3 * * *'
 
 env:
   IMAGE_NAME: nvchecker

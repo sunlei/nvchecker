@@ -1,10 +1,10 @@
 name: nvchecker
 
 on:
-  # push:
-  #   branches: [ master ]
-  # pull_request:
-  #   branches: [ master ]
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
   schedule:
     - cron:  '* */3 * * *'
 
@@ -19,15 +19,21 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Set image info
+        run: |
+          IMAGE_ID=docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME
+          echo "::set-env name=IMAGE_ID::$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')"
+          echo "::set-env name=IMAGE_TAG::$IMAGE_ID:latest"
+
       - name: Log into registry
         # $GITHUB_ACTOR
         run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login docker.pkg.github.com -u ${{ github.actor }} --password-stdin
 
       - name: Pull Docker image
-        run: docker pull "docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME"
+        run: docker pull "${{ env.IMAGE_ID }}"
 
       - name: Run image
-        run: docker run -it -d --name nvchecker -v $GITHUB_WORKSPACE:/workspace -w /workspace --env NVCHECKER_GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME:latest
+        run: docker run -it -d --name nvchecker -v $GITHUB_WORKSPACE:/workspace -w /workspace --env NVCHECKER_GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} ${{ env.IMAGE_ID }}:latest
 
       - name: Check version
         run: |

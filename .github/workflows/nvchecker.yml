@@ -1,0 +1,66 @@
+name: nvchecker
+
+on:
+  # push:
+  #   branches: [ master ]
+  # pull_request:
+  #   branches: [ master ]
+  schedule:
+    - cron:  '* */3 * * *'
+
+env:
+  IMAGE_NAME: nvchecker
+
+jobs:
+  check-new-versions:
+    runs-on: ubuntu-latest
+    name: Check New Versions
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Log into registry
+        # $GITHUB_ACTOR
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login docker.pkg.github.com -u ${{ github.actor }} --password-stdin
+
+      - name: Pull Docker image
+        run: docker pull "docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME"
+
+      - name: Run image
+        run: docker run -it -d --name nvchecker -v $GITHUB_WORKSPACE:/workspace -w /workspace --env NVCHECKER_GITHUB_TOKEN=${{ secrets.NVCHECKER_GITHUB_TOKEN }} docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME:latest
+
+      - name: Check version
+        run: |
+          touch old_ver.txt new_ver.txt old_ver.txt~
+          docker exec nvchecker nvchecker source.ini
+
+          # echo "::set-env name=VERSIONS_COMPARE::$(docker exec nvchecker nvcmp source.ini 2>&1)"
+
+          docker exec nvchecker nvcmp source.ini > result.tmp
+          docker exec nvchecker nvtake source.ini --all
+
+      - name: Send Email
+        run: |
+          RESULT=$(cat result.tmp)
+          rm -f result.tmp
+          [[ ! -z $RESULT ]] && curl -s --user 'api:${{ secrets.MAILGUN_API_KEY }}' https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages -F from='nvchecker <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' -F to=${{ secrets.EMAIL_TO }} -F subject='New version check result' -F text="$RESULT" || echo "No new versions"
+
+      - name: Commit version record files
+        uses: stefanzweifel/git-auto-commit-action@v4.1.6
+        with:
+          commit_message: Apply version record files changes
+
+          branch: ${{ github.head_ref }}
+          commit_options: "--no-verify --signoff"
+          file_pattern: ./*.txt ./*.txt~
+          repository: .
+
+          commit_user_name: GitHub Actions Bot
+          commit_user_email: actions@github.com
+          commit_author: Guizai <guizaicn@gmail.com>
+
+      # - name: nvchecker-action
+      #   id: nvchecker-action
+      #   uses: guizai/nvchecker-action@master
+      #   with:
+      #     source-file: 'source.ini'

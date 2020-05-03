@@ -12,7 +12,7 @@ on:
     paths:
       - 'source.ini'
   schedule:
-    - cron: '* */3 * * *'
+    - cron: '0 */3 * * *'
 
 env:
   IMAGE_NAME: nvchecker

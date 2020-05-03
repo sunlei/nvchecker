@@ -1,2 +1,3 @@
 # nvchecker
-使用 nvchecker + GitHub Actions 检查新版本
+
+使用 [nvchecker](https://github.com/lilydjwg/nvchecker) + GitHub Actions 检查软件/包新版本并通过邮件进行通知。

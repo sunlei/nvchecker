@@ -64,7 +64,7 @@ jobs:
 
           branch: ${{ github.head_ref }}
           commit_options: "--no-verify --signoff"
-          file_pattern: ./*.txt ./*.txt~
+          file_pattern: ./*.txt
           repository: .
 
           commit_user_name: GitHub Actions Bot

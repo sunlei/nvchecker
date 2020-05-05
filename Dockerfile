@@ -23,7 +23,7 @@ RUN set -ex \
     # && pip install --upgrade nvchecker==${NVCHECKER_VERSION} yq \
     && pip install --upgrade yq https://github.com/lilydjwg/nvchecker/archive/master.zip#egg=nvchecker \
     # install pup https://github.com/ericchiang/pup
-    curl -sOL `curl -s https://api.github.com/repos/ericchiang/pup/releases | grep browser_download_url | grep linux_amd64 | head -n 1 | cut -d '"' -f 4` && unzip -o pup_*.zip -d /usr/local/bin/ && rm -f pup_*.zip && chmod +x /usr/local/bin/pup \
+    && curl -sOL `curl -s https://api.github.com/repos/ericchiang/pup/releases | grep browser_download_url | grep linux_amd64 | head -n 1 | cut -d '"' -f 4` && unzip -o pup_*.zip -d /usr/local/bin/ && rm -f pup_*.zip && chmod +x /usr/local/bin/pup \
     # cleac cache
     && apt-get clean autoclean \
     && rm -rf /var/cache/apk/* /tmp/* /var/tmp/* $HOME/.cache /var/lib/apt/lists/* /var/lib/{apt,dpkg,cache,log}/

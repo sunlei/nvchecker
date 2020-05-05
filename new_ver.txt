@@ -4,7 +4,7 @@ BorgBackup 1.1.11
 Confluence 7.4.0
 Django 3.0.6
 Fork 1.0.92
-GitLab v12.10.3-ee
+GitLab v12.10.4-ee
 GitLab-Release GitLab Patch Release: 12.10.3
 Google-Chrome-Beta 83.0.4103.34
 Google-Chrome-Dev 84.0.4128.3
@@ -12,7 +12,7 @@ Google-Chrome-Stable 81.0.4044.129
 Jira 8.8.1
 Metabase v0.35.3
 Sentry 10.0.0
-Surge-Mac-Beta 3.5.1-1067
+Surge-Mac-Beta 3.5.1-1069
 Surge-Mac-Stable 3.5.0-1039
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.44.2

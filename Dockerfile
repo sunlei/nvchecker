@@ -19,8 +19,9 @@ RUN set -ex \
     # set timezone
     && ln -snf /usr/share/zoneinfo/${TZ} /etc/localtime && echo ${TZ} > /etc/timezone \
     # pip install
-    && pip install --no-cache-dir -U pip setuptools wheel \
-    && pip install --no-cache-dir -U nvchecker==${NVCHECKER_VERSION} yq \
+    && pip install --upgrade pip setuptools wheel \
+    # && pip install --upgrade nvchecker==${NVCHECKER_VERSION} yq \
+    && pip install --upgrade yq https://github.com/lilydjwg/nvchecker/archive/master.zip#egg=nvchecker \
     # cleac cache
     && apt-get clean autoclean \
     && rm -rf /var/cache/apk/* /tmp/* /var/tmp/* $HOME/.cache /var/lib/apt/lists/* /var/lib/{apt,dpkg,cache,log}/

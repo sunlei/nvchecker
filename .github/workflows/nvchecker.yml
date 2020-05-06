@@ -25,11 +25,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Set image info
+      - name: Set environment variables
         run: |
           IMAGE_ID=docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME
           echo "::set-env name=IMAGE_ID::$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')"
           echo "::set-env name=IMAGE_TAG::$IMAGE_ID:latest"
+
+          echo "::set-env name=LOG_FILE::nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log"
 
       - name: Log into registry
         # $GITHUB_ACTOR
@@ -46,7 +48,6 @@ jobs:
           # echo "::set-env name=VERSIONS_COMPARE::$(docker exec nvchecker-app nvcmp source.ini 2>&1)"
 
           touch old_ver.txt new_ver.txt
-          echo "::set-env name=LOG_FILE::nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log"
 
           docker exec nvchecker-app nvchecker --tries 3 source.ini 2>&1 | tee ${{ env.LOG_FILE }}
           docker exec nvchecker-app nvcmp source.ini > result.tmp

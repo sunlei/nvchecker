@@ -43,8 +43,8 @@ jobs:
 
       - name: Check version
         run: |
-          touch old_ver.txt new_ver.txt old_ver.txt~
-          docker exec nvchecker nvchecker source.ini
+          touch old_ver.txt new_ver.txt
+          docker exec nvchecker nvchecker --tries 3 source.ini
 
           # echo "::set-env name=VERSIONS_COMPARE::$(docker exec nvchecker nvcmp source.ini 2>&1)"
 

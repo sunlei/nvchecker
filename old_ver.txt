@@ -25,7 +25,7 @@ ForkLift 3.3.9-203
 GitLab v13.0.0-rc20200506140558-ee
 GitLab-Release GitLab Patch Release: 12.10.3
 GoLand 2020.1.2-201.7223.97
-Google-Chrome-Beta 83.0.4103.34
+Google-Chrome-Beta 83.0.4103.44
 Google-Chrome-Dev 84.0.4128.3
 Google-Chrome-Stable 81.0.4044.138
 Hazel 4.4.4

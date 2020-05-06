@@ -39,18 +39,18 @@ jobs:
         run: docker pull "${{ env.IMAGE_ID }}"
 
       - name: Run image
-        run: docker run -it -d --name nvchecker -v $GITHUB_WORKSPACE:/workspace -w /workspace --env NVCHECKER_GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} ${{ env.IMAGE_ID }}:latest
+        run: docker run -it -d --name nvchecker-app -v $GITHUB_WORKSPACE:/workspace -w /workspace --env NVCHECKER_GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} ${{ env.IMAGE_ID }}:latest
 
       - name: Check version
         run: |
-          # echo "::set-env name=VERSIONS_COMPARE::$(docker exec nvchecker nvcmp source.ini 2>&1)"
+          # echo "::set-env name=VERSIONS_COMPARE::$(docker exec nvchecker-app nvcmp source.ini 2>&1)"
 
           touch old_ver.txt new_ver.txt
           echo "::set-env name=LOG_FILE::nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log"
 
-          docker exec nvchecker nvchecker --tries 3 source.ini 2>&1 | tee ${{ env.LOG_FILE }}
-          docker exec nvchecker nvcmp source.ini > result.tmp
-          docker exec nvchecker nvtake source.ini --all
+          docker exec nvchecker-app nvchecker --tries 3 source.ini 2>&1 | tee ${{ env.LOG_FILE }}
+          docker exec nvchecker-app nvcmp source.ini > result.tmp
+          docker exec nvchecker-app nvtake source.ini --all
 
       - name: Send Email
         run: |

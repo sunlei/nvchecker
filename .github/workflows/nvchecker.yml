@@ -43,19 +43,20 @@ jobs:
 
       - name: Check version
         run: |
-          touch old_ver.txt new_ver.txt
-          docker exec nvchecker nvchecker --tries 3 source.ini
-
           # echo "::set-env name=VERSIONS_COMPARE::$(docker exec nvchecker nvcmp source.ini 2>&1)"
 
+          touch old_ver.txt new_ver.txt
+          echo "::set-env name=LOG_FILE::nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log"
+
+          docker exec nvchecker nvchecker --tries 3 source.ini 2>&1 | tee ${{ env.LOG_FILE }}
           docker exec nvchecker nvcmp source.ini > result.tmp
           docker exec nvchecker nvtake source.ini --all
 
       - name: Send Email
         run: |
           RESULT=$(cat result.tmp)
-          rm -f result.tmp
-          [[ ! -z $RESULT ]] && curl -s --user 'api:${{ secrets.MAILGUN_API_KEY }}' https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages -F from='nvchecker <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' -F to=${{ secrets.EMAIL_TO }} -F subject='New version check result' -F text="$RESULT" || echo "No new versions"
+          [[ ! -z $RESULT ]] && curl -s --user 'api:${{ secrets.MAILGUN_API_KEY }}' https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages -F from='nvchecker <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' -F to=${{ secrets.EMAIL_TO }} -F subject='New version check result' -F text="$RESULT" --form-string html="<html><pre><code>$RESULT</code></pre><hr /></html>" -F attachment=@${{ env.LOG_FILE }} || echo "No new versions"
+          rm -f result.tmp ${{ env.LOG_FILE }}
 
       - name: Commit version record files
         uses: stefanzweifel/git-auto-commit-action@v4.1.6

@@ -22,9 +22,9 @@ FilePane 1.10.7
 Firefox 76.0
 Fork 1.0.92
 ForkLift 3.3.9-203
-GitLab v12.10.4-ee
+GitLab v13.0.0-rc20200506140558-ee
 GitLab-Release GitLab Patch Release: 12.10.3
-GoLand 2020.1.1-201.7223.36
+GoLand 2020.1.2-201.7223.97
 Google-Chrome-Beta 83.0.4103.34
 Google-Chrome-Dev 84.0.4128.3
 Google-Chrome-Stable 81.0.4044.138
@@ -67,6 +67,7 @@ WeChat-Work 3.0.20.2254
 Wechat-for-Mac 2.3.31.19-13292
 aText 2.36-98
 coconutBattery 3.9.0
+docker-compose 1.25.5
 docker-openldap v1.3.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0

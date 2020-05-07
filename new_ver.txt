@@ -1,7 +1,7 @@
 1Password-for-Mac 7.5
 Alfred 4.0.9
 AriaNg 1.1.6
-AriaNg-Native 1.1.5
+AriaNg-Native 1.1.6
 Arq-Backup 6.2.11
 Beancount 2.2.3
 BorgBackup 1.1.11
@@ -83,7 +83,7 @@ iPadOS-Beta 13.5 beta 4 (17F5065a)
 iStat-Menus 6.40
 iTerm2 2.1.4
 macOS Catalina 10.15.4 (19E287)
-macOS-Beta Catalina 10.15.5 beta 3 (19F72f)
+macOS-Beta Catalina 10.15.5 beta 4 (19F83c)
 nvALT 2.2.8-128
 nvchecker v1.6
 snell v2.0.1

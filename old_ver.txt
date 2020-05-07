@@ -44,7 +44,7 @@ Movist-Pro 2.2.16-140
 Navicat-Premium 15.0.15
 NeteaseMusic 2.3.2-832
 Notion 2.0.7
-PyCharm 2020.1-201.6668.115
+PyCharm 2020.1.1-201.7223.92
 QQ-for-Mac 6.6.3
 Royal-TSX 4.3.1-4.3.1.1000
 Sentry 10.0.0

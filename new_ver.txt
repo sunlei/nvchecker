@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2020.4
 ClashX 1.20.0
 CleanMyMac-X 4.6.2
 Confluence 7.4.0
-CotEditor-Beta 3.9.0-beta-411
+CotEditor-Beta 3.9.0-beta.2-413
 CotEditor-Stable 3.8.12-400
 DEVONthink 3.0.4
 DaisyDisk 4.10
@@ -53,12 +53,12 @@ Sketch 65.1-95501
 Snipaste 2.3.5-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
-Surge-Mac-Beta 3.5.2-1074
+Surge-Mac-Beta 3.5.2-1075
 Surge-Mac-Stable 3.5.1-1069
 Syncthing-for-macOS v1.0.0-2-100000002
 TablePlus 3.5.0-308
 The-Unarchiver 4.2.1-128
-Tower-for-Mac 4.5-231
+Tower-for-Mac 4.4-226
 Transmit 5.6.5
 Typora 0.9.9.32.1-4191
 UniFi-Network-Controller 5.12.66

@@ -17,7 +17,7 @@ Dash-for-macOS 5.1.5-926
 DataGrip 2020.1.3-201.7223.85
 Django 3.0.6
 Docker-for-Mac 2.3.0.2-45183
-Dropbox 96.4.172
+Dropbox 97.4.467
 FilePane 1.10.7
 Firefox 76.0.1
 Fork 1.0.92
@@ -26,7 +26,7 @@ GitLab v13.0.0-rc20200506140558-ee
 GitLab-Release GitLab Patch Release: 12.10.3
 GoLand 2020.1.2-201.7223.97
 Google-Chrome-Beta 83.0.4103.44
-Google-Chrome-Dev 84.0.4136.5
+Google-Chrome-Dev 84.0.4143.2
 Google-Chrome-Stable 81.0.4044.138
 Hazel 4.4.4
 IINA 0.0.14.1-55
@@ -38,7 +38,7 @@ Manico 2.7.3-388
 Marked 2.5.40-987
 Marked-2 2.5.40-987
 Metabase v0.35.3
-Microsoft-Office 16.36.20041300
+Microsoft-Office 16.37.20051002
 Motrix v1.4.1
 Movist-Pro 2.2.16-140
 Navicat-Premium 15.0.15
@@ -92,4 +92,4 @@ tvOS 13.4 (17L256)
 tvOS-Beta 13.4.5 beta 4 (17L5560a)
 watchOS 6.2.1 (17T530)
 watchOS-Beta 6.2.5 beta 4 (17T5607a)
-webhook 2.6.11
+webhook 2.7.0

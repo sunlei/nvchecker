@@ -7,7 +7,7 @@ Beancount 2.2.3
 BorgBackup 1.1.11
 Burp-Suite Professional / Community 2020.4
 ClashX 1.20.0
-CleanMyMac-X 4.6.2
+CleanMyMac-X 4.6.3
 Confluence 7.4.0
 CotEditor-Beta 3.9.0-beta.2-413
 CotEditor-Stable 3.8.12-400

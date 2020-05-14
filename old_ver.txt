@@ -65,7 +65,7 @@ UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.45.0
 Vorta-Backup-Client v0.6.24
 WeChat-Work 3.0.20.2254
-Wechat-for-Mac 2.4.1.17-14470
+Wechat-for-Mac 2.3.31.19-13292
 Xcode 11.4.1 (11E503a)
 Xcode-Beta 11.5 beta 2 (11N605f)
 aText 2.36-98

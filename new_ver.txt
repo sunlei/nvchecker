@@ -33,7 +33,7 @@ IINA 0.0.14.1-55
 Jira 8.8.1
 Kaleidoscope 2.3.1-1441
 Little-Snitch 4.5.1-5470
-MWeb 3.3.8
+MWeb 3.3.9
 Manico 2.7.3-388
 Marked 2.5.40-987
 Marked-2 2.5.40-987

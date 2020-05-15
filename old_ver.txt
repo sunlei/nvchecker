@@ -91,5 +91,5 @@ tornado 6.0.4
 tvOS 13.4 (17L256)
 tvOS-Beta 13.4.5 beta 4 (17L5560a)
 watchOS 6.2.1 (17T530)
-watchOS-Beta 6.2.5 beta 4 (17T5607a)
+watchOS-Beta 6.2.5 beta 5 (17T608)
 webhook 2.7.0

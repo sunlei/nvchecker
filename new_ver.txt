@@ -53,19 +53,19 @@ Sketch 65.1-95501
 Snipaste 2.3.5-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
-Surge-Mac-Beta 3.5.2-1076
+Surge-Mac-Beta 3.5.2-1080
 Surge-Mac-Stable 3.5.1-1069
 Syncthing-for-macOS v1.0.0-2-100000002
 TablePlus 3.5.0-308
 The-Unarchiver 4.2.1-128
-Tower-for-Mac 4.5-231
+Tower-for-Mac 4.4-226
 Transmit 5.6.5
 Typora 0.9.9.32.1-4191
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.45.1
 Vorta-Backup-Client v0.6.24
 WeChat-Work 3.0.21.2256
-Wechat-for-Mac 2.4.1.17-14470
+Wechat-for-Mac 2.3.31.19-13292
 Xcode 11.4.1 (11E503a)
 Xcode-Beta 11.5 beta 2 (11N605f)
 aText 2.36-98

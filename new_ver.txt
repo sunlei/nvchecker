@@ -20,7 +20,7 @@ Docker-for-Mac 2.3.0.2-45183
 Dropbox 97.4.467
 FilePane 1.10.7
 Firefox 76.0.1
-Fork 1.0.92
+Fork 1.0.93
 ForkLift 3.3.9-203
 GitLab v13.0.0-rc20200513160610-ee
 GitLab-Release GitLab Patch Release: 12.10.5 and 12.9.7
@@ -65,7 +65,7 @@ UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.45.1
 Vorta-Backup-Client v0.6.24
 WeChat-Work 3.0.21.2256
-Wechat-for-Mac 2.4.1.17-14470
+Wechat-for-Mac 2.3.31.19-13292
 Xcode 11.4.1 (11E503a)
 Xcode-Beta 11.5 beta 2 (11N605f)
 aText 2.36-98

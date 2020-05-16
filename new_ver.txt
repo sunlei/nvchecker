@@ -23,7 +23,7 @@ Firefox 76.0.1
 Fork 1.0.93
 ForkLift 3.3.9-203
 GitLab v13.0.0-rc20200513160610-ee
-GitLab-Release GitLab Patch Release: 12.10.5 and 12.9.7
+GitLab-Release GitLab Patch Release: 12.10.6
 GoLand 2020.1.2-201.7223.97
 Google-Chrome-Beta 83.0.4103.56
 Google-Chrome-Dev 84.0.4143.2
@@ -58,14 +58,14 @@ Surge-Mac-Stable 3.5.1-1069
 Syncthing-for-macOS v1.0.0-2-100000002
 TablePlus 3.5.0-308
 The-Unarchiver 4.2.1-128
-Tower-for-Mac 4.4-226
+Tower-for-Mac 4.5-231
 Transmit 5.6.5
 Typora 0.9.9.32.1-4191
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.45.1
 Vorta-Backup-Client v0.6.24
 WeChat-Work 3.0.21.2256
-Wechat-for-Mac 2.3.31.19-13292
+Wechat-for-Mac 2.4.1.17-14470
 Xcode 11.4.1 (11E503a)
 Xcode-Beta 11.5 beta 2 (11N605f)
 aText 2.36-98

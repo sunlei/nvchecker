@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2020.4
 ClashX 1.20.0
 CleanMyMac-X 4.6.3
 Confluence 7.4.0
-CotEditor-Beta 3.9.0-beta.3-415
+CotEditor-Beta 3.9.0-beta.4-417
 CotEditor-Stable 3.8.12-400
 DEVONthink 3.5
 DaisyDisk 4.10
@@ -40,7 +40,7 @@ Marked-2 2.5.40-987
 Metabase v0.35.3
 Microsoft-Office 16.37.20051002
 Motrix v1.4.1
-Movist-Pro 2.2.16-140
+Movist-Pro 2.2.18-145
 Navicat-Premium 15.0.15
 NeteaseMusic 2.3.2-832
 Notion 2.0.7
@@ -65,7 +65,7 @@ UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.45.1
 Vorta-Backup-Client v0.6.24
 WeChat-Work 3.0.21.2256
-Wechat-for-Mac 2.4.1.17-14470
+Wechat-for-Mac 2.3.31.19-13292
 Xcode 11.4.1 (11E503a)
 Xcode-Beta 11.5 beta 2 (11N605f)
 aText 2.36-98

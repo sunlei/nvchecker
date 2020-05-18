@@ -25,7 +25,7 @@ ForkLift 3.3.9-203
 GitLab v13.0.0-rc20200513160610-ee
 GitLab-Release GitLab Patch Release: 12.10.6
 GoLand 2020.1.2-201.7223.97
-Google-Chrome-Beta 83.0.4103.56
+Google-Chrome-Beta 83.0.4103.61
 Google-Chrome-Dev 84.0.4143.2
 Google-Chrome-Stable 81.0.4044.138
 Hazel 4.4.4
@@ -66,8 +66,8 @@ Visual-Studio-Code 1.45.1
 Vorta-Backup-Client v0.6.24
 WeChat-Work 3.0.21.2256
 Wechat-for-Mac 2.4.1.17-14470
-Xcode 11.4.1 (11E503a)
-Xcode-Beta 11.5 beta 2 (11N605f)
+Xcode 11.5 GM seed (11E608c)
+Xcode-Beta null
 aText 2.36-98
 coconutBattery 3.8.3
 docker-compose 1.25.5
@@ -76,10 +76,10 @@ docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 iExplorer 4.3.8
 iMazing 2.11.5-13649
-iOS 13.4.1 (17E262)
-iOS-Beta 13.5 beta 4 (17F5065a)
-iPadOS 13.4.1 (17E262)
-iPadOS-Beta 13.5 beta 4 (17F5065a)
+iOS 13.5 GM seed (17F75)
+iOS-Beta null
+iPadOS 13.5 GM seed (17F75)
+iPadOS-Beta null
 iStat-Menus 6.40
 iTerm2 2.1.4
 macOS Catalina 10.15.4 (19E287)
@@ -88,8 +88,8 @@ nvALT 2.2.8-128
 nvchecker v1.6
 snell v2.0.1
 tornado 6.0.4
-tvOS 13.4 (17L256)
-tvOS-Beta 13.4.5 beta 4 (17L5560a)
-watchOS 6.2.1 (17T530)
-watchOS-Beta 6.2.5 beta 5 (17T608)
+tvOS 13.4.5 GM seed (17L562)
+tvOS-Beta null
+watchOS 6.2.5 (17T608)
+watchOS-Beta null
 webhook 2.7.0

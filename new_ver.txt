@@ -5,7 +5,7 @@ AriaNg-Native 1.1.6
 Arq-Backup 6.2.19
 Beancount 2.2.3
 BorgBackup 1.1.11
-Burp-Suite Professional / Community 2020.4
+Burp-Suite Professional / Community 2020.4.1
 ClashX 1.20.1
 CleanMyMac-X 4.6.3
 Confluence 7.4.0
@@ -20,7 +20,7 @@ Docker-for-Mac 2.3.0.2-45183
 Dropbox 97.4.467
 FilePane 1.10.7
 Firefox 76.0.1
-Fork 1.0.93
+Fork 1.0.93.1
 ForkLift 3.3.9-203
 GitLab v13.0.0-rc20200513160610-ee
 GitLab-Release GitLab Patch Release: 12.10.6

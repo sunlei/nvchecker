@@ -39,7 +39,7 @@ Marked 2.5.40-987
 Marked-2 2.5.40-987
 Metabase v0.35.3
 Microsoft-Office 16.37.20051002
-Motrix v1.4.1
+Motrix v1.5.10
 Movist-Pro 2.2.18-145
 Navicat-Premium 15.0.15
 NeteaseMusic 2.3.2-832

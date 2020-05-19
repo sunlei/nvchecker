@@ -49,7 +49,7 @@ QQ-for-Mac 6.6.3
 Royal-TSX 4.3.1-4.3.1.1000
 Sentry 10.0.0
 Setapp 2.5.7
-Sketch 65.1-95501
+Sketch 66-97063
 Snipaste 2.3.5-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -65,7 +65,7 @@ UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.45.1
 Vorta-Backup-Client v0.6.24
 WeChat-Work 3.0.21.2256
-Wechat-for-Mac 2.4.1.17-14470
+Wechat-for-Mac 2.4.1.18-14491
 Xcode 11.5 GM seed (11E608c)
 Xcode-Beta null
 aText 2.36-98

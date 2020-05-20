@@ -50,7 +50,7 @@ Royal-TSX 4.3.1-4.3.1.1000
 Sentry 10.0.0
 Setapp 2.5.7
 Sketch 66-97063
-Snipaste 2.3.5-Beta
+Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.2-1082
@@ -65,7 +65,7 @@ UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.45.1
 Vorta-Backup-Client v0.6.24
 WeChat-Work 3.0.21.2256
-Wechat-for-Mac 2.4.1.18-14491
+Wechat-for-Mac 2.4.1.17-14470
 Xcode 11.5 GM seed (11E608c)
 Xcode-Beta null
 aText 2.36-98
@@ -76,9 +76,9 @@ docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 iExplorer 4.3.8
 iMazing 2.11.5-13649
-iOS 13.5 GM seed (17F75)
+iOS 13.5 (17F75)
 iOS-Beta null
-iPadOS 13.5 GM seed (17F75)
+iPadOS 13.5 (17F75)
 iPadOS-Beta null
 iStat-Menus 6.40
 iTerm2 2.1.4
@@ -88,7 +88,7 @@ nvALT 2.2.8-128
 nvchecker v1.6
 snell v2.0.1
 tornado 6.0.4
-tvOS 13.4.5 GM seed (17L562)
+tvOS 13.4.5 (17L562)
 tvOS-Beta null
 watchOS 6.2.5 (17T608)
 watchOS-Beta null

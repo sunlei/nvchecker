@@ -22,7 +22,7 @@ FilePane 1.10.7
 Firefox 76.0.1
 Fork 1.0.93.1
 ForkLift 3.3.9-203
-GitLab v13.0.0-rc20200513160610-ee
+GitLab v13.0.0-ee
 GitLab-Release GitLab Patch Release: 12.10.6
 GoLand 2020.1.2-201.7223.97
 Google-Chrome-Beta 83.0.4103.61
@@ -53,7 +53,7 @@ Sketch 66.1-97080
 Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
-Surge-Mac-Beta 3.5.3-1083
+Surge-Mac-Beta 3.5.3-1085
 Surge-Mac-Stable 3.5.2-1082
 Syncthing-for-macOS v1.0.0-2-100000002
 TablePlus 3.5.0-308

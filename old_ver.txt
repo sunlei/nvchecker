@@ -26,7 +26,7 @@ GitLab v13.0.0-ee
 GitLab-Release GitLab Patch Release: 12.10.6
 GoLand 2020.1.2-201.7223.97
 Google-Chrome-Beta 83.0.4103.61
-Google-Chrome-Dev 84.0.4143.2
+Google-Chrome-Dev 84.0.4147.13
 Google-Chrome-Stable 83.0.4103.61
 Hazel 4.4.4
 IINA 0.0.14.1-55

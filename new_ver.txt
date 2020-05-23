@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2020.4.1
 ClashX 1.20.1
 CleanMyMac-X 4.6.3
 Confluence 7.5.0
-CotEditor-Beta 3.9.0-beta.4-417
+CotEditor-Beta 3.9.0-rc-419
 CotEditor-Stable 3.8.12-400
 DEVONthink 3.5
 DaisyDisk 4.10
@@ -68,7 +68,7 @@ WeChat-Work 3.0.21.2258
 Wechat-for-Mac 2.4.1.18-14491
 Xcode 11.5 (11E608c)
 Xcode-Beta null
-aText 2.36-98
+aText 2.36.1-99
 coconutBattery 3.8.3
 docker-compose 1.25.5
 docker-openldap v1.3.0

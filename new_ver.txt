@@ -2,7 +2,7 @@
 Alfred 4.0.9
 AriaNg 1.1.6
 AriaNg-Native 1.1.6
-Arq-Backup 6.2.23
+Arq-Backup 6.2.27
 Beancount 2.2.3
 BorgBackup 1.1.11
 Burp-Suite Professional / Community 2020.4.1

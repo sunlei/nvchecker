@@ -57,7 +57,7 @@ Surge-Mac-Beta 3.5.3-1087
 Surge-Mac-Stable 3.5.2-1082
 Syncthing-for-macOS v1.0.0-2-100000002
 TablePlus 3.5.3-314
-The-Unarchiver 4.2.1-128
+The-Unarchiver 4.2.2-129
 Tower-for-Mac 4.5-231
 Transmit 5.6.5
 Typora 0.9.9.33.2-4442

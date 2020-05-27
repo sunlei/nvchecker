@@ -82,8 +82,8 @@ iPadOS 13.5 (17F75)
 iPadOS-Beta null
 iStat-Menus 6.40
 iTerm2 2.1.4
-macOS Catalina 10.15.4 (19E287)
-macOS-Beta Catalina 10.15.5 beta 5 (19F94a)
+macOS Catalina 10.15.5 (19F96)
+macOS-Beta null
 nvALT 2.2.8-128
 nvchecker v1.6
 snell v2.0.1

@@ -9,8 +9,8 @@ Burp-Suite Professional / Community 2020.4.1
 ClashX 1.20.1
 CleanMyMac-X 4.6.3
 Confluence 7.5.0
-CotEditor-Beta 3.9.0-rc-419
-CotEditor-Stable 3.8.12-400
+CotEditor-Beta 3.9.0-421
+CotEditor-Stable 3.9.0-421
 DEVONthink 3.5
 DaisyDisk 4.10
 Dash-for-macOS 5.1.5-926

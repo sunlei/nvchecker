@@ -2,7 +2,7 @@
 Alfred 4.0.9
 AriaNg 1.1.6
 AriaNg-Native 1.1.6
-Arq-Backup 6.2.27
+Arq-Backup 6.2.30
 Beancount 2.2.3
 BorgBackup 1.1.11
 Burp-Suite Professional / Community 2020.4.1
@@ -26,7 +26,7 @@ GitLab v13.0.3-ee
 GitLab-Release GitLab Patch Release: 12.10.8
 GoLand 2020.1.2-201.7223.97
 Google-Chrome-Beta 84.0.4147.30
-Google-Chrome-Dev 84.0.4147.21
+Google-Chrome-Dev 85.0.4158.4
 Google-Chrome-Stable 83.0.4103.61
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -37,7 +37,7 @@ MWeb 3.4.1
 Manico 2.7.3-388
 Marked 2.5.40-987
 Marked-2 2.5.40-987
-Metabase v0.35.3
+Metabase v0.35.4
 Microsoft-Office 16.37.20051002
 Motrix v1.5.10
 Movist-Pro 2.2.18-145

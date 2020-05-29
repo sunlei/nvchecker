@@ -22,7 +22,7 @@ FilePane 1.10.7
 Firefox 76.0.1
 Fork 1.0.93.1
 ForkLift 3.3.9-203
-GitLab v13.0.2-ee
+GitLab v13.0.3-ee
 GitLab-Release GitLab Patch Release: 12.10.8
 GoLand 2020.1.2-201.7223.97
 Google-Chrome-Beta 84.0.4147.30

@@ -76,20 +76,20 @@ docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 iExplorer 4.3.8
 iMazing 2.11.5-13649
-iOS 13.5 (17F75)
+iOS 13.5.1 (17F80)
 iOS-Beta null
-iPadOS 13.5 (17F75)
+iPadOS 13.5.1 (17F80)
 iPadOS-Beta null
 iStat-Menus 6.40
 iTerm2 2.1.4
-macOS Catalina 10.15.5 (19F96)
+macOS Catalina 10.15.5 (19F101)
 macOS-Beta null
 nvALT 2.2.8-128
 nvchecker v1.6
 snell v2.0.1
 tornado 6.0.4
-tvOS 13.4.5 (17L562)
+tvOS 13.4.6 (17L570)
 tvOS-Beta null
-watchOS 6.2.5 (17T608)
+watchOS 6.2.6 (17T620)
 watchOS-Beta null
 webhook 2.7.0

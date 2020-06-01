@@ -69,7 +69,7 @@ Wechat-for-Mac 2.4.1.18-14491
 Xcode 11.5 (11E608c)
 Xcode-Beta null
 aText 2.36.1-99
-coconutBattery 3.8.3
+coconutBattery 3.9.0
 docker-compose 1.25.5
 docker-openldap v1.3.0
 docker-openldap-backup v1.3.0
@@ -79,11 +79,11 @@ iMazing 2.11.5-13649
 iOS 13.5.1 (17F80)
 iOS-Beta null
 iPadOS 13.5.1 (17F80)
-iPadOS-Beta null
+iPadOS-Beta 13.5.5 beta (17G5035d)
 iStat-Menus 6.40
 iTerm2 2.1.4
 macOS Catalina 10.15.5 (19F101)
-macOS-Beta null
+macOS-Beta Catalina 10.15.6 beta (19G36e)
 nvALT 2.2.8-128
 nvchecker v1.6
 snell v2.0.1

@@ -75,7 +75,7 @@ docker-openldap v1.3.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 iExplorer 4.3.8
-iMazing 2.11.5-13649
+iMazing 2.11.6-13688
 iOS 13.5.1 (17F80)
 iOS-Beta null
 iPadOS 13.5.1 (17F80)

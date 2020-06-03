@@ -19,11 +19,11 @@ Django 3.0.7
 Docker-for-Mac 2.3.0.3-45519
 Dropbox 98.4.158
 FilePane 1.10.7
-Firefox 77.0
+Firefox 77.0.1
 Fork 1.0.93.1
 ForkLift 3.3.9-203
 GitLab v13.0.4-ee
-GitLab-Release GitLab Patch Release: 12.10.8
+GitLab-Release GitLab  Critical Security Release: 13.0.4, 12.10.9, 12.9.9
 GoLand 2020.1.2-201.7223.97
 Google-Chrome-Beta 84.0.4147.30
 Google-Chrome-Dev 85.0.4158.4
@@ -91,5 +91,5 @@ tornado 6.0.4
 tvOS 13.4.6 (17L570)
 tvOS-Beta 13.4.8 beta (17M5535f)
 watchOS 6.2.6 (17T620)
-watchOS-Beta null
+watchOS-Beta 6.2.8 beta (17U5535e)
 webhook 2.7.0

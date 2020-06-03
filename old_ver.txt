@@ -41,7 +41,7 @@ Metabase v0.35.4
 Microsoft-Office 16.37.20051002
 Motrix v1.5.10
 Movist-Pro 2.2.18-145
-Navicat-Premium 15.0.16
+Navicat-Premium 15.0.17
 NeteaseMusic 2.3.2-832
 Notion 2.0.7
 PyCharm 2020.1.1-201.7223.92

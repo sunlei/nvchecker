@@ -70,7 +70,7 @@ Xcode 11.5 (11E608c)
 Xcode-Beta null
 aText 2.36.1-99
 coconutBattery 3.9.0
-docker-compose 1.25.5
+docker-compose 1.26.0
 docker-openldap v1.3.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0

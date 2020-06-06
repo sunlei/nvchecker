@@ -6,7 +6,7 @@ Arq-Backup 6.2.30
 Beancount 2.2.3
 BorgBackup 1.1.11
 Burp-Suite Professional / Community 2020.5
-ClashX 1.20.2
+ClashX 1.20.3
 CleanMyMac-X 4.6.3
 Confluence 7.5.1
 CotEditor-Beta 3.9.0-421
@@ -39,7 +39,7 @@ Marked 2.5.40-987
 Marked-2 2.5.40-987
 Metabase v0.35.4
 Microsoft-Office 16.37.20051002
-Motrix v1.5.10
+Motrix v1.5.15
 Movist-Pro 2.2.18-145
 Navicat-Premium 15.0.17
 NeteaseMusic 2.3.2-832

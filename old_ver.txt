@@ -67,7 +67,7 @@ Vorta-Backup-Client v0.6.26
 WeChat-Work 3.0.23.2265
 Wechat-for-Mac 2.4.1.18-14491
 Xcode 11.5 (11E608c)
-Xcode-Beta null
+Xcode-Beta 11.6 beta (11N700h)
 aText 2.36.1-99
 coconutBattery 3.9.0
 docker-compose 1.26.0
@@ -79,17 +79,17 @@ iMazing 2.11.6-13688
 iOS 13.5.1 (17F80)
 iOS-Beta null
 iPadOS 13.5.1 (17F80)
-iPadOS-Beta 13.5.5 beta (17G5035d)
+iPadOS-Beta 13.6 beta 2 (17G5045c)
 iStat-Menus 6.40
 iTerm2 2.1.4
 macOS Catalina 10.15.5 (19F101)
-macOS-Beta Catalina 10.15.6 beta (19G36e)
+macOS-Beta Catalina 10.15.6 beta 2 (19G46c)
 nvALT 2.2.8-128
 nvchecker v1.6
 snell v2.0.1
 tornado 6.0.4
 tvOS 13.4.6 (17L570)
-tvOS-Beta 13.4.8 beta (17M5535f)
+tvOS-Beta 13.4.8 beta 2 (17M5545a)
 watchOS 6.2.6 (17T620)
 watchOS-Beta 6.2.8 beta (17U5535e)
 webhook 2.7.0

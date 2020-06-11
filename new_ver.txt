@@ -11,7 +11,7 @@ CleanMyMac-X 4.6.5
 Confluence 7.5.1
 CotEditor-Beta 3.9.0-421
 CotEditor-Stable 3.9.0-421
-DEVONthink 3.5
+DEVONthink 3.5.1
 DaisyDisk 4.10
 Dash-for-macOS 5.1.6-930
 DataGrip 2020.1.4-201.7846.70

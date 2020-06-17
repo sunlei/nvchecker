@@ -26,11 +26,11 @@ GitLab v13.0.6-ee
 GitLab-Release GitLab  Critical Security Release: 13.0.6, 12.10.11, 12.9.10
 GoLand 2020.1.3-201.7846.93
 Google-Chrome-Beta 84.0.4147.45
-Google-Chrome-Dev 85.0.4168.2
+Google-Chrome-Dev 85.0.4173.0
 Google-Chrome-Stable 83.0.4103.106
 Hazel 4.4.5
 IINA 0.0.14.1-55
-Jira 8.9.0
+Jira 8.9.1
 Kaleidoscope 2.3.1-1441
 Little-Snitch 4.5.2-5474
 MWeb 3.4.1
@@ -38,7 +38,7 @@ Manico 2.7.3-388
 Marked 2.5.43-990
 Marked-2 2.5.43-990
 Metabase v0.35.4
-Microsoft-Office 16.37.20051002
+Microsoft-Office 16.38.20061401
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.17
@@ -47,13 +47,13 @@ Notion 2.0.7
 PyCharm 2020.1.2-201.7846.77
 QQ-for-Mac 6.6.7
 Royal-TSX 4.3.1-4.3.1.1000
-Sentry 10.0.0
+Sentry 20.6.0
 Setapp 2.5.7
 Sketch 66.1-97080
 Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
-Surge-Mac-Beta 3.5.4-1095
+Surge-Mac-Beta 3.5.4-1097
 Surge-Mac-Stable 3.5.3-1094
 Syncthing-for-macOS v1.6.1-1-100600101
 TablePlus 3.6.1-320
@@ -74,6 +74,7 @@ docker-compose 1.26.0
 docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
+docker-self-service-password 2.7
 iExplorer 4.3.8
 iMazing 2.11.6-13688
 iOS 13.5.1 (17F80)

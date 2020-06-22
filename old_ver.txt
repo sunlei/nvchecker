@@ -59,7 +59,7 @@ Surge-Mac-Stable 3.5.3-1094
 Syncthing-for-macOS v1.6.1-1-100600101
 TablePlus 3.6.1-320
 The-Unarchiver 4.2.2-129
-Tower-for-Mac 4.5-231
+Tower-for-Mac 5.0-240
 Transmit 5.6.5
 Typora 0.9.9.33.2-4442
 UniFi-Network-Controller 5.12.66
@@ -84,7 +84,7 @@ iPadOS 13.5.1 (17F80)
 iPadOS-Beta 13.6 beta 2 (17G5045c)
 iStat-Menus 6.40
 iTerm2 2.1.4
-jumpserver 2.0.0
+jumpserver 2.0.1
 macOS Catalina 10.15.5 (19F101)
 macOS-Beta Catalina 10.15.6 beta 2 (19G46c)
 nvALT 2.2.8-128

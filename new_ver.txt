@@ -42,7 +42,7 @@ Microsoft-Office 16.38.20061401
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.18
-Netch 1.4.9
+Netch 1.4.10
 NeteaseMusic 2.3.2-832
 Notion 2.0.7
 PyCharm 2020.1.2-201.7846.77

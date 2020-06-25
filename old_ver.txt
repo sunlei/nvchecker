@@ -17,16 +17,16 @@ Dash-for-macOS 5.1.7-932
 DataGrip 2020.1.5-201.8538.4
 Django 3.0.7
 Docker-for-Mac 2.3.0.3-45519
-Dropbox 99.4.501
+Dropbox 100.4.409
 FilePane 1.10.7
 Firefox 77.0.1
 Fork 1.0.95
 ForkLift 3.4-205
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.1.1
+GitLab-Release GitLab Patch Release: 12.10.12
 GoLand 2020.1.3-201.7846.93
 Google-Chrome-Beta 84.0.4147.68
-Google-Chrome-Dev 85.0.4173.0
+Google-Chrome-Dev 85.0.4181.8
 Google-Chrome-Stable 83.0.4103.116
 Hazel 4.4.5
 IINA 0.0.14.1-55

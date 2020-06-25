@@ -60,7 +60,7 @@ jobs:
           rm -f result.tmp ${{ env.LOG_FILE }}
 
       - name: Commit version record files
-        uses: stefanzweifel/git-auto-commit-action@v4.1.6
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: 'chore: Apply version record files changes'
 
@@ -69,9 +69,9 @@ jobs:
           file_pattern: ./*.txt
           repository: .
 
-          commit_user_name: GitHub Actions Bot
+          commit_user_name: GitHub Actions
           commit_user_email: actions@github.com
-          commit_author: Guizai <guizaicn@gmail.com>
+          commit_author: GitHub Actions <actions@github.com>
 
       # - name: nvchecker-action
       #   id: nvchecker-action

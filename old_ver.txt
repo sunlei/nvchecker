@@ -6,6 +6,7 @@ Arq-Backup 6.2.30
 Beancount 2.3.0
 BorgBackup 1.1.13
 Burp-Suite Professional / Community 2020.5.1
+Celery 4.4.6
 ClashX 1.20.4
 CleanMyMac-X 4.6.7
 Confluence 7.5.2
@@ -85,6 +86,7 @@ iPadOS-Beta 14 beta (18A5301v)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver 2.0.1
+kombu 4.6.11
 macOS Catalina 10.15.5 (19F101)
 macOS-Beta Xcode 12 for macOS Universal Apps beta (12A8158a)
 nvALT 2.2.8-128

@@ -60,7 +60,7 @@ Surge-Mac-Stable 3.5.3-1094
 Syncthing-for-macOS v1.6.1-1-100600101
 TablePlus 3.6.2-322
 The-Unarchiver 4.2.2-129
-Tower-for-Mac 4.5-231
+Tower-for-Mac 5.0-240
 Transmit 5.6.5
 Typora 0.9.9.33.2-4442
 UniFi-Network-Controller 5.12.66

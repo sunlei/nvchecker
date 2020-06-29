@@ -92,7 +92,7 @@ macOS Catalina 10.15.5 (19F101)
 macOS-Beta Xcode 12 for macOS Universal Apps beta (12A8158a)
 nvALT 2.2.8-128
 nvchecker v1.6
-snell v2.0.1
+snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0
 trojan-go v0.7.7

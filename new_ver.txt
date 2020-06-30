@@ -81,23 +81,23 @@ docker-self-service-password 2.7
 iExplorer 4.3.8
 iMazing 2.11.7-13717
 iOS 13.5.1 (17F80)
-iOS-Beta 14 beta (18A5301v)
+iOS-Beta 13.6 beta 3 (17G5059c)
 iPadOS null
-iPadOS-Beta 14 beta (18A5301v)
+iPadOS-Beta 13.6 beta 3 (17G5059c)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver 2.0.1
 kombu 4.6.11
 macOS Catalina 10.15.5 (19F101)
-macOS-Beta Xcode 12 for macOS Universal Apps beta (12A8158a)
+macOS-Beta Catalina 10.15.6 beta 3 (19G60d)
 nvALT 2.2.8-128
 nvchecker v1.6
 snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0
-trojan-go v0.7.7
+trojan-go v0.7.8
 tvOS 13.4.6 (17L570)
-tvOS-Beta 14 beta (18J5313t)
+tvOS-Beta 13.4.8 beta 3 (17M5558b)
 watchOS 6.2.6 (17T620)
-watchOS-Beta 7 beta (18R5310a)
+watchOS-Beta 6.2.8 beta 3 (17U5559d)
 webhook 2.7.0

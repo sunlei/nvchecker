@@ -16,7 +16,7 @@ DEVONthink 3.5.1
 DaisyDisk 4.10
 Dash-for-macOS 5.1.7-932
 DataGrip 2020.1.5-201.8538.4
-Django 3.0.7
+Django 3.0.8
 Docker-for-Mac 2.3.0.3-45519
 Dropbox 100.4.409
 FilePane 1.10.7
@@ -43,7 +43,7 @@ Microsoft-Office 16.38.20061401
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.18
-Netch 1.4.10
+Netch 1.4.11
 NeteaseMusic 2.3.2-832
 Notion 2.0.7
 PyCharm 2020.1.2-201.7846.77
@@ -55,7 +55,7 @@ Sketch 66.1-97080
 Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
-Surge-Mac-Beta 3.5.4-1107
+Surge-Mac-Beta 3.5.4-1109
 Surge-Mac-Stable 3.5.3-1094
 Syncthing-for-macOS v1.6.1-1-100600101
 TablePlus 3.6.2-322

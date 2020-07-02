@@ -51,7 +51,7 @@ QQ-for-Mac 6.6.7
 Royal-TSX 4.3.1-4.3.1.1000
 Sentry 20.6.0
 Setapp 2.5.7
-Sketch 67-100408
+Sketch 67.1-100412
 Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -91,7 +91,7 @@ kombu 4.6.11
 macOS Catalina 10.15.5 (19F101)
 macOS-Beta Catalina 10.15.6 beta 3 (19G60d)
 nvALT 2.2.8-128
-nvchecker v1.6
+nvchecker v1.7
 snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0

@@ -72,7 +72,7 @@ Xcode 11.5 (11E608c)
 Xcode-Beta 12 beta (12A6159)
 aText 2.36.3-101
 coconutBattery 3.9.0
-docker-compose 1.26.1
+docker-compose 1.26.2
 docker-jumpserver 2.0.1
 docker-openldap v1.4.0
 docker-openldap-backup v1.3.0

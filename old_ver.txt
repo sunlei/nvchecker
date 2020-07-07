@@ -1,4 +1,4 @@
-1Password-for-Mac 7.5
+1Password-for-Mac 7.6
 Alfred 4.0.9
 AriaNg 1.1.6
 AriaNg-Native 1.1.6
@@ -69,7 +69,7 @@ Vorta-Backup-Client v0.6.26
 WeChat-Work 3.0.25.2257
 Wechat-for-Mac 2.4.1.18-14491
 Xcode 11.5 (11E608c)
-Xcode-Beta 12 beta (12A6159)
+Xcode-Beta 12 beta 2 (12A6163b)
 aText 2.36.3-101
 coconutBattery 3.9.0
 docker-compose 1.26.2
@@ -81,15 +81,15 @@ docker-self-service-password 2.7
 iExplorer 4.3.8
 iMazing 2.11.7-13717
 iOS 13.5.1 (17F80)
-iOS-Beta 13.6 beta 3 (17G5059c)
+iOS-Beta 14 beta 2 (18A5319i)
 iPadOS null
-iPadOS-Beta 13.6 beta 3 (17G5059c)
+iPadOS-Beta 14 beta 2 (18A5319i)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver 2.0.1
 kombu 4.6.11
 macOS Catalina 10.15.5 (19F101)
-macOS-Beta Catalina 10.15.6 beta 3 (19G60d)
+macOS-Beta Xcode 12 for macOS Universal Apps beta 2 (12A8161k)
 nvALT 2.2.8-128
 nvchecker v1.7
 snell v2.0.3
@@ -97,7 +97,7 @@ tornado 6.0.4
 trojan-gfw v1.16.0
 trojan-go v0.7.8
 tvOS 13.4.6 (17L570)
-tvOS-Beta 13.4.8 beta 3 (17M5558b)
+tvOS-Beta 14 beta 2 (18J5331g)
 watchOS 6.2.6 (17T620)
-watchOS-Beta 6.2.8 beta 3 (17U5559d)
+watchOS-Beta 7 beta 2 (18R5327h)
 webhook 2.7.0

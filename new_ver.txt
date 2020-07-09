@@ -1,5 +1,5 @@
 1Password-for-Mac 7.6
-Alfred 4.0.9
+Alfred 4.1
 AriaNg 1.1.6
 AriaNg-Native 1.1.6
 Arq-Backup 6.2.30
@@ -24,7 +24,7 @@ Firefox 78.0.2
 Fork 1.0.95
 ForkLift 3.4-205
 GitLab v13.1.1-ee
-GitLab-Release GitLab Security Release: 13.1.3, 13.0.9 and 12.10.14
+GitLab-Release GitLab Patch Release: 13.0.10
 GoLand 2020.1.4-201.8538.43
 Google-Chrome-Beta 84.0.4147.85
 Google-Chrome-Dev 85.0.4183.15
@@ -80,24 +80,24 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 iExplorer 4.3.8
 iMazing 2.11.7-13717
-iOS 13.5.1 (17F80)
-iOS-Beta 14 beta 2 (18A5319i)
+iOS null
+iOS-Beta 13.6 beta 4 (17G68)
 iPadOS null
-iPadOS-Beta 14 beta 2 (18A5319i)
+iPadOS-Beta 13.6 beta 4 (17G68)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.0.2
 kombu 4.6.11
 macOS Catalina 10.15.5 (19F101)
-macOS-Beta Xcode 12 for macOS Universal Apps beta 2 (12A8161k)
+macOS-Beta Catalina 10.15.6 beta 4 (19G71a)
 nvALT 2.2.8-128
 nvchecker v1.7
 snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0
 trojan-go v0.7.8
-tvOS 13.4.6 (17L570)
-tvOS-Beta 14 beta 2 (18J5331g)
-watchOS 6.2.6 (17T620)
-watchOS-Beta 7 beta 2 (18R5327h)
+tvOS null
+tvOS-Beta 13.4.8 beta 4 (17M61)
+watchOS 5.3.5 (16U652)
+watchOS-Beta 6.2.8 beta 4 (17U63)
 webhook 2.7.0

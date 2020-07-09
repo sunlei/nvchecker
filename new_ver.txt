@@ -46,7 +46,7 @@ Navicat-Premium 15.0.18
 Netch 1.4.11
 NeteaseMusic 2.3.2-832
 Notion 2.0.7
-PyCharm 2020.1.2-201.7846.77
+PyCharm 2020.1.3-201.8538.36
 QQ-for-Mac 6.6.7
 Royal-TSX 4.3.1-4.3.1.1000
 Sentry 20.6.0

@@ -2,7 +2,7 @@
 Alfred 4.1
 AriaNg 1.1.6
 AriaNg-Native 1.1.6
-Arq-Backup 6.2.30
+Arq-Backup 6.2.44
 Beancount 2.3.0
 BorgBackup 1.1.13
 Burp-Suite Professional / Community 2020.6
@@ -64,7 +64,7 @@ Tower-for-Mac 5.0-240
 Transmit 5.6.5
 Typora 0.9.9.33.2-4442
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.46.1
+Visual-Studio-Code 1.47.0
 Vorta-Backup-Client v0.6.26
 WeChat-Work 3.0.25.2257
 Wechat-for-Mac 2.4.1.18-14491

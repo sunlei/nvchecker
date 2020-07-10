@@ -57,12 +57,12 @@ SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.5-1120
 Surge-Mac-Stable 3.5.4-1119
-Syncthing-for-macOS v1.6.1-1-100600101
+Syncthing-for-macOS v1.7.0-1-100700001
 TablePlus 3.6.2-322
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.0-240
 Transmit 5.6.5
-Typora 0.9.9.33.2-4442
+Typora 0.9.9.34-4498
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.47.0
 Vorta-Backup-Client v0.6.26

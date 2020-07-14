@@ -29,7 +29,7 @@ GitLab-Runner-Helm-Chart v0.19.0-rc1
 GoLand 2020.1.4-201.8538.43
 Google-Chrome-Beta 84.0.4147.89
 Google-Chrome-Dev 85.0.4183.15
-Google-Chrome-Stable 83.0.4103.116
+Google-Chrome-Stable 84.0.4147.89
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.10.0
@@ -40,7 +40,7 @@ Manico 2.7.3-388
 Marked 2.5.43-990
 Marked-2 2.5.43-990
 Metabase v0.35.4
-Microsoft-Office 16.38.20061401
+Microsoft-Office 16.39.20071300
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.18
@@ -58,7 +58,7 @@ Sketch 67.2-100443
 Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
-Surge-Mac-Beta 3.5.5-1120
+Surge-Mac-Beta 3.5.5-1121
 Surge-Mac-Stable 3.5.4-1119
 Syncthing-for-macOS v1.7.0-1-100700001
 TablePlus 3.6.2-322
@@ -67,7 +67,7 @@ Tower-for-Mac 5.0-240
 Transmit 5.6.5
 Typora 0.9.9.34.1-4500
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.47.0
+Visual-Studio-Code 1.47.1
 Vorta-Backup-Client v0.6.26
 Vue.js 2.6.11
 Vuex 3.5.1
@@ -106,7 +106,7 @@ nvchecker v1.7
 snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0
-trojan-go v0.8.0
+trojan-go v0.8.1
 tvOS null
 tvOS-Beta 13.4.8 beta 4 (17M61)
 uview-ui 1.5.1

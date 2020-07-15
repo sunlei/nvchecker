@@ -14,7 +14,7 @@ CotEditor-Beta 3.9.2-425
 CotEditor-Stable 3.9.2-425
 DEVONthink 3.5.1
 DaisyDisk 4.10
-Dash-for-macOS 5.2.0-934
+Dash-for-macOS 5.2.0-936
 DataGrip 2020.1.5-201.8538.4
 Django 3.0.8
 Docker-for-Mac 2.3.0.3-45519
@@ -32,7 +32,7 @@ Google-Chrome-Dev 85.0.4183.15
 Google-Chrome-Stable 84.0.4147.89
 Hazel 4.4.5
 IINA 0.0.14.1-55
-Jira 8.10.0
+Jira 8.11.0
 Kaleidoscope 2.3.1-1441
 Little-Snitch 4.5.2-5474
 MWeb 3.4.1

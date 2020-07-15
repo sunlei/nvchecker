@@ -14,7 +14,7 @@ CotEditor-Beta 3.9.2-425
 CotEditor-Stable 3.9.2-425
 DEVONthink 3.5.1
 DaisyDisk 4.10
-Dash-for-macOS 5.1.7-932
+Dash-for-macOS 5.2.0-934
 DataGrip 2020.1.5-201.8538.4
 Django 3.0.8
 Docker-for-Mac 2.3.0.3-45519

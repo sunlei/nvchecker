@@ -82,7 +82,7 @@ coconutBattery 3.9.0
 @dcloudio/uni-h5-ui 2.0.0-27920200618002
 @dcloudio/uni-mp-weixin 2.0.0-27920200618002
 docker-compose 1.26.2
-docker-jumpserver 2.0.2
+docker-jumpserver 2.1.0
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
 docker-openldap-backup v1.3.0

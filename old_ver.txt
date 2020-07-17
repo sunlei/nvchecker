@@ -5,7 +5,7 @@ AriaNg-Native 1.1.6
 Arq-Backup 6.2.46
 Beancount 2.3.0
 BorgBackup 1.1.13
-Burp-Suite Professional / Community 2020.6
+Burp-Suite Professional / Community 2020.7
 Celery 4.4.6
 ClashX 1.20.4
 CleanMyMac-X 4.6.9
@@ -50,7 +50,7 @@ Notion 2.0.7
 PyCharm 2020.1.3-201.8538.36
 QQ-for-Mac 6.6.8
 React 16.13.1
-Royal-TSX 4.3.1-4.3.1.1000
+Royal-TSX 4.3.2-4.3.2.1000
 Sentry 20.7.0
 Sequel-Ace 2.1.4
 Setapp 2.5.7

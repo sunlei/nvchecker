@@ -51,7 +51,7 @@ PyCharm 2020.1.3-201.8538.36
 QQ-for-Mac 6.6.8
 React 16.13.1
 Royal-TSX 4.3.2-4.3.2.1000
-Sentry 20.7.0
+Sentry 20.7.1
 Sequel-Ace 2.1.4
 Setapp 2.5.7
 Sketch 67.2-100443

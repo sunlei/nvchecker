@@ -25,7 +25,7 @@ Fork 1.0.95
 ForkLift 3.4-205
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.0.10
-GitLab-Runner-Helm-Chart v0.19.0-rc2
+GitLab-Runner-Helm-Chart v0.19.0
 GoLand 2020.1.4-201.8538.43
 Google-Chrome-Beta 84.0.4147.89
 Google-Chrome-Dev 85.0.4183.26
@@ -63,7 +63,7 @@ Surge-Mac-Stable 3.5.5-1123
 Syncthing-for-macOS v1.7.0-1-100700001
 TablePlus 3.6.2-322
 The-Unarchiver 4.2.2-129
-Tower-for-Mac 5.0-240
+Tower-for-Mac 5.1-245
 Transmit 5.6.5
 Typora 0.9.9.34.1-4500
 UniFi-Network-Controller 5.12.66

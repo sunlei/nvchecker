@@ -18,7 +18,7 @@ Dash-for-macOS 5.2.0-936
 DataGrip 2020.1.5-201.8538.4
 Django 3.0.8
 Docker-for-Mac 2.3.0.3-45519
-Dropbox 102.3.429
+Dropbox 101.4.434
 FilePane 1.10.7
 Firefox 78.0.2
 Fork 1.0.95

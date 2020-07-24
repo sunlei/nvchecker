@@ -21,7 +21,7 @@ Docker-for-Mac 2.3.0.3-45519
 Dropbox 102.4.431
 FilePane 1.10.7
 Firefox 78.0.2
-Fork 1.0.95
+Fork 1.0.96
 ForkLift 3.4-205
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.1.5

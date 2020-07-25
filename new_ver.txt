@@ -65,7 +65,7 @@ TablePlus 3.6.2-322
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.1-245
 Transmit 5.6.5
-Typora 0.9.9.34.1-4500
+Typora 0.9.9.34.2-4509
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.47.2
 Vorta-Backup-Client v0.6.26

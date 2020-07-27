@@ -21,7 +21,7 @@ Docker-for-Mac 2.3.0.3-45519
 Dropbox 102.4.431
 FilePane 1.10.7
 Firefox 78.0.2
-Fork 1.0.96
+Fork 1.0.95
 ForkLift 3.4-205
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.1.5
@@ -58,8 +58,8 @@ Sketch 67.2-100443
 Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
-Surge-Mac-Beta 3.5.5-1123
-Surge-Mac-Stable 3.5.5-1123
+Surge-Mac-Beta 3.5.7-1129
+Surge-Mac-Stable 3.5.7-1129
 Syncthing-for-macOS v1.7.0-1-100700001
 TablePlus 3.6.2-322
 The-Unarchiver 4.2.2-129
@@ -78,9 +78,9 @@ Xcode-Beta 12 beta 3 (12A8169g)
 aText 2.36.3-101
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
-@dcloudio/uni-h5 2.0.0-27920200618002
+@dcloudio/uni-h5 2.0.0-28220200724002
 @dcloudio/uni-h5-ui 2.0.0-27920200618002
-@dcloudio/uni-mp-weixin 2.0.0-27920200618002
+@dcloudio/uni-mp-weixin 2.0.0-28220200724002
 docker-compose 1.26.2
 docker-jumpserver 2.1.0
 docker-nexus3 3.13.0-02

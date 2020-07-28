@@ -75,7 +75,7 @@ WeChat-Work 3.0.26.2273
 Wechat-for-Mac 2.4.2.18-15063
 Xcode 11.6 (11E708)
 Xcode-Beta 12 beta 3 (12A8169g)
-aText 2.36.3-101
+aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
 @dcloudio/uni-h5 2.0.0-28220200724002

@@ -21,7 +21,7 @@ Docker-for-Mac 2.3.0.4-46911
 Dropbox 102.4.431
 FilePane 1.10.7
 Firefox 78.0.2
-Fork 1.0.95
+Fork 1.0.96.1
 ForkLift 3.4-205
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.1.5
@@ -78,9 +78,9 @@ Xcode-Beta 12 beta 3 (12A8169g)
 aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
-@dcloudio/uni-h5 2.0.0-28220200724002
+@dcloudio/uni-h5 2.0.0-28320200727001
 @dcloudio/uni-h5-ui 2.0.0-27920200618002
-@dcloudio/uni-mp-weixin 2.0.0-28220200724002
+@dcloudio/uni-mp-weixin 2.0.0-28320200727001
 docker-compose 1.26.2
 docker-jumpserver 2.1.0
 docker-nexus3 3.13.0-02
@@ -109,7 +109,7 @@ trojan-gfw v1.16.0
 trojan-go v0.8.1
 tvOS 13.4.8 (17M61)
 tvOS-Beta 14 beta 3 (18J5344d)
-uview-ui 1.5.5
+uview-ui 1.5.6
 @vue/cli 4.4.6
 watchOS 6.2.8 (17U63)
 watchOS-Beta 7 beta 3 (18R5340d)

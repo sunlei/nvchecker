@@ -18,7 +18,7 @@ Dash-for-macOS 5.2.0-936
 DataGrip 2020.2-202.6397.93
 Django 3.0.8
 Docker-for-Mac 2.3.0.4-46911
-Dropbox 102.4.431
+Dropbox 103.3.377
 FilePane 1.10.7
 Firefox 79.0
 Fork 1.0.96.1
@@ -39,7 +39,7 @@ MWeb 3.4.1
 Manico 2.7.3-388
 Marked 2.5.43-990
 Marked-2 2.5.43-990
-Metabase v0.36.0
+Metabase v0.36.1
 Microsoft-Office 16.39.20071300
 Motrix v1.5.15
 Movist-Pro 2.2.19-146

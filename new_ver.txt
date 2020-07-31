@@ -6,7 +6,7 @@ Arq-Backup 6.2.46
 Beancount 2.3.1
 BorgBackup 1.1.13
 Burp-Suite Professional / Community 2020.7
-Celery 4.4.6
+Celery 4.4.7
 ClashX 1.20.4
 CleanMyMac-X 4.6.10
 Confluence 7.6.2
@@ -61,7 +61,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.7-1129
 Surge-Mac-Stable 3.5.7-1129
 Syncthing-for-macOS v1.7.0-1-100700001
-TablePlus 3.6.2-322
+TablePlus 3.7.0-330
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.1-245
 Transmit 5.6.5

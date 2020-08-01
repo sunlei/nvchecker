@@ -58,7 +58,7 @@ Sketch 67.2-100443
 Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
-Surge-Mac-Beta 3.5.7-1129
+Surge-Mac-Beta 3.5.8-1130
 Surge-Mac-Stable 3.5.7-1129
 Syncthing-for-macOS v1.7.0-1-100700001
 TablePlus 3.7.0-330

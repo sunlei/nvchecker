@@ -16,7 +16,7 @@ DEVONthink 3.5.1
 DaisyDisk 4.10
 Dash-for-macOS 5.2.0-936
 DataGrip 2020.2-202.6397.93
-Django 3.0.8
+Django 3.0.9
 Docker-for-Mac 2.3.0.4-46911
 Dropbox 102.4.431
 FilePane 1.10.7

@@ -18,13 +18,13 @@ Dash-for-macOS 5.2.0-936
 DataGrip 2020.2-202.6397.93
 Django 3.1
 Docker-for-Mac 2.3.0.4-46911
-Dropbox 102.4.431
+Dropbox 103.4.383
 FilePane 1.10.7
 Firefox 79.0
 Fork 1.0.96.1
 ForkLift 3.4-205
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.2.2
+GitLab-Release GitLab Security Release: 13.2.3, 13.1.6 and 13.0.12
 GitLab-Runner-Helm-Chart v0.19.1
 GoLand 2020.2-202.6397.65
 Google-Chrome-Beta 85.0.4183.59

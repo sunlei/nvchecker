@@ -29,7 +29,7 @@ GitLab-Runner-Helm-Chart v0.19.2
 GoLand 2020.2.1-202.6397.124
 Google-Chrome-Beta 85.0.4183.59
 Google-Chrome-Dev 86.0.4221.3
-Google-Chrome-Stable 84.0.4147.105
+Google-Chrome-Stable 84.0.4147.125
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.11.0
@@ -46,7 +46,7 @@ Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.20
 Netch 1.4.12
 NeteaseMusic 2.3.2-832
-Notion 2.0.7
+Notion 2.0.8
 PyCharm 2020.2-202.6397.98
 QQ-for-Mac 6.6.8
 React 16.13.1

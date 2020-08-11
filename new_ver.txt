@@ -28,7 +28,7 @@ GitLab-Release GitLab Patch Release: 13.2.4
 GitLab-Runner-Helm-Chart v0.20.0-rc1
 GoLand 2020.2.1-202.6397.124
 Google-Chrome-Beta 85.0.4183.59
-Google-Chrome-Dev 86.0.4221.3
+Google-Chrome-Dev 86.0.4229.0
 Google-Chrome-Stable 84.0.4147.125
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -40,7 +40,7 @@ Manico 2.7.3-388
 Marked 2.5.43-990
 Marked-2 2.5.43-990
 Metabase v0.36.3
-Microsoft-Office 16.39.20071300
+Microsoft-Office 16.40.20081000
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.20

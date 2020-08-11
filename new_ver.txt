@@ -14,7 +14,7 @@ CotEditor-Beta 3.9.3-427
 CotEditor-Stable 3.9.3-427
 DEVONthink 3.5.1
 DaisyDisk 4.10
-Dash-for-macOS 5.2.0-936
+Dash-for-macOS 5.3.0-938
 DataGrip 2020.2-202.6397.93
 Django 3.1
 Docker-for-Mac 2.3.0.4-46911
@@ -25,7 +25,7 @@ Fork 1.0.96.1
 ForkLift 3.4-205
 GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 13.2.3, 13.1.6 and 13.0.12
-GitLab-Runner-Helm-Chart v0.19.2
+GitLab-Runner-Helm-Chart v0.20.0-rc1
 GoLand 2020.2.1-202.6397.124
 Google-Chrome-Beta 85.0.4183.59
 Google-Chrome-Dev 86.0.4221.3
@@ -54,7 +54,7 @@ Royal-TSX 4.3.3-4.3.3.1000
 Sentry 20.7.2
 Sequel-Ace 2.1.5
 Setapp 2.5.7
-Sketch 67.2-100443
+Sketch 68-102490
 Snipaste 2.4-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211

@@ -18,7 +18,7 @@ Dash-for-macOS 5.3.0-938
 DataGrip 2020.2-202.6397.93
 Django 3.1
 Docker-for-Mac 2.3.0.4-46911
-Dropbox 103.4.383
+Dropbox 104.4.175
 FilePane 1.10.7
 Firefox 79.0
 Fork 1.0.96.1
@@ -27,7 +27,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.2.4
 GitLab-Runner-Helm-Chart v0.20.0-rc1
 GoLand 2020.2.1-202.6397.124
-Google-Chrome-Beta 85.0.4183.59
+Google-Chrome-Beta 85.0.4183.69
 Google-Chrome-Dev 86.0.4229.0
 Google-Chrome-Stable 84.0.4147.125
 Hazel 4.4.5
@@ -90,15 +90,15 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 iExplorer 4.3.8
 iMazing 2.11.8-13733
-iOS 13.6 (17G68)
+iOS 13.6.1 (17G80)
 iOS-Beta 14 beta 4 (18A5342e)
-iPadOS 13.6 (17G68)
+iPadOS 13.6.1 (17G80)
 iPadOS-Beta 14 beta 4 (18A5342e)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.1.1
 kombu 5.0.0
-macOS Catalina 10.15.6 (19G73)
+macOS Catalina 10.15.6 (19G2021)
 macOS-Beta Big Sur 11 beta 4 (20A5343i)
 mas v1.7.0
 nvALT 2.2.8-128

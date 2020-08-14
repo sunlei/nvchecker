@@ -78,9 +78,9 @@ Xcode-Beta 12 beta 4 (12A8179i)
 aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
-@dcloudio/uni-h5 2.0.0-28520200811001
+@dcloudio/uni-h5 2.0.0-28620200814002
 @dcloudio/uni-h5-ui 2.0.0-27920200618002
-@dcloudio/uni-mp-weixin 2.0.0-28520200811001
+@dcloudio/uni-mp-weixin 2.0.0-28620200814002
 docker-compose 1.26.2
 docker-jumpserver v2.1.2
 docker-nexus3 3.13.0-02
@@ -89,7 +89,7 @@ docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 iExplorer 4.3.8
-iMazing 2.11.8-13733
+iMazing 2.12.0-13794
 iOS 13.6.1 (17G80)
 iOS-Beta 14 beta 4 (18A5342e)
 iPadOS 13.6.1 (17G80)

@@ -18,7 +18,7 @@ Dash-for-macOS 5.3.0-938
 DataGrip 2020.2-202.6397.93
 Django 3.1
 Docker-for-Mac 2.3.0.4-46911
-Dropbox 104.4.175
+Dropbox 105.3.379
 FilePane 1.10.7
 Firefox 79.0
 Fork 1.0.96.1
@@ -78,9 +78,9 @@ Xcode-Beta 12 beta 4 (12A8179i)
 aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
-@dcloudio/uni-h5 2.0.0-28620200814003
-@dcloudio/uni-h5-ui 2.0.0-28620200814003
-@dcloudio/uni-mp-weixin 2.0.0-28620200814003
+@dcloudio/uni-h5 2.0.0-28620200814004
+@dcloudio/uni-h5-ui 2.0.0-28620200814004
+@dcloudio/uni-mp-weixin 2.0.0-28620200814004
 docker-compose 1.26.2
 docker-jumpserver v2.1.2
 docker-nexus3 3.13.0-02

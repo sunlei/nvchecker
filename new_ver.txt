@@ -2,7 +2,7 @@
 Alfred 4.1
 AriaNg 1.1.6
 AriaNg-Native 1.1.6
-Arq-Backup 6.2.46
+Arq-Backup 6.2.52
 Beancount 2.3.1
 BorgBackup 1.1.13
 Burp-Suite Professional / Community 2020.8
@@ -18,7 +18,7 @@ Dash-for-macOS 5.3.0-938
 DataGrip 2020.2-202.6397.93
 Django 3.1
 Docker-for-Mac 2.3.0.4-46911
-Dropbox 105.3.379
+Dropbox 104.4.175
 FilePane 1.10.7
 Firefox 79.0
 Fork 1.0.96.1

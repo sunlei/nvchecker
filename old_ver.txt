@@ -39,7 +39,7 @@ MWeb 3.4.1
 Manico 2.7.3-388
 Marked 2.6.0-1004
 Marked-2 2.6.0-1004
-Metabase v0.36.3
+Metabase v0.36.4
 Microsoft-Office 16.40.20081000
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
@@ -64,7 +64,7 @@ Syncthing-for-macOS v1.7.0-1-100700001
 TablePlus 3.7.1-332
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.1-245
-Transmit 5.6.5
+Transmit 5.6.6
 Typora 0.9.9.34.2-4509
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.48.0

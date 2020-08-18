@@ -78,9 +78,9 @@ Xcode-Beta 12 beta 4 (12A8179i)
 aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
-@dcloudio/uni-h5 2.0.0-28620200814004
-@dcloudio/uni-h5-ui 2.0.0-28620200814004
-@dcloudio/uni-mp-weixin 2.0.0-28620200814004
+@dcloudio/uni-h5 2.0.0-28620200814005
+@dcloudio/uni-h5-ui 2.0.0-28620200814005
+@dcloudio/uni-mp-weixin 2.0.0-28620200814005
 docker-compose 1.26.2
 docker-jumpserver v2.1.2
 docker-nexus3 3.13.0-02
@@ -97,7 +97,7 @@ iPadOS-Beta 14 beta 4 (18A5342e)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.1.2
-kombu 5.0.0
+kombu 4.6.11
 macOS Catalina 10.15.6 (19G2021)
 macOS-Beta Big Sur 11 beta 4 (20A5343i)
 mas v1.7.0

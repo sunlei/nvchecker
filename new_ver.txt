@@ -8,7 +8,7 @@ BorgBackup 1.1.13
 Burp-Suite Professional / Community 2020.8
 Celery 4.4.7
 ClashX 1.20.4
-CleanMyMac-X 4.6.10
+CleanMyMac-X 4.6.11-40611.0.2008181744
 Confluence 7.6.2
 CotEditor-Beta 3.9.4-430
 CotEditor-Stable 3.9.4-430
@@ -74,7 +74,7 @@ Vuex 3.5.1
 WeChat-Work 3.0.28.2286
 Wechat-for-Mac 2.4.2.18-15063
 Xcode 11.6 (11E708)
-Xcode-Beta 12 beta 4 (12A8179i)
+Xcode-Beta 12 beta 5 (12A8189h)
 aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
@@ -91,9 +91,9 @@ docker-self-service-password 2.7
 iExplorer 4.3.8
 iMazing 2.12.0-13794
 iOS 13.6.1 (17G80)
-iOS-Beta 14 beta 4 (18A5342e)
+iOS-Beta 14 beta 5 (18A5351d)
 iPadOS 13.6.1 (17G80)
-iPadOS-Beta 14 beta 4 (18A5342e)
+iPadOS-Beta 14 beta 5 (18A5351d)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.1.2
@@ -108,9 +108,9 @@ tornado 6.0.4
 trojan-gfw v1.16.0
 trojan-go v0.8.1
 tvOS 13.4.8 (17M61)
-tvOS-Beta 14 beta 4 (18J5354d)
+tvOS-Beta 14 beta 5 (18J5364d)
 uview-ui 1.6.3
 @vue/cli 4.5.4
-watchOS 6.2.8 (17U63)
-watchOS-Beta 7 beta 4 (18R5350e)
+watchOS 5.3.5 (16U652)
+watchOS-Beta 7 beta 5 (18R5361d)
 webhook 2.7.0

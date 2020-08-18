@@ -71,7 +71,7 @@ Visual-Studio-Code 1.48.0
 Vorta-Backup-Client v0.6.26
 Vue.js 2.6.11
 Vuex 3.5.1
-WeChat-Work 3.0.27.2279
+WeChat-Work 3.0.28.2286
 Wechat-for-Mac 2.4.2.18-15063
 Xcode 11.6 (11E708)
 Xcode-Beta 12 beta 4 (12A8179i)
@@ -110,7 +110,7 @@ trojan-go v0.8.1
 tvOS 13.4.8 (17M61)
 tvOS-Beta 14 beta 4 (18J5354d)
 uview-ui 1.6.2
-@vue/cli 4.5.3
+@vue/cli 4.5.4
 watchOS 6.2.8 (17U63)
 watchOS-Beta 7 beta 4 (18R5350e)
 webhook 2.7.0

@@ -24,12 +24,12 @@ Firefox 79.0
 Fork 1.0.96.1
 ForkLift 3.4-205
 GitLab v13.1.1-ee
-GitLab-Release GitLab Security Release: 13.2.5, 13.1.7, 13.0.13
+GitLab-Release GitLab Critical Security Release: 13.2.6, 13.1.8, 13.0.14
 GitLab-Runner-Helm-Chart v0.20.0-rc1
 GoLand 2020.2.2-202.6948.9
 Google-Chrome-Beta 85.0.4183.69
 Google-Chrome-Dev 86.0.4229.0
-Google-Chrome-Stable 84.0.4147.125
+Google-Chrome-Stable 84.0.4147.135
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.11.1

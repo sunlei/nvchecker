@@ -27,7 +27,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.2.6, 13.1.8, 13.0.14
 GitLab-Runner-Helm-Chart v0.20.0-rc1
 GoLand 2020.2.2-202.6948.9
-Google-Chrome-Beta 85.0.4183.69
+Google-Chrome-Beta 85.0.4183.76
 Google-Chrome-Dev 86.0.4229.0
 Google-Chrome-Stable 84.0.4147.135
 Hazel 4.4.5
@@ -78,9 +78,9 @@ Xcode-Beta 12 beta 5 (12A8189h)
 aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
-@dcloudio/uni-h5 2.0.0-28620200814005
+@dcloudio/uni-h5 2.0.0-28720200819001
 @dcloudio/uni-h5-ui 2.0.0-28620200814005
-@dcloudio/uni-mp-weixin 2.0.0-28620200814005
+@dcloudio/uni-mp-weixin 2.0.0-28720200819001
 docker-compose 1.26.2
 docker-jumpserver v2.1.2
 docker-nexus3 3.13.0-02

@@ -99,7 +99,7 @@ iTerm2 2.1.4
 jumpserver v2.1.2
 kombu 5.0.0
 macOS Catalina 10.15.6 (19G2021)
-macOS-Beta Big Sur 11 beta 4 (20A5343i)
+macOS-Beta Big Sur 11 beta 5 (20A5354i)
 mas v1.7.0
 nvALT 2.2.8-128
 nvchecker v1.7

@@ -5,7 +5,7 @@ AriaNg-Native 1.1.6
 Arq-Backup 6.2.52
 Beancount 2.3.1
 BorgBackup 1.1.13
-Burp-Suite Professional / Community 2020.8
+Burp-Suite Professional / Community 2020.8.1
 Celery 4.4.7
 ClashX 1.20.4
 CleanMyMac-X 4.6.11-40611.0.2008181744
@@ -15,7 +15,7 @@ CotEditor-Stable 3.9.4-430
 DEVONthink 3.5.2
 DaisyDisk 4.10
 Dash-for-macOS 5.3.0-938
-DataGrip 2020.2.1-202.6948.45
+DataGrip 2020.2.2-202.6948.53
 Django 3.1
 Docker-for-Mac 2.3.0.4-46911
 Dropbox 104.4.175
@@ -69,7 +69,7 @@ Typora 0.9.9.34.2-4509
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.48.0
 Vorta-Backup-Client v0.6.26
-Vue.js 2.6.11
+Vue.js 2.6.12
 Vuex 3.5.1
 WeChat-Work 3.0.28.2286
 Wechat-for-Mac 2.4.2.18-15063
@@ -82,7 +82,7 @@ coconutBattery 3.9.0
 @dcloudio/uni-h5-ui 2.0.0-28620200814005
 @dcloudio/uni-mp-weixin 2.0.0-28720200819001
 docker-compose 1.26.2
-docker-jumpserver v2.1.2
+docker-jumpserver v2.2.0
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
 docker-openldap-backup v1.3.0

@@ -28,7 +28,7 @@ GitLab-Release GitLab Critical Security Release: 13.2.6, 13.1.8, 13.0.14
 GitLab-Runner-Helm-Chart v0.20.0
 GoLand 2020.2.2-202.6948.9
 Google-Chrome-Beta 85.0.4183.76
-Google-Chrome-Dev 86.0.4229.0
+Google-Chrome-Dev 86.0.4238.0
 Google-Chrome-Stable 84.0.4147.135
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -67,7 +67,7 @@ Tower-for-Mac 5.1-245
 Transmit 5.6.6
 Typora 0.9.9.34.2-4509
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.48.0
+Visual-Studio-Code 1.48.1
 Vorta-Backup-Client v0.6.26
 Vue.js 2.6.12
 Vuex 3.5.1

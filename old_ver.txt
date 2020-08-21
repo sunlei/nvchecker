@@ -63,7 +63,7 @@ Surge-Mac-Stable 3.5.7-1129
 Syncthing-for-macOS v1.8.0-1-100800001
 TablePlus 3.7.1-332
 The-Unarchiver 4.2.2-129
-Tower-for-Mac 5.1-245
+Tower-for-Mac 5.2-247
 Transmit 5.6.6
 Typora 0.9.9.34.2-4509
 UniFi-Network-Controller 5.12.66
@@ -78,9 +78,9 @@ Xcode-Beta 12 beta 5 (12A8189h)
 aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
-@dcloudio/uni-h5 2.0.0-28720200819001
+@dcloudio/uni-h5 2.0.0-28820200820001
 @dcloudio/uni-h5-ui 2.0.0-28620200814005
-@dcloudio/uni-mp-weixin 2.0.0-28720200819001
+@dcloudio/uni-mp-weixin 2.0.0-28820200820001
 docker-compose 1.26.2
 docker-jumpserver v2.2.0
 docker-nexus3 3.13.0-02

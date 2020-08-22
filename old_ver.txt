@@ -52,7 +52,7 @@ QQ-for-Mac 6.6.8
 React 16.13.1
 Royal-TSX 4.3.3-4.3.3.1000
 Sentry 20.8.0
-Sequel-Ace 2.1.5
+Sequel-Ace 2.1.6
 Setapp 2.5.7
 Sketch 68-102490
 Snipaste 2.5-Beta

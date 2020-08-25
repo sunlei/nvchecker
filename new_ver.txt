@@ -29,7 +29,7 @@ GitLab-Runner-Helm-Chart v0.20.0
 GoLand 2020.2.2-202.6948.9
 Google-Chrome-Beta 85.0.4183.83
 Google-Chrome-Dev 86.0.4238.0
-Google-Chrome-Stable 84.0.4147.135
+Google-Chrome-Stable 85.0.4183.83
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.11.1
@@ -37,8 +37,8 @@ Kaleidoscope 2.3.1-1441
 Little-Snitch 4.5.2-5474
 MWeb 3.4.1
 Manico 2.7.3-388
-Marked 2.6.0-1004
-Marked-2 2.6.0-1004
+Marked 2.6.1-1007
+Marked-2 2.6.1-1007
 Metabase v0.36.4
 Microsoft-Office 16.40.20081000
 Motrix v1.5.15

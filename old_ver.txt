@@ -20,9 +20,9 @@ Django 3.1
 Docker-for-Mac 2.3.0.4-46911
 Dropbox 104.4.175
 FilePane 1.10.7
-Firefox 79.0
+Firefox 80.0
 Fork 1.0.97
-ForkLift 3.4-205
+ForkLift 3.4.1-206
 GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.2.6, 13.1.8, 13.0.14
 GitLab-Runner-Helm-Chart v0.20.0

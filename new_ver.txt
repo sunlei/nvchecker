@@ -54,7 +54,7 @@ Royal-TSX 4.3.3-4.3.3.1000
 Sentry 20.8.0
 Sequel-Ace 2.1.6
 Setapp 2.5.7
-Sketch 68-102490
+Sketch 68.1-102560
 Snipaste 2.5-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -96,7 +96,7 @@ iPadOS 13.6.1 (17G80)
 iPadOS-Beta 14 beta 5 (18A5351d)
 iStat-Menus 6.40
 iTerm2 2.1.4
-jumpserver v2.2.0
+jumpserver v2.2.1
 kombu 5.0.1
 macOS Catalina 10.15.6 (19G2021)
 macOS-Beta Big Sur 11 beta 5 (20A5354i)

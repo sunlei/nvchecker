@@ -14,7 +14,7 @@ CotEditor-Beta 3.9.4-430
 CotEditor-Stable 3.9.4-430
 DEVONthink 3.5.2
 DaisyDisk 4.10
-Dash-for-macOS 5.3.0-938
+Dash-for-macOS 5.4.0-942
 DataGrip 2020.2.2-202.6948.53
 Django 3.1
 Docker-for-Mac 2.3.0.4-46911
@@ -22,7 +22,7 @@ Dropbox 104.4.175
 FilePane 1.10.7
 Firefox 80.0
 Fork 1.0.97
-ForkLift 3.4.1-206
+ForkLift 3.4.2-207
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.3.1
 GitLab-Runner-Helm-Chart v0.20.0

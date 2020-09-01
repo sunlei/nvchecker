@@ -90,10 +90,10 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 iExplorer 4.3.8
 iMazing 2.12.0-13794
-iOS null
-iOS-Beta 13.7 beta (17H33)
-iPadOS null
-iPadOS-Beta 13.7 beta (17H33)
+iOS 13.7 (17H33)
+iOS-Beta 14 beta 6 (18A5357e)
+iPadOS 13.7 (17H33)
+iPadOS-Beta 14 beta 6 (18A5357e)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.2.2

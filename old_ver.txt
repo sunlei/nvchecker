@@ -25,7 +25,7 @@ Fork 1.0.97
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.3.2
-GitLab-Runner-Helm-Chart v0.20.0
+GitLab-Runner-Helm-Chart v0.20.1
 GoLand 2020.2.2-202.6948.9
 Google-Chrome-Beta 85.0.4183.83
 Google-Chrome-Dev 86.0.4240.8
@@ -73,8 +73,8 @@ Vue.js 2.6.12
 Vuex 3.5.1
 WeChat-Work 3.0.30.2300
 Wechat-for-Mac 2.4.2.18-15063
-Xcode null
-Xcode-Beta 11.7 beta (11E801a)
+Xcode 11.7 (11E801a)
+Xcode-Beta 12 beta 6 (12A8189n)
 aText 2.36.4-102
 alfred-vscode v2.1.0
 coconutBattery 3.9.0
@@ -112,5 +112,5 @@ tvOS-Beta 14 beta 6 (18J5370e)
 uview-ui 1.6.5
 @vue/cli 4.5.4
 watchOS 5.3.5 (16U652)
-watchOS-Beta 7 beta 6 (18R5368d)
+watchOS-Beta 7 beta 7 (18R5378a)
 webhook 2.7.0

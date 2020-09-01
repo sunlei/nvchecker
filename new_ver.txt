@@ -1,5 +1,5 @@
 1Password-for-Mac 7.6
-Alfred 4.1
+Alfred 4.1.1
 AriaNg 1.1.6
 AriaNg-Native 1.1.6
 Arq-Backup 6.2.54
@@ -9,14 +9,14 @@ Burp-Suite Professional / Community 2020.8.1
 Celery 4.4.7
 ClashX 1.20.4
 CleanMyMac-X 4.6.11-40611.0.2008181744
-Confluence 7.7.2
+Confluence 7.7.3
 CotEditor-Beta 3.9.4-430
 CotEditor-Stable 3.9.4-430
 DEVONthink 3.5.2
 DaisyDisk 4.11
 Dash-for-macOS 5.4.0-942
 DataGrip 2020.2.2-202.6948.53
-Django 3.1
+Django 3.1.1
 Docker-for-Mac 2.3.0.4-46911
 Dropbox 104.4.175
 FilePane 1.10.7
@@ -82,7 +82,7 @@ coconutBattery 3.9.0
 @dcloudio/uni-h5-ui 2.0.0-28620200814005
 @dcloudio/uni-mp-weixin 2.0.0-28820200820001
 docker-compose 1.26.2
-docker-jumpserver v2.2.1
+docker-jumpserver v2.2.2
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
@@ -96,7 +96,7 @@ iPadOS null
 iPadOS-Beta 13.7 beta (17H33)
 iStat-Menus 6.40
 iTerm2 2.1.4
-jumpserver v2.2.1
+jumpserver v2.2.2
 kombu 5.0.1
 macOS Catalina 10.15.6 (19G2021)
 macOS-Beta Big Sur 11 beta 5 (20A5354i)

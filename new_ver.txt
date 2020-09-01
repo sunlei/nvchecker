@@ -8,7 +8,7 @@ BorgBackup 1.1.13
 Burp-Suite Professional / Community 2020.8.1
 Celery 4.4.7
 ClashX 1.20.4
-CleanMyMac-X 4.6.11-40611.0.2008181744
+CleanMyMac-X 4.6.12-40612.0.2009011311
 Confluence 7.7.3
 CotEditor-Beta 3.9.4-430
 CotEditor-Stable 3.9.4-430
@@ -20,7 +20,7 @@ Django 3.1.1
 Docker-for-Mac 2.3.0.4-46911
 Dropbox 104.4.175
 FilePane 1.10.7
-Firefox 80.0
+Firefox 80.0.1
 Fork 1.0.97
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee

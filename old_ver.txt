@@ -5,7 +5,7 @@ AriaNg-Native 1.1.6
 Arq-Backup 6.2.54
 Beancount 2.3.1
 BorgBackup 1.1.13
-Burp-Suite Professional / Community 2020.9
+Burp-Suite Professional / Community 2020.9.1
 Celery 4.4.7
 ClashX 1.20.4
 CleanMyMac-X 4.6.12-40612.0.2009011311
@@ -24,7 +24,7 @@ Firefox 80.0.1
 Fork 1.0.97
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
-GitLab-Release GitLab Security Release: 13.3.4, 13.2.8, and 13.1.10
+GitLab-Release GitLab Patch Release: 13.3.5, 13.2.9 and 13.1.11
 GitLab-Runner-Helm-Chart v0.20.1
 GoLand 2020.2.2-202.6948.9
 Google-Chrome-Beta 86.0.4240.22

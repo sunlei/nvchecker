@@ -7,7 +7,7 @@ Beancount 2.3.1
 BorgBackup 1.1.13
 Burp-Suite Professional / Community 2020.9.1
 Celery 4.4.7
-ClashX 1.20.4
+ClashX 1.30.2
 CleanMyMac-X 4.6.12-40612.0.2009011311
 Confluence 7.7.3
 CotEditor-Beta 3.9.4-430
@@ -106,7 +106,7 @@ nvchecker v1.7
 snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0
-trojan-go v0.8.1
+trojan-go v0.8.2
 tvOS 13.4.8 (17M61)
 tvOS-Beta 14 beta 7 (18J5379a)
 uview-ui 1.6.7

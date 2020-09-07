@@ -21,7 +21,7 @@ Docker-for-Mac 2.3.0.4-46911
 Dropbox 104.4.175
 FilePane 1.10.7
 Firefox 80.0.1
-Fork 1.0.98.3
+Fork 1.0.97
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.3.5, 13.2.9 and 13.1.11
@@ -32,7 +32,7 @@ Google-Chrome-Dev 87.0.4252.0
 Google-Chrome-Stable 85.0.4183.83
 Hazel 4.4.5
 IINA 0.0.14.1-55
-Jira 8.12.0
+Jira 8.12.1
 Kaleidoscope 2.3.1-1441
 Little-Snitch 4.5.2-5474
 MWeb 3.4.1

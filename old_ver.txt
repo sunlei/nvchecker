@@ -100,7 +100,7 @@ jumpserver v2.2.2
 kombu 5.0.2
 macOS Catalina 10.15.6 (19G2021)
 macOS-Beta Big Sur 11 beta 6 (20A5364e)
-mas v1.7.0
+mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v1.7
 snell v2.0.3

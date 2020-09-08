@@ -18,7 +18,7 @@ Dash-for-macOS 5.4.0-942
 DataGrip 2020.2.2-202.6948.53
 Django 3.1.1
 Docker-for-Mac 2.3.0.4-46911
-Dropbox 104.4.175
+Dropbox 105.4.649
 FilePane 1.10.7
 Firefox 80.0.1
 Fork 1.0.98.4
@@ -29,7 +29,7 @@ GitLab-Runner-Helm-Chart v0.20.1
 GoLand 2020.2.2-202.6948.9
 Google-Chrome-Beta 86.0.4240.22
 Google-Chrome-Dev 87.0.4252.0
-Google-Chrome-Stable 85.0.4183.83
+Google-Chrome-Stable 85.0.4183.102
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.12.1

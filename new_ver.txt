@@ -48,7 +48,7 @@ Netch 1.5.1
 NeteaseMusic 2.3.2-832
 Notion 2.0.8
 PyCharm 2020.2.1-202.6948.78
-QQ-for-Mac 6.6.8
+QQ-for-Mac 6.6.9
 React 16.13.1
 Royal-TSX 4.3.3-4.3.3.1000
 Sentry 20.8.0

@@ -68,7 +68,7 @@ Transmit 5.6.6
 Typora 0.9.9.35-4693
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.48.2
-Vorta-Backup-Client v0.7.0
+Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.5.1
 WeChat-Work 3.0.30.2300

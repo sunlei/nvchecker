@@ -28,7 +28,7 @@ GitLab-Release GitLab Patch Release: 13.3.5, 13.2.9 and 13.1.11
 GitLab-Runner-Helm-Chart v0.21.0-rc1
 GoLand 2020.2.2-202.6948.9
 Google-Chrome-Beta 86.0.4240.30
-Google-Chrome-Dev 87.0.4252.0
+Google-Chrome-Dev 87.0.4259.3
 Google-Chrome-Stable 85.0.4183.102
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -60,14 +60,14 @@ SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1130
 Surge-Mac-Stable 3.5.7-1129
-Syncthing-for-macOS v1.8.0-1-100800001
+Syncthing-for-macOS v1.9.0-1-100900001
 TablePlus 3.8.0-336
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.2-247
 Transmit 5.6.6
 Typora 0.9.9.35-4693
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.48.2
+Visual-Studio-Code 1.49.0
 Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.5.1
@@ -77,11 +77,11 @@ Xcode 11.7 (11E801a)
 Xcode-Beta 12 beta 6 (12A8189n)
 aText 2.36.4-102
 alfred-vscode v2.1.0
-coconutBattery 3.9.0
+coconutBattery 3.9.1
 @dcloudio/uni-h5 2.0.0-28920200907001
 @dcloudio/uni-h5-ui 2.0.0-28620200814005
 @dcloudio/uni-mp-weixin 2.0.0-28920200907001
-docker-compose 1.27.1
+docker-compose 1.27.2
 docker-jumpserver v2.2.2
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
@@ -98,7 +98,7 @@ iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.2.2
 kombu 5.0.2
-macOS Catalina 10.15.6 (19G2021)
+macOS Catalina 10.15.6 (19G2531)
 macOS-Beta Big Sur 11 beta 6 (20A5364e)
 mas v1.7.1
 nvALT 2.2.8-128

@@ -64,7 +64,8 @@ jobs:
         with:
           commit_message: 'chore: Apply version record files changes'
 
-          branch: ${{ github.head_ref }}
+          # branch: ${{ github.head_ref }}
+          branch: master
           commit_options: "--no-verify --signoff"
           file_pattern: ./*.txt
           repository: .

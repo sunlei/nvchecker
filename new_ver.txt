@@ -24,7 +24,7 @@ Firefox 80.0.1
 Fork 1.0.98.4
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.3.5, 13.2.9 and 13.1.11
+GitLab-Release GitLab Patch Release: 13.3.6
 GitLab-Runner-Helm-Chart v0.21.0-rc1
 GoLand 2020.2.2-202.6948.9
 Google-Chrome-Beta 86.0.4240.30
@@ -64,7 +64,7 @@ Syncthing-for-macOS v1.9.0-1-100900001
 TablePlus 3.8.0-336
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.2-247
-Transmit 5.6.6
+Transmit 5.6.7
 Typora 0.9.9.35.2-4715
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.49.0

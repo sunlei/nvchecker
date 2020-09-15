@@ -17,7 +17,7 @@ DaisyDisk 4.11
 Dash-for-macOS 5.4.0-942
 DataGrip 2020.2.2-202.6948.53
 Django 3.1.1
-Docker-for-Mac 2.3.0.5-48029
+Docker-for-Mac 2.3.0.4-46911
 Dropbox 105.4.651
 FilePane 1.10.7
 Firefox 80.0.1
@@ -40,7 +40,7 @@ Manico 2.7.3-388
 Marked 2.6.1-1007
 Marked-2 2.6.1-1007
 Metabase v0.36.5.1
-Microsoft-Office 16.40.20081000
+Microsoft-Office 16.41.20091302
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.21

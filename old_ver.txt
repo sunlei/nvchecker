@@ -8,7 +8,7 @@ BorgBackup 1.1.13
 Burp-Suite Professional / Community 2020.9.1
 Celery 4.4.7
 ClashX 1.30.2
-CleanMyMac-X 4.6.12-40612.0.2009011311
+CleanMyMac-X 4.6.13-40613.0.2009141211
 Confluence 7.7.3
 CotEditor-Beta 3.9.6-435
 CotEditor-Stable 3.9.6-435
@@ -17,7 +17,7 @@ DaisyDisk 4.11
 Dash-for-macOS 5.4.0-942
 DataGrip 2020.2.2-202.6948.53
 Django 3.1.1
-Docker-for-Mac 2.3.0.5-48029
+Docker-for-Mac 2.3.0.4-46911
 Dropbox 105.4.651
 FilePane 1.10.7
 Firefox 80.0.1
@@ -61,7 +61,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1130
 Surge-Mac-Stable 3.5.7-1129
 Syncthing-for-macOS v1.9.0-1-100900001
-TablePlus 3.8.0-336
+TablePlus 3.9.0-340
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.2-247
 Transmit 5.6.7

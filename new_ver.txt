@@ -17,7 +17,7 @@ DaisyDisk 4.11
 Dash-for-macOS 5.4.0-942
 DataGrip 2020.2.2-202.6948.53
 Django 3.1.1
-Docker-for-Mac 2.3.0.4-46911
+Docker-for-Mac 2.3.0.5-48029
 Dropbox 105.4.651
 FilePane 1.10.7
 Firefox 80.0.1

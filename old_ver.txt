@@ -26,7 +26,7 @@ ForkLift 3.4.2-207
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.3.6
 GitLab-Runner-Helm-Chart v0.21.0-rc1
-GoLand 2020.2.2-202.6948.9
+GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 86.0.4240.42
 Google-Chrome-Dev 87.0.4263.3
 Google-Chrome-Stable 85.0.4183.102
@@ -88,7 +88,7 @@ docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-iExplorer 4.3.8
+iExplorer 4.4.0
 iMazing 2.12.0-13794
 iOS 14 (18A373)
 iOS-Beta null

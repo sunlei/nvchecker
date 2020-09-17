@@ -47,7 +47,7 @@ Navicat-Premium 15.0.21
 Netch 1.5.1
 NeteaseMusic 2.3.2-832
 Notion 2.0.8
-PyCharm 2020.2.1-202.6948.78
+PyCharm 2020.2.2-202.7319.64
 QQ-for-Mac 6.6.9
 React 16.13.1
 Royal-TSX 4.3.3-4.3.3.1000
@@ -82,7 +82,7 @@ coconutBattery 3.9.1
 @dcloudio/uni-h5-ui 2.0.0-28620200814005
 @dcloudio/uni-mp-weixin 2.0.0-28920200907001
 docker-compose 1.27.3
-docker-jumpserver v2.2.3
+docker-jumpserver v2.3.0
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
@@ -96,7 +96,7 @@ iPadOS 14 (18A373)
 iPadOS-Beta null
 iStat-Menus 6.40
 iTerm2 2.1.4
-jumpserver v2.2.3
+jumpserver v2.3.0
 kombu 5.0.2
 macOS Catalina 10.15.6 (19G2531)
 macOS-Beta Big Sur 11 beta 6 (20A5364e)

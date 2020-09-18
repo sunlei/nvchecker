@@ -67,7 +67,7 @@ Tower-for-Mac 5.2-247
 Transmit 5.6.7
 Typora 0.9.9.35.2-4715
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.49.0
+Visual-Studio-Code 1.49.1
 Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.5.1
@@ -91,9 +91,9 @@ docker-self-service-password 2.7
 iExplorer 4.4.0
 iMazing 2.12.0-13794
 iOS 14 (18A373)
-iOS-Beta null
+iOS-Beta 14.2 beta (18B5052h)
 iPadOS 14 (18A373)
-iPadOS-Beta null
+iPadOS-Beta 14.2 beta (18B5052h)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.3.0
@@ -108,9 +108,9 @@ tornado 6.0.4
 trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14 (18J386)
-tvOS-Beta null
+tvOS-Beta 14.2 beta (18K5027e)
 uview-ui 1.7.1
 @vue/cli 4.5.6
 watchOS 7 (18R382)
-watchOS-Beta null
+watchOS-Beta 7.1 beta (18R5552f)
 webhook 2.7.0

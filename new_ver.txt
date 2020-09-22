@@ -20,7 +20,7 @@ Django 3.1.1
 Docker-for-Mac 2.3.0.5-48029
 Dropbox 105.4.651
 FilePane 1.10.7
-Firefox 80.0.1
+Firefox 81.0
 Fork 1.0.98.4
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
@@ -109,7 +109,7 @@ trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14 (18J386)
 tvOS-Beta 14.2 beta (18K5027e)
-uview-ui 1.7.2
+uview-ui 1.7.3
 @vue/cli 4.5.6
 watchOS 7 (18R382)
 watchOS-Beta 7.1 beta (18R5552f)

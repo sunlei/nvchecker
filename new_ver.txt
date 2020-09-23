@@ -10,7 +10,7 @@ Celery 4.4.7
 ClashX 1.30.2
 CleanMyMac-X 4.6.13-40613.0.2009141211
 Confluence 7.7.4
-CotEditor-Beta 4.0.0-beta-442
+CotEditor-Beta 4.0.0-beta.2-444
 CotEditor-Stable 3.9.6-435
 DEVONthink 3.5.2
 DaisyDisk 4.11
@@ -88,7 +88,7 @@ docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.1.5
+grafana v7.2.0
 iExplorer 4.4.0
 iMazing 2.12.0-13794
 iOS 14 (18A373)

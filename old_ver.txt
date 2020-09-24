@@ -24,7 +24,7 @@ Firefox 81.0
 Fork 1.0.98.4
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.3.6
+GitLab-Release GitLab Patch Release: 13.4.1
 GitLab-Runner-Helm-Chart v0.21.0
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 86.0.4240.55
@@ -81,7 +81,7 @@ coconutBattery 3.9.1
 @dcloudio/uni-h5 2.0.0-28920200907001
 @dcloudio/uni-h5-ui 2.0.0-28620200814005
 @dcloudio/uni-mp-weixin 2.0.0-28920200907001
-docker-compose 1.27.3
+docker-compose 1.27.4
 docker-jumpserver v2.3.1
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
@@ -91,15 +91,15 @@ docker-self-service-password 2.7
 grafana v7.2.0
 iExplorer 4.4.0
 iMazing 2.12.0-13794
-iOS 14 (18A373)
+iOS 14.0.1 (18A393)
 iOS-Beta 14.2 beta (18B5052h)
-iPadOS 14 (18A373)
+iPadOS 14.0.1 (18A393)
 iPadOS-Beta 14.2 beta (18B5052h)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.3.1
 kombu 5.0.2
-macOS Catalina 10.15.6 (19G2531)
+macOS Catalina 10.15.7 (19H2)
 macOS-Beta Big Sur 11 beta 8 (20A5374i)
 mas v1.7.1
 nvALT 2.2.8-128
@@ -108,10 +108,10 @@ snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0
 trojan-go v0.8.2
-tvOS 14 (18J386)
+tvOS 14.0.1 (18J400)
 tvOS-Beta 14.2 beta (18K5027e)
 uview-ui 1.7.3
 @vue/cli 4.5.6
-watchOS 7 (18R382)
+watchOS 7.0.1 (18R395)
 watchOS-Beta 7.1 beta (18R5552f)
 webhook 2.7.0

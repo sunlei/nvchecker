@@ -50,7 +50,7 @@ Notion 2.0.8
 PyCharm 2020.2.2-202.7319.64
 QQ-for-Mac 6.6.9
 React 16.13.1
-Royal-TSX 4.3.3-4.3.3.1000
+Royal-TSX 4.3.4-4.3.4.1000
 Sentry 20.8.0
 Sequel-Ace 2.1.8
 Setapp 2.5.7

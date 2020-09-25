@@ -78,9 +78,9 @@ Xcode-Beta 12.2 beta (12B5018i)
 aText 2.36.5-103
 alfred-vscode v2.1.0
 coconutBattery 3.9.1
-@dcloudio/uni-h5 2.0.0-28920200907001
+@dcloudio/uni-h5 2.0.0-28920200923001
 @dcloudio/uni-h5-ui 2.0.0-28620200814005
-@dcloudio/uni-mp-weixin 2.0.0-28920200907001
+@dcloudio/uni-mp-weixin 2.0.0-28920200923001
 docker-compose 1.27.4
 docker-jumpserver v2.3.1
 docker-nexus3 3.13.0-02

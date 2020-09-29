@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2020.9.1
 Celery 5.0.0
 ClashX 1.30.2
 CleanMyMac-X 4.6.13-40613.0.2009141211
-Confluence 7.7.4
+Confluence 7.8.0
 CotEditor-Beta 4.0.0-beta.2-444
 CotEditor-Stable 3.9.6-435
 DEVONthink 3.5.2

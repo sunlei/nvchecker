@@ -98,7 +98,7 @@ iPadOS 14.0.1 (18A393)
 iPadOS-Beta 14.2 beta (18B5052h)
 iStat-Menus 6.40
 iTerm2 2.1.4
-jumpserver v2.3.1
+jumpserver v2.3.0
 kombu 5.0.2
 macOS Catalina 10.15.7 (19H2)
 macOS-Beta Big Sur 11 beta 8 (20A5374i)

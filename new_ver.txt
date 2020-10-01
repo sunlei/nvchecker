@@ -104,7 +104,7 @@ macOS Catalina 10.15.7 (19H2)
 macOS-Beta Big Sur 11 beta 9 (20A5384c)
 mas v1.7.1
 nvALT 2.2.8-128
-nvchecker v1.7
+nvchecker v2.0
 snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0

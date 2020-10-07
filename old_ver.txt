@@ -24,7 +24,7 @@ Firefox 81.0.1
 Fork 1.0.98.4
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
-GitLab-Release GitLab Security Release: 13.4.2, 13.3.7 and 13.2.10
+GitLab-Release GitLab Patch Release: 13.4.3
 GitLab-Runner-Helm-Chart v0.21.1
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 86.0.4240.75
@@ -32,7 +32,7 @@ Google-Chrome-Dev 87.0.4278.0
 Google-Chrome-Stable 86.0.4240.75
 Hazel 4.4.5
 IINA 0.0.14.1-55
-Jira 8.12.2
+Jira 8.12.3
 Kaleidoscope 2.3.1-1441
 Little-Snitch 4.5.2-5474
 MWeb 3.4.1
@@ -44,10 +44,10 @@ Microsoft-Office 16.41.20091302
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.21
-Netch 1.6.0
+Netch 1.6.1
 NeteaseMusic 2.3.2-832
 Notion 2.0.8
-PyCharm 2020.2.2-202.7319.64
+PyCharm 2020.2.3-202.7660.27
 QQ-for-Mac 6.6.9
 React 16.13.1
 Royal-TSX 4.3.4-4.3.4.1000

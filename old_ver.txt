@@ -4,7 +4,7 @@ AriaNg 1.1.7
 AriaNg-Native 1.1.7
 Arq-Backup 6.2.54
 Beancount 2.3.2
-BorgBackup 1.1.13
+BorgBackup 1.1.14
 Burp-Suite Professional / Community 2020.9.2
 Celery 5.0.0
 ClashX 1.30.2
@@ -29,7 +29,7 @@ GitLab-Runner-Helm-Chart v0.21.1
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 86.0.4240.75
 Google-Chrome-Dev 87.0.4278.0
-Google-Chrome-Stable 85.0.4183.121
+Google-Chrome-Stable 86.0.4240.75
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.12.2

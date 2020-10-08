@@ -32,7 +32,7 @@ Google-Chrome-Dev 87.0.4280.11
 Google-Chrome-Stable 86.0.4240.75
 Hazel 4.4.5
 IINA 0.0.14.1-55
-Jira 8.12.3
+Jira 8.13.0
 Kaleidoscope 2.3.1-1441
 Little-Snitch 4.5.2-5474
 MWeb 3.4.1

@@ -113,6 +113,6 @@ tvOS 14.0.2 (18J411)
 tvOS-Beta 14.2 beta 2 (18K5036d)
 uview-ui 1.7.3
 @vue/cli 4.5.7
-watchOS 7.0.1 (18R395)
+watchOS 7.0.2 (18R402)
 watchOS-Beta 7.1 beta 2 (18R5561e)
 webhook 2.7.0

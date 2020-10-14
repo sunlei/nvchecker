@@ -14,7 +14,7 @@ CotEditor-Beta 4.0.0-beta.2-444
 CotEditor-Stable 3.9.6-435
 DEVONthink 3.5.2
 DaisyDisk 4.11
-Dash-for-macOS 5.4.1-944
+Dash-for-macOS 5.5.0-946
 DataGrip 2020.2.3-202.7319.56
 Django 3.1.2
 Docker-for-Mac 2.4.0.0-48506
@@ -49,7 +49,7 @@ NeteaseMusic 2.3.2-832
 Notion 2.0.8
 PyCharm 2020.2.3-202.7660.27
 QQ-for-Mac 6.6.9
-React 16.13.1
+React 16.14.0
 Royal-TSX 4.3.4-4.3.4.1000
 Sentry 20.8.0
 Sequel-Ace 2.2.0

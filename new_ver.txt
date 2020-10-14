@@ -28,7 +28,7 @@ GitLab-Release GitLab Patch Release: 13.4.3
 GitLab-Runner-Helm-Chart v0.22.0-rc2
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 86.0.4240.75
-Google-Chrome-Dev 87.0.4280.11
+Google-Chrome-Dev 87.0.4280.20
 Google-Chrome-Stable 86.0.4240.80
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -101,7 +101,7 @@ iTerm2 2.1.4
 jumpserver v2.3.2
 kombu 5.0.2
 macOS Catalina 10.15.7 (19H2)
-macOS-Beta Big Sur 11 beta 9 (20A5384c)
+macOS-Beta Big Sur 11 beta 10 (20A5395g)
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.1

@@ -52,7 +52,7 @@ QQ-for-Mac 6.6.9
 React 16.13.1
 Royal-TSX 4.3.4-4.3.4.1000
 Sentry 20.8.0
-Sequel-Ace 2.1.8
+Sequel-Ace 2.2.0
 Setapp 2.5.7
 Sketch 69-107357
 Snipaste 2.5.1-Beta
@@ -77,7 +77,7 @@ Xcode 12.1 GM seed (12A7403)
 Xcode-Beta 12.2 beta 3 (12B5035g)
 aText 2.36.5-103
 alfred-vscode v2.1.0
-ansible 2.10.0
+ansible 2.10.1
 coconutBattery 3.9.1
 @dcloudio/uni-h5 2.0.0-28920200927001
 @dcloudio/uni-h5-ui 2.0.0-28920200927001
@@ -92,9 +92,9 @@ docker-self-service-password 2.7
 grafana v7.2.1
 iExplorer 4.4.0
 iMazing 2.12.4-13847
-iOS 14.1 (18A8395)
+iOS 14.1 GM seed (18A8395)
 iOS-Beta 14.2 beta 3 (18B5072f)
-iPadOS 14.1 (18A8395)
+iPadOS 14.1 GM seed (18A8395)
 iPadOS-Beta 14.2 beta 3 (18B5072f)
 iStat-Menus 6.40
 iTerm2 2.1.4
@@ -109,7 +109,7 @@ snell v2.0.3
 tornado 6.0.4
 trojan-gfw v1.16.0
 trojan-go v0.8.2
-tvOS 14.1 (18J8394)
+tvOS 14.0.2 (18J411)
 tvOS-Beta 14.2 beta 3 (18K5047f)
 uview-ui 1.7.3
 @vue/cli 4.5.7

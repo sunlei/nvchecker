@@ -6,7 +6,7 @@ Arq-Backup 6.2.54
 Beancount 2.3.2
 BorgBackup 1.1.14
 Burp-Suite Professional / Community 2020.9.2
-Celery 5.0.0
+Celery 5.0.1
 ClashX 1.30.2
 CleanMyMac-X 4.6.14-40614.0.2009291451
 Confluence 7.8.1

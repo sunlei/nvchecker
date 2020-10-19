@@ -14,7 +14,7 @@ CotEditor-Beta 4.0.0-beta.3-446
 CotEditor-Stable 3.9.7-437
 DEVONthink 3.5.2
 DaisyDisk 4.11
-Dash-for-macOS 5.5.0-946
+Dash-for-macOS 5.5.1-948
 DataGrip 2020.2.3-202.7319.56
 Django 3.1.2
 Docker-for-Mac 2.4.0.0-48506
@@ -72,7 +72,7 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.5.1
 WeChat-Work 3.0.31.2308
-Wechat-for-Mac 2.5.0.17-15718
+Wechat-for-Mac 2.5.0.18-15735
 Xcode 12.1 GM seed (12A7403)
 Xcode-Beta 12.2 beta 3 (12B5035g)
 aText 2.36.5-103
@@ -112,7 +112,7 @@ trojan-go v0.8.2
 tvOS 14.0.2 (18J411)
 tvOS-Beta 14.2 beta 3 (18K5047f)
 uview-ui 1.7.7
-@vue/cli 4.5.7
+@vue/cli 4.5.8
 watchOS 7.0.2 (18R402)
 watchOS-Beta 7.1 beta 3 (18R5572f)
 webhook 2.7.0

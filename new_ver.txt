@@ -72,7 +72,7 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.5.1
 WeChat-Work 3.0.31.2308
-Wechat-for-Mac 2.5.0.17-15718
+Wechat-for-Mac 2.5.0.18-15735
 Xcode 12.1 GM seed (12A7403)
 Xcode-Beta 12.2 beta 3 (12B5035g)
 aText 2.36.5-103

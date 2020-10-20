@@ -61,7 +61,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.7-1129
 Syncthing-for-macOS v1.9.0-1-100900001
-TablePlus 3.9.1-342
+TablePlus 3.10.0-348
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.2-247
 Transmit 5.6.7
@@ -92,9 +92,9 @@ docker-self-service-password 2.7
 grafana v7.2.1
 iExplorer 4.4.0
 iMazing 2.12.4-13847
-iOS 14.1 GM seed (18A8395)
+iOS 14.1 (18A8395)
 iOS-Beta 14.2 beta 3 (18B5072f)
-iPadOS 14.1 GM seed (18A8395)
+iPadOS 14.1 (18A8395)
 iPadOS-Beta 14.2 beta 3 (18B5072f)
 iStat-Menus 6.40
 iTerm2 2.1.4

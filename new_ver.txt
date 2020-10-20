@@ -20,7 +20,7 @@ Django 3.1.2
 Docker-for-Mac 2.4.0.0-48506
 Dropbox 107.4.443
 FilePane 1.10.7
-Firefox 81.0.2
+Firefox 82.0
 Fork 1.0.98.4
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
@@ -54,7 +54,7 @@ Royal-TSX 4.3.4-4.3.4.1000
 Sentry 20.10.1
 Sequel-Ace 2.2.1
 Setapp 2.5.7
-Sketch 69-107357
+Sketch 69.1-107496
 Snipaste 2.5.1-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211

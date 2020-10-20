@@ -29,7 +29,7 @@ GitLab-Runner-Helm-Chart v0.22.0
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 87.0.4280.20
 Google-Chrome-Dev 88.0.4292.2
-Google-Chrome-Stable 86.0.4240.80
+Google-Chrome-Stable 86.0.4240.111
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.13.0
@@ -49,7 +49,7 @@ NeteaseMusic 2.3.2-832
 Notion 2.0.8
 PyCharm 2020.2.3-202.7660.27
 QQ-for-Mac 6.6.9
-React 16.14.0
+React 17.0.0
 Royal-TSX 4.3.4-4.3.4.1000
 Sentry 20.10.1
 Sequel-Ace 2.2.1
@@ -73,7 +73,7 @@ Vue.js 2.6.12
 Vuex 3.5.1
 WeChat-Work 3.0.31.2308
 Wechat-for-Mac 2.5.0.18-15735
-Xcode 12.1 GM seed (12A7403)
+Xcode 12.1 (12A7403)
 Xcode-Beta 12.2 beta 3 (12B5035g)
 aText 2.36.5-103
 alfred-vscode v2.1.0
@@ -93,9 +93,9 @@ grafana v7.2.1
 iExplorer 4.4.0
 iMazing 2.12.4-13847
 iOS 14.1 (18A8395)
-iOS-Beta 14.2 beta 3 (18B5072f)
+iOS-Beta 14.2 beta 4 (18B5083a)
 iPadOS 14.1 (18A8395)
-iPadOS-Beta 14.2 beta 3 (18B5072f)
+iPadOS-Beta 14.2 beta 4 (18B5083a)
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.4.1
@@ -110,7 +110,7 @@ tornado 6.0.4
 trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.0.2 (18J411)
-tvOS-Beta 14.2 beta 3 (18K5047f)
+tvOS-Beta 14.2 beta 4 (18K5057a)
 uview-ui 1.7.7
 @vue/cli 4.5.8
 watchOS 7.0.3 (18R410)

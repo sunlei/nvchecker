@@ -8,7 +8,7 @@ BorgBackup 1.1.14
 Burp-Suite Professional / Community 2020.9.2
 Celery 5.0.1
 ClashX 1.30.2
-CleanMyMac-X 4.6.14-40614.0.2009291451
+CleanMyMac-X 4.6.15-40615.0.2010221239
 Confluence 7.8.1
 CotEditor-Beta 4.0.0-beta.3-446
 CotEditor-Stable 3.9.7-437
@@ -55,7 +55,7 @@ Sentry 20.10.1
 Sequel-Ace 2.2.2
 Setapp 2.5.7
 Sketch 69.1-107496
-Snipaste 2.5.1-Beta
+Snipaste 2.5.2-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157

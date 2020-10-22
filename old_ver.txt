@@ -28,7 +28,7 @@ GitLab-Release GitLab Patch Release: 13.4.4
 GitLab-Runner-Helm-Chart v0.22.0
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 87.0.4280.27
-Google-Chrome-Dev 88.0.4292.2
+Google-Chrome-Dev 88.0.4298.4
 Google-Chrome-Stable 86.0.4240.111
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -114,5 +114,5 @@ tvOS-Beta 14.2 beta 4 (18K5057a)
 uview-ui 1.7.7
 @vue/cli 4.5.8
 watchOS 7.0.3 (18R410)
-watchOS-Beta 7.1 beta 3 (18R5572f)
+watchOS-Beta 7.1 beta 4 (18R5585a | 18R5586a)
 webhook 2.7.0

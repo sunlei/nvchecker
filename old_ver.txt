@@ -24,7 +24,7 @@ Firefox 82.0
 Fork 1.0.99
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.5.1
+GitLab-Release GitLab Patch Release: 13.3.8
 GitLab-Runner-Helm-Chart v0.22.0
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 87.0.4280.27
@@ -39,7 +39,7 @@ MWeb 3.4.1
 Manico 2.7.3-388
 Marked 2.6.1-1007
 Marked-2 2.6.1-1007
-Metabase v0.36.8
+Metabase v0.37.0.1
 Microsoft-Office 16.42.20101102
 Motrix v1.5.15
 Movist-Pro 2.2.19-146

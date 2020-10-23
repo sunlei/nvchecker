@@ -21,7 +21,7 @@ Docker-for-Mac 2.4.0.0-48506
 Dropbox 108.4.453
 FilePane 1.10.7
 Firefox 82.0
-Fork 1.0.98.4
+Fork 1.0.99
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.5.1
@@ -39,7 +39,7 @@ MWeb 3.4.1
 Manico 2.7.3-388
 Marked 2.6.1-1007
 Marked-2 2.6.1-1007
-Metabase v0.36.7
+Metabase v0.36.8
 Microsoft-Office 16.42.20101102
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
@@ -60,7 +60,7 @@ SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.7-1129
-Syncthing-for-macOS v1.9.0-1-100900001
+Syncthing-for-macOS v1.10.0-1-101000001
 TablePlus 3.10.0-346
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 5.2-247

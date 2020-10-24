@@ -18,7 +18,7 @@ Dash-for-macOS 5.5.1-948
 DataGrip 2020.2.3-202.7319.56
 Django 3.1.2
 Docker-for-Mac 2.4.0.0-48506
-Dropbox 109.3.478
+Dropbox 108.4.453
 FilePane 1.10.7
 Firefox 82.0
 Fork 1.0.99
@@ -44,7 +44,7 @@ Microsoft-Office 16.42.20101102
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
 Navicat-Premium 15.0.22
-Netch 1.6.4
+Netch 1.6.5
 NeteaseMusic 2.3.2-832
 Notion 2.0.8
 PyCharm 2020.2.3-202.7660.27

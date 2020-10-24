@@ -10,7 +10,7 @@ Celery 5.0.1
 ClashX 1.30.2
 CleanMyMac-X 4.6.15-40615.0.2010221239
 Confluence 7.8.1
-CotEditor-Beta 4.0.0-beta.3-446
+CotEditor-Beta 4.0.0-beta.4-448
 CotEditor-Stable 3.9.7-437
 DEVONthink 3.5.2
 DaisyDisk 4.11

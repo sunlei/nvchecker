@@ -91,7 +91,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.2.2
 iExplorer 4.4.0
-iMazing 2.12.6-14370
+iMazing 2.12.7-14385
 iOS 14.1 (18A8395)
 iOS-Beta 14.2 beta 4 (18B5083a)
 iPadOS 14.1 (18A8395)

@@ -39,7 +39,7 @@ MWeb 3.4.1
 Manico 2.7.3-388
 Marked 2.6.1-1007
 Marked-2 2.6.1-1007
-Metabase v0.37.0.1
+Metabase v0.36.8.2
 Microsoft-Office 16.42.20101102
 Motrix v1.5.15
 Movist-Pro 2.2.19-146
@@ -98,7 +98,7 @@ iPadOS 14.1 (18A8395)
 iPadOS-Beta 14.2 beta 4 (18B5083a)
 iStat-Menus 6.40
 iTerm2 2.1.4
-jumpserver v2.4.1
+jumpserver v2.4.2
 kombu 5.0.2
 macOS Catalina 10.15.7 (19H2)
 macOS-Beta Big Sur 11 beta 10 (20A5395g)

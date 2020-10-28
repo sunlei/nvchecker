@@ -34,7 +34,7 @@ Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.13.0
 Kaleidoscope 2.3.1-1441
-Little-Snitch 5-6136
+Little-Snitch 5-6140
 MWeb 3.4.2
 Manico 2.7.3-388
 Marked 2.6.1-1007
@@ -101,7 +101,7 @@ iTerm2 2.1.4
 jumpserver v2.4.2
 kombu 5.0.2
 macOS Catalina 10.15.7 (19H2)
-macOS-Beta Big Sur 11 beta 10 (20A5395g)
+macOS-Beta Big Sur 11.0.1 beta (20B5012d)
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.1

@@ -1,5 +1,5 @@
 1Password-for-Mac 7.6
-Alfred 4.1.1
+Alfred 4.2
 AriaNg 1.1.7
 AriaNg-Native 1.1.7
 Arq-Backup 6.2.54
@@ -20,7 +20,7 @@ Django 3.1.2
 Docker-for-Mac 2.4.0.0-48506
 Dropbox 108.4.453
 FilePane 1.10.7
-Firefox 82.0.1
+Firefox 82.0.2
 Fork 1.0.99
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
@@ -89,7 +89,7 @@ docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.2.2
+grafana v7.3.0
 iExplorer 4.4.0
 iMazing 2.12.7-14385
 iOS 14.1 (18A8395)

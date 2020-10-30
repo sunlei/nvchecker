@@ -73,8 +73,8 @@ Vue.js 2.6.12
 Vuex 3.5.1
 WeChat-Work 3.0.31.2308
 Wechat-for-Mac 2.5.0.18-15735
-Xcode 12.1 (12A7403)
-Xcode-Beta 12.2 beta 3 (12B5035g)
+Xcode 12.1.1 Release Candidate (12A7605b)
+Xcode-Beta null
 aText 2.36.5-103
 alfred-vscode v2.1.0
 ansible 2.10.1
@@ -92,10 +92,10 @@ docker-self-service-password 2.7
 grafana v7.3.1
 iExplorer 4.4.0
 iMazing 2.12.7-14385
-iOS 14.1 (18A8395)
-iOS-Beta 14.2 beta 4 (18B5083a)
-iPadOS 14.1 (18A8395)
-iPadOS-Beta 14.2 beta 4 (18B5083a)
+iOS 14.2 Release Candidate (18B91)
+iOS-Beta null
+iPadOS 14.2 Release Candidate (18B91)
+iPadOS-Beta null
 iStat-Menus 6.40
 iTerm2 2.1.4
 jumpserver v2.4.3
@@ -106,7 +106,7 @@ mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.1
 snell v2.0.3
-tornado 6.0.4
+tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.0.2 (18J411)

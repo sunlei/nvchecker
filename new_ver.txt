@@ -83,7 +83,7 @@ coconutBattery 3.9.1
 @dcloudio/uni-h5-ui 2.0.0-29320201014001
 @dcloudio/uni-mp-weixin 2.0.0-29320201014001
 docker-compose 1.27.4
-docker-jumpserver v2.4.2
+docker-jumpserver v2.4.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
@@ -98,7 +98,7 @@ iPadOS 14.1 (18A8395)
 iPadOS-Beta 14.2 beta 4 (18B5083a)
 iStat-Menus 6.40
 iTerm2 2.1.4
-jumpserver v2.4.2
+jumpserver v2.4.3
 kombu 5.0.2
 macOS Catalina 10.15.7 (19H2)
 macOS-Beta Big Sur 11.0.1 beta (20B5012d)

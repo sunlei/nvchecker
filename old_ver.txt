@@ -34,7 +34,7 @@ Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.13.0
 Kaleidoscope 2.3.1-1441
-Little-Snitch 5-6140
+Little-Snitch 5.0-6142
 MWeb 3.4.2
 Manico 2.7.3-388
 Marked 2.6.1-1007
@@ -53,7 +53,7 @@ React 17.0.1
 Royal-TSX 4.3.4-4.3.4.1000
 Sentry 20.10.1
 Sequel-Ace 2.2.2
-Setapp 2.5.7
+Setapp 2.7.7
 Sketch 69.2-107504
 Snipaste 2.5.2-Beta
 SourceTree 1.2.7

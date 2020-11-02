@@ -24,12 +24,12 @@ Firefox 82.0.2
 Fork 1.0.99
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.3.8
+GitLab-Release GitLab Security Release: 13.5.2, 13.4.5, and 13.3.9
 GitLab-Runner-Helm-Chart v0.22.0
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 87.0.4280.40
 Google-Chrome-Dev 88.0.4302.0
-Google-Chrome-Stable 86.0.4240.111
+Google-Chrome-Stable 86.0.4240.183
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.13.0
@@ -109,10 +109,10 @@ snell v2.0.3
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
-tvOS 14.0.2 (18J411)
-tvOS-Beta 14.2 beta 4 (18K5057a)
+tvOS 14.2 Release Candidate (18K57)
+tvOS-Beta null
 uview-ui 1.7.8
 @vue/cli 4.5.8
-watchOS 7.0.3 (18R410)
-watchOS-Beta 7.1 beta 4 (18R5585a | 18R5586a)
+watchOS 7.1 Release Candidate (18R589)
+watchOS-Beta null
 webhook 2.7.0

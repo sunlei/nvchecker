@@ -17,11 +17,11 @@ DaisyDisk 4.11
 Dash-for-macOS 5.5.1-948
 DataGrip 2020.2.3-202.7319.56
 Django 3.1.3
-Docker-for-Mac 2.5.0.0-49427
+Docker-for-Mac 2.4.0.0-48506
 Dropbox 108.4.453
 FilePane 1.10.7
 Firefox 82.0.2
-Fork 1.0.99
+Fork 1.0.99.1
 ForkLift 3.4.2-207
 GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 13.5.2, 13.4.5, and 13.3.9

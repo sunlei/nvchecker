@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2020.9.2
 Celery 5.0.2
 ClashX 1.30.2
 CleanMyMac-X 4.6.15-40615.0.2010221239
-Confluence 7.8.1
+Confluence 7.8.3
 CotEditor-Beta 4.0.0-beta.5-450
 CotEditor-Stable 3.9.7-437
 DEVONthink 3.5.2
@@ -104,7 +104,7 @@ macOS Catalina 10.15.7 (19H2)
 macOS-Beta Big Sur 11.0.1 beta (20B5012d)
 mas v1.7.1
 nvALT 2.2.8-128
-nvchecker v2.1
+nvchecker v2.2
 snell v2.0.3
 tornado 6.1
 trojan-gfw v1.16.0

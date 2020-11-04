@@ -77,7 +77,7 @@ Xcode 12.1.1 Release Candidate (12A7605b)
 Xcode-Beta null
 aText 2.36.5-103
 alfred-vscode v2.1.0
-ansible 2.10.1
+ansible 2.10.2
 coconutBattery 3.9.1
 @dcloudio/uni-h5 2.0.0-29320201014001
 @dcloudio/uni-h5-ui 2.0.0-29320201014001

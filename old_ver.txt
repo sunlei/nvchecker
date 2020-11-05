@@ -71,13 +71,13 @@ Visual-Studio-Code 1.50.1
 Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.5.1
-WeChat-Work 3.0.31.2308
+WeChat-Work 3.0.36.2330
 Wechat-for-Mac 2.5.0.18-15735
 Xcode 12.1.1 Release Candidate (12A7605b)
 Xcode-Beta null
 aText 2.36.5-103
 alfred-vscode v2.1.0
-ansible 2.10.2
+ansible 2.10.3
 coconutBattery 3.9.1
 @dcloudio/uni-h5 2.0.0-29320201014001
 @dcloudio/uni-h5-ui 2.0.0-29320201014001

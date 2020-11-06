@@ -7,7 +7,7 @@ Beancount 2.3.3
 BorgBackup 1.1.14
 Burp-Suite Professional / Community 2020.9.2
 Celery 5.0.2
-ClashX 1.30.2
+ClashX 1.30.3
 CleanMyMac-X 4.6.15-40615.0.2010221239
 Confluence 7.8.3
 CotEditor-Beta 4.0.0-beta.5-450
@@ -67,7 +67,7 @@ Tower-for-Mac 5.2-247
 Transmit 5.6.7
 Typora 0.9.9.35.2-4715
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.50.1
+Visual-Studio-Code 1.51.0
 Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.5.1

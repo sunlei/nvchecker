@@ -79,9 +79,9 @@ aText 2.36.5-103
 alfred-vscode v2.1.0
 ansible 2.10.3
 coconutBattery 3.9.1
-@dcloudio/uni-h5 2.0.0-29320201014001
+@dcloudio/uni-h5 2.0.0-29820201110001
 @dcloudio/uni-h5-ui 2.0.0-29320201014001
-@dcloudio/uni-mp-weixin 2.0.0-29320201014001
+@dcloudio/uni-mp-weixin 2.0.0-29820201110001
 docker-compose 1.27.4
 docker-jumpserver v2.4.4
 docker-nexus3 3.13.0-02
@@ -111,7 +111,7 @@ trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.2 (18K57)
 tvOS-Beta null
-uview-ui 1.7.9
+uview-ui 1.8.0
 @vue/cli 4.5.8
 watchOS 7.1 (18R590)
 watchOS-Beta null

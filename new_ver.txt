@@ -27,7 +27,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.5.3 and 13.4.6
 GitLab-Runner-Helm-Chart v0.23.0-rc1
 GoLand 2020.2.3-202.7319.61
-Google-Chrome-Beta 87.0.4280.47
+Google-Chrome-Beta 87.0.4280.60
 Google-Chrome-Dev 88.0.4315.5
 Google-Chrome-Stable 86.0.4240.198
 Hazel 4.4.5
@@ -68,7 +68,7 @@ Syncthing-for-macOS v1.10.0-1-101000001
 TablePlus 3.10.0-346
 The-Unarchiver 4.2.2-129
 Tower-for-Mac 6.0-256
-Transmit 5.7
+Transmit 5.7.0
 Typora 0.9.9.35.2-4715
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.51.1
@@ -82,7 +82,7 @@ Xcode-Beta null
 aText 2.36.5-103
 alfred-vscode v2.1.0
 ansible 2.10.3
-coconutBattery 3.9.1
+coconutBattery 3.9.2
 @dcloudio/uni-h5 2.0.0-29820201110001
 @dcloudio/uni-h5-ui 2.0.0-29320201014001
 @dcloudio/uni-mp-weixin 2.0.0-29820201110001
@@ -95,7 +95,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.3.2
 iExplorer 4.4.1
-iMazing 2.12.7-14385
+iMazing 2.13.0-14433
 iOS 14.2 (18B92)
 iOS-Beta null
 iPadOS 14.2 (18B92)

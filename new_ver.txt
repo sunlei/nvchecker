@@ -36,7 +36,7 @@ Jira 8.13.1
 Kaleidoscope 2.3.4-1444
 Little-Snitch 5.0.1-6147
 MWeb 3.4.2
-Manico 2.7.3-388
+Manico 2.8.1-393
 Marked 2.6.1-1007
 Marked-2 2.6.1-1007
 Metabase v0.37.0.2
@@ -98,7 +98,7 @@ iPadOS 14.2 (18B92)
 iPadOS-Beta null
 iStat-Menus 6.50
 iTerm2 2.1.4
-jumpserver v2.4.3
+jumpserver v2.4.4
 kombu 5.0.2
 macOS Big Sur 11.0.1 RC 2 (20B28)
 macOS-Beta null

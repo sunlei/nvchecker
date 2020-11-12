@@ -7,7 +7,7 @@ Beancount 2.3.3
 BorgBackup 1.1.14
 Burp-Suite Professional / Community 2020.11
 Celery 5.0.2
-ClashX 1.30.3
+ClashX 1.30.4
 CleanMyMac-X 4.6.15-40615.0.2010221239
 Confluence 7.9.0
 CotEditor-Beta 4.0.0-453
@@ -62,8 +62,8 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.8-1157
 Surge-Mac-v3-Stable 3.5.8-1157
-Surge-Mac-v4-Beta 4.0.0-1184
-Surge-Mac-v4-Stable 4.0.0-1184
+Surge-Mac-v4-Beta 4.0.0-1185
+Surge-Mac-v4-Stable 4.0.0-1185
 Syncthing-for-macOS v1.10.0-1-101000001
 TablePlus 3.10.0-346
 The-Unarchiver 4.2.2-129

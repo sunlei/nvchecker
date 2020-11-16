@@ -115,7 +115,7 @@ trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.2 (18K57)
 tvOS-Beta 14.3 beta (18K5545e)
-uview-ui 1.8.0
+uview-ui 1.8.1
 @vue/cli 4.5.8
 watchOS 7.1 (18R590)
 watchOS-Beta 7.2 beta (18S5545f)

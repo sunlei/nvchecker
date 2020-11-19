@@ -5,7 +5,7 @@ AriaNg-Native 1.1.7
 Arq-Backup 6.2.68
 Beancount 2.3.3
 BorgBackup 1.1.14
-Burp-Suite Professional / Community 2020.11
+Burp-Suite Professional / Community 2020.11.1
 Celery 5.0.2
 ClashX 1.31.0
 CleanMyMac-X 4.7.0-40700.0.2011130542
@@ -82,7 +82,7 @@ Xcode-Beta 12.3 beta (12C5020f)
 aText 2.36.6-104
 alfred-vscode v2.1.0
 ansible 2.10.3
-coconutBattery 3.9.2
+coconutBattery 3.9.3
 @dcloudio/uni-h5 2.0.0-29820201110001
 @dcloudio/uni-h5-ui 2.0.0-29320201014001
 @dcloudio/uni-mp-weixin 2.0.0-29820201110001

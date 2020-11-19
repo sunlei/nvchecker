@@ -24,9 +24,8 @@ jobs:
       - name: Set image info
         run: |
           IMAGE_ID=docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME
-          echo "::set-env name=IMAGE_ID::$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')"
-          echo "::set-env name=IMAGE_TAG::$IMAGE_ID:latest"
-
+          echo "IMAGE_ID=$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')" >> $GITHUB_ENV
+          echo "IMAGE_TAG=$IMAGE_ID:latest" >> $GITHUB_ENV
       - name: Build image
         run: |
           docker build --pull --file Dockerfile --tag ${{ env.IMAGE_TAG }} .

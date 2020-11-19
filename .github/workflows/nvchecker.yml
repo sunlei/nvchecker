@@ -28,10 +28,10 @@ jobs:
       - name: Set environment variables
         run: |
           IMAGE_ID=docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME
-          echo "::set-env name=IMAGE_ID::$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')"
-          echo "::set-env name=IMAGE_TAG::$IMAGE_ID:latest"
+          echo "IMAGE_ID=$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')" >> $GITHUB_ENV
+          echo "IMAGE_TAG=$IMAGE_ID:latest" >> $GITHUB_ENV
 
-          echo "::set-env name=LOG_FILE::nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log"
+          echo "LOG_FILE=nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log" >> $GITHUB_ENV
 
       - name: Log into registry
         # $GITHUB_ACTOR
@@ -45,7 +45,7 @@ jobs:
 
       - name: Check version
         run: |
-          # echo "::set-env name=VERSIONS_COMPARE::$(docker exec nvchecker-app nvcmp source.ini 2>&1)"
+          # echo "VERSIONS_COMPARE=$(docker exec nvchecker-app nvcmp source.ini 2>&1)" >> $GITHUB_ENV
 
           touch old_ver.txt new_ver.txt
 

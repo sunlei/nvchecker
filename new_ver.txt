@@ -1,4 +1,4 @@
-1Password-for-Mac 7.6
+1Password-for-Mac 7.7
 Alfred 4.2.1
 AriaNg 1.1.7
 AriaNg-Native 1.1.7
@@ -12,24 +12,24 @@ CleanMyMac-X 4.7.0-40700.0.2011130542
 Confluence 7.9.0
 CotEditor-Beta 4.0.0-453
 CotEditor-Stable 4.0.0-453
-DEVONthink 3.5.2
+DEVONthink 3.6
 DaisyDisk 4.11
 Dash-for-macOS 5.5.1-948
 DataGrip 2020.2.3-202.7319.56
 Django 3.1.3
 Docker-for-Mac 2.5.0.1-49550
-Dropbox 109.4.517
+Dropbox 110.4.458
 FilePane 1.10.7
-Firefox 82.0.3
+Firefox 83.0
 Fork 2.0.2
 ForkLift 3.4.3-210
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.5.4
 GitLab-Runner-Helm-Chart v0.23.0-rc1
 GoLand 2020.2.3-202.7319.61
-Google-Chrome-Beta 87.0.4280.63
+Google-Chrome-Beta 87.0.4280.67
 Google-Chrome-Dev 88.0.4315.5
-Google-Chrome-Stable 86.0.4240.198
+Google-Chrome-Stable 87.0.4280.67
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.13.1
@@ -51,10 +51,10 @@ PyCharm 2020.2.3-202.7660.27
 QQ-for-Mac 6.7.0
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
-Sentry 20.11.0
+Sentry 20.11.1
 Sequel-Ace 2.3.0
 Setapp 2.7.7
-Sketch 69.2-107504
+Sketch 70-108797
 Snipaste 2.5.2-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -62,11 +62,11 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.7-1129
-Surge-Mac-v4-Beta 4.0.1-1196
+Surge-Mac-v4-Beta 4.0.1-1198
 Surge-Mac-v4-Stable 4.0.0-1191
 Syncthing-for-macOS v1.10.0-1-101000001
-TablePlus 3.10.0-346
-The-Unarchiver 4.2.2-129
+TablePlus 3.11.0-352
+The-Unarchiver 4.2.4-131
 Tower-for-Mac 6.0-256
 Transmit 5.7.0
 Typora 0.9.9.35.2-4715
@@ -79,7 +79,7 @@ WeChat-Work 3.0.36.2330
 Wechat-for-Mac 2.5.0.18-15735
 Xcode 12.2 (12B45b)
 Xcode-Beta 12.3 beta (12C5020f)
-aText 2.36.5-103
+aText 2.36.6-104
 alfred-vscode v2.1.0
 ansible 2.10.3
 coconutBattery 3.9.2
@@ -87,25 +87,25 @@ coconutBattery 3.9.2
 @dcloudio/uni-h5-ui 2.0.0-29320201014001
 @dcloudio/uni-mp-weixin 2.0.0-29820201110001
 docker-compose 1.27.4
-docker-jumpserver v2.4.4
+docker-jumpserver v2.5.0
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.3.2
+grafana v7.3.3
 iExplorer 4.4.1
 iMazing 2.13.0-14433
 iOS 14.2 (18B92)
-iOS-Beta 14.3 beta (18C5044f)
+iOS-Beta 14.3 beta 2 (18C5054c)
 iPadOS 14.2 (18B92)
-iPadOS-Beta 14.3 beta (18C5044f)
+iPadOS-Beta 14.3 beta 2 (18C5054c)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.4.4
+jumpserver v2.5.0
 kombu 5.0.2
-macOS Big Sur 11.0.1 (20B29)
-macOS-Beta null
+macOS null
+macOS-Beta Big Sur 11.1 beta (20C5048k)
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
@@ -114,9 +114,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.2 (18K57)
-tvOS-Beta 14.3 beta (18K5545e)
-uview-ui 1.8.1
-@vue/cli 4.5.8
+tvOS-Beta 14.3 beta 2 (18K5556a)
+uview-ui 1.8.2
+@vue/cli 4.5.9
 watchOS 7.1 (18R590)
-watchOS-Beta 7.2 beta (18S5545f)
+watchOS-Beta 7.2 beta 2 (18S5555c)
 webhook 2.7.0

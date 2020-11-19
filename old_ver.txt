@@ -28,7 +28,7 @@ GitLab-Release GitLab Patch Release: 13.5.4
 GitLab-Runner-Helm-Chart v0.23.0-rc1
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 87.0.4280.67
-Google-Chrome-Dev 88.0.4315.5
+Google-Chrome-Dev 88.0.4324.11
 Google-Chrome-Stable 87.0.4280.67
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -96,7 +96,7 @@ docker-self-service-password 2.7
 grafana v7.3.3
 iExplorer 4.4.1
 iMazing 2.13.1-14452
-iOS 14.2 (18B92)
+iOS 14.2.1 (18B121)
 iOS-Beta 14.3 beta 2 (18C5054c)
 iPadOS 14.2 (18B92)
 iPadOS-Beta 14.3 beta 2 (18C5054c)
@@ -104,7 +104,7 @@ iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.5.0
 kombu 5.0.2
-macOS null
+macOS Big Sur 11.0.1 (20B50)
 macOS-Beta Big Sur 11.1 beta (20C5048k)
 mas v1.7.1
 nvALT 2.2.8-128

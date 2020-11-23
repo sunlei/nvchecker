@@ -34,7 +34,7 @@ Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
 Kaleidoscope 2.3.4-1444
-Little-Snitch 5.0.2-6152
+Little-Snitch 5.0.3-6160
 MWeb 3.4.2
 Manico 2.8.1-393
 Marked 2.6.1-1007

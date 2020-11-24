@@ -13,7 +13,7 @@ Confluence 7.9.0
 CotEditor-Beta 4.0.1-455
 CotEditor-Stable 4.0.1-455
 DEVONthink 3.6
-DaisyDisk 4.12
+DaisyDisk 4.12.1
 Dash-for-macOS 5.5.1-948
 DataGrip 2020.2.3-202.7319.56
 Django 3.1.3
@@ -94,7 +94,7 @@ docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.3.3
+grafana v7.3.4
 iExplorer 4.4.1
 iMazing 2.13.1-14452
 iOS 14.2.1 (18B121)

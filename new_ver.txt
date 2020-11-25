@@ -12,7 +12,7 @@ CleanMyMac-X 4.7.1-40701.0.2011201839
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.5
-Confluence-Standard 7.9.0
+Confluence-Standard 7.9.1
 CotEditor-Beta 4.0.1-455
 CotEditor-Stable 4.0.1-455
 DEVONthink 3.6

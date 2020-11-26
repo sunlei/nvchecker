@@ -53,13 +53,13 @@ Navicat-Premium 15.0.22
 Netch 1.6.7
 NeteaseMusic 2.3.2-832
 Notion 2.0.8
-Obsidian v0.9.15
+Obsidian v0.9.17
 PyCharm 2020.2.3-202.7660.27
 QQ-for-Mac 6.7.0
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
 Sentry 20.11.1
-Sequel-Ace 2.3.1
+Sequel-Ace production/2.3.2-2121
 Setapp 2.7.7
 Sketch 70.1-108880
 Snipaste 2.5.2-Beta

@@ -62,7 +62,7 @@ Sentry 20.11.1
 Sequel-Ace production/2.3.2-2121
 Setapp 2.7.7
 Sketch 70.1-108880
-Snipaste 2.5.2-Beta
+Snipaste 2.5.5-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157

@@ -5,7 +5,7 @@ AriaNg-Native 1.1.7
 Arq-Backup 6.2.68
 Beancount 2.3.3
 BorgBackup 1.1.14
-Burp-Suite Professional / Community 2020.11.2
+Burp-Suite Professional / Community 2020.11.3
 Celery 5.0.2
 ClashX 1.31.0
 CleanMyMac-X 4.7.1-40701.0.2011201839
@@ -117,7 +117,7 @@ mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
 obsidian-plugin-advanced-tables 0.7.0
-obsidian-plugin-calendar 1.4.0
+obsidian-plugin-calendar 1.4.1
 obsidian-plugin-editor-syntax-highlight 0.1.1
 obsidian-plugin-hider 1.0.4
 obsidian-plugin-minimal-theme-settings 2.4.1

@@ -52,7 +52,7 @@ Movist-Pro 2.4.0-147
 Navicat-Premium 15.0.22
 Netch 1.6.7
 NeteaseMusic 2.3.2-832
-Notion 2.0.8
+Notion 2.0.10
 Obsidian v0.9.17
 PyCharm 2020.2.4-202.8194.15
 QQ-for-Mac 6.7.0

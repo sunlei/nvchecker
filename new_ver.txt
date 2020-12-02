@@ -54,7 +54,7 @@ Netch 1.6.7
 NeteaseMusic 2.3.3-840
 Notion 2.0.10
 Obsidian v0.9.17
-PyCharm 2020.2.5-202.8194.22
+PyCharm 2020.3-203.5981.165
 QQ-for-Mac 6.7.0
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
@@ -62,7 +62,7 @@ Sentry 20.11.1
 Sequel-Ace production/2.3.2-2121
 Setapp 2.7.7
 Sketch 70.2-109071
-Snipaste 2.5.5-Beta
+Snipaste 2.5.5-Beta2
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157

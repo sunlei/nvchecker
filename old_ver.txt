@@ -31,7 +31,7 @@ GitLab-Release GitLab Patch Release: 13.6.1
 GitLab-Runner-Helm-Chart v0.23.0
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 87.0.4280.67
-Google-Chrome-Dev 88.0.4324.11
+Google-Chrome-Dev 88.0.4324.27
 Google-Chrome-Stable 87.0.4280.67
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -88,7 +88,7 @@ Xcode 12.2 (12B45b)
 Xcode-Beta 12.3 beta (12C5020f)
 aText 2.36.6-104
 alfred-vscode v2.1.0
-ansible 2.10.3
+ansible 2.10.4
 coconutBattery 3.9.3
 @dcloudio/uni-h5 2.0.0-29820201110001
 @dcloudio/uni-h5-ui 2.0.0-29320201014001
@@ -117,7 +117,7 @@ mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
 obsidian-plugin-advanced-tables 0.7.0
-obsidian-plugin-calendar 1.4.1
+obsidian-plugin-calendar 1.4.2
 obsidian-plugin-editor-syntax-highlight 0.1.1
 obsidian-plugin-hider 1.0.4
 obsidian-plugin-minimal-theme-settings 2.4.1

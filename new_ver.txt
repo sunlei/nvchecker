@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.1-948
 DataGrip 2020.3-203.5981.102
 Django 3.1.4
 Docker-for-Mac 2.5.0.1-49550
-Dropbox 110.4.458
+Dropbox 111.4.472
 FilePane 1.10.7
 Firefox 83.0
 Fork 2.0.2
@@ -32,7 +32,7 @@ GitLab-Runner-Helm-Chart v0.23.0
 GoLand 2020.2.3-202.7319.61
 Google-Chrome-Beta 87.0.4280.67
 Google-Chrome-Dev 88.0.4324.27
-Google-Chrome-Stable 87.0.4280.67
+Google-Chrome-Stable 87.0.4280.88
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
@@ -52,7 +52,7 @@ Movist-Pro 2.4.0-147
 Navicat-Premium 15.0.22
 Netch 1.6.7
 NeteaseMusic 2.3.3-840
-Notion 2.0.10
+Notion 2.0.11
 Obsidian v0.9.17
 PyCharm 2020.3-203.5981.165
 QQ-for-Mac 6.7.0

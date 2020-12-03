@@ -6,7 +6,7 @@ Arq-Backup 6.2.68
 Beancount 2.3.3
 BorgBackup 1.1.14
 Burp-Suite Professional / Community 2020.11.3
-Celery 5.0.2
+Celery 5.0.3
 ClashX 1.31.0
 CleanMyMac-X 4.7.2-40702.0.2012021930
 Confluence 7.9.0
@@ -29,7 +29,7 @@ ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.6.1
 GitLab-Runner-Helm-Chart v0.23.0
-GoLand 2020.2.3-202.7319.61
+GoLand 2020.3-203.5981.98
 Google-Chrome-Beta 87.0.4280.67
 Google-Chrome-Dev 88.0.4324.27
 Google-Chrome-Stable 87.0.4280.88
@@ -112,7 +112,7 @@ iTerm2 2.1.4
 jumpserver v2.5.2
 kombu 5.0.2
 macOS Big Sur 11.0.1 (20B50)
-macOS-Beta Big Sur 11.1 beta (20C5048k)
+macOS-Beta Big Sur 11.1 beta 2 (20C5061b)
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2

@@ -136,4 +136,4 @@ uview-ui 1.8.2
 @vue/cli 4.5.9
 watchOS 7.1 (18R590)
 watchOS-Beta 7.2 beta 3 (18S5561a)
-webhook 2.7.0
+webhook 2.8.0

@@ -24,10 +24,10 @@ Docker-for-Mac 2.5.0.1-49550
 Dropbox 111.4.472
 FilePane 1.10.7
 Firefox 83.0
-Fork 2.1.2
+Fork 2.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
-GitLab-Release GitLab Security Release: 13.6.2, 13.5.5, and 13.4.7
+GitLab-Release GitLab Patch Release: 13.6.3
 GitLab-Runner-Helm-Chart v0.24.0-rc1
 GoLand 2020.3-203.5981.98
 Google-Chrome-Beta 88.0.4324.41
@@ -75,7 +75,7 @@ Syncthing-for-macOS v1.12.0-1-101200001
 TablePlus 3.12.0-354
 The-Unarchiver 4.2.4-131
 Tower-for-Mac 6.1-258
-Transmit 5.7.0
+Transmit 5.7.1
 Typora 0.9.9.35.2-4715
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.51.1

@@ -102,17 +102,17 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.3.5
 iExplorer 4.4.1
-iMazing 2.13.1-14452
-iOS 14.3 RC (18C65)
+iMazing 2.13.2-14523
+iOS 14.3 RC 2 (18C66)
 iOS-Beta null
-iPadOS 14.3 RC (18C65)
+iPadOS 14.3 RC 2 (18C66)
 iPadOS-Beta null
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.5.3
 kombu 5.0.2
-macOS Big Sur 11.0.1 (20B50)
-macOS-Beta Big Sur 11.1 beta 2 (20C5061b)
+macOS Big Sur 11.1 RC (20C69)
+macOS-Beta null
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2

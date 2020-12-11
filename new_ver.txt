@@ -41,7 +41,7 @@ Jira-Enterprise(Long-Term-Support) 8.13.1
 Jira-Standard 8.14.0
 Kaleidoscope 2.3.4-1444
 Little-Snitch 5.0.4-6162
-MWeb 3.4.3
+MWeb 3.4.4
 Manico 2.8.1-393
 Marked 2.6.2-1010
 Marked-2 2.6.2-1010
@@ -60,7 +60,7 @@ React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
 Sentry 20.11.1
 Sequel-Ace production/2.3.2-2121
-Setapp 2.7.7
+Setapp 2.7.14
 Sketch 70.2-109071
 Snipaste 2.5.6-Beta
 SourceTree 1.2.7
@@ -78,7 +78,7 @@ Tower-for-Mac 6.1-258
 Transmit 5.7.1
 Typora 0.9.9.35.2-4715
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.51.1
+Visual-Studio-Code 1.52.0
 Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0

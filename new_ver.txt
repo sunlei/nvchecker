@@ -60,7 +60,7 @@ React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
 Sentry 20.11.1
 Sequel-Ace production/2.3.2-2121
-Setapp 2.7.14
+Setapp 2.7.15
 Sketch 70.2-109071
 Snipaste 2.5.6-Beta
 SourceTree 1.2.7
@@ -121,7 +121,7 @@ obsidian-plugin-calendar 1.4.4
 obsidian-plugin-editor-syntax-highlight 0.1.1
 obsidian-plugin-hider 1.0.5
 obsidian-plugin-minimal-theme-settings 2.4.1
-obsidian-plugin-note-refactor 1.5.2
+obsidian-plugin-note-refactor 1.6.0
 obsidian-plugin-paste-url-into-selection 1.1.0
 obsidian-plugin-sliding-panes 3.2.1
 obsidian-plugin-templater 0.5.0

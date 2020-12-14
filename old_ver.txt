@@ -84,7 +84,7 @@ Vue.js 2.6.12
 Vuex 3.6.0
 WeChat-Work 3.0.36.2330
 Wechat-for-Mac 2.5.0.18-15735
-Xcode 12.3 RC (12C33)
+Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104
 alfred-vscode v2.1.0
@@ -103,21 +103,21 @@ docker-self-service-password 2.7
 grafana v7.3.5
 iExplorer 4.4.1
 iMazing 2.13.2-14531
-iOS 14.3 RC 2 (18C66)
+iOS 14.3 (18C66)
 iOS-Beta null
-iPadOS 14.3 RC 2 (18C66)
+iPadOS 14.3 (18C66)
 iPadOS-Beta null
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.5.3
 kombu 5.0.2
-macOS Big Sur 11.1 RC (20C69)
+macOS Big Sur 11.1 (20C69)
 macOS-Beta null
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
 obsidian-plugin-advanced-tables 0.7.0
-obsidian-plugin-calendar 1.4.4
+obsidian-plugin-calendar 1.4.5
 obsidian-plugin-editor-syntax-highlight 0.1.1
 obsidian-plugin-hider 1.0.5
 obsidian-plugin-minimal-theme-settings 2.4.1
@@ -130,10 +130,10 @@ snell v2.0.3
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
-tvOS 14.3 RC (18K561)
+tvOS 14.3 (18K561)
 tvOS-Beta null
 uview-ui 1.8.2
 @vue/cli 4.5.9
-watchOS 7.2 RC (18S563)
+watchOS 7.2 (18S563 | 18S564)
 watchOS-Beta null
 webhook 2.8.0

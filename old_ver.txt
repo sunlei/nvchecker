@@ -46,7 +46,7 @@ Manico 2.8.1-393
 Marked 2.6.2-1010
 Marked-2 2.6.2-1010
 Metabase v0.37.3
-Microsoft-Office 16.43.20110804
+Microsoft-Office 16.44.20121301
 Motrix v1.5.15
 Movist-Pro 2.4.0-147
 Navicat-Premium 15.0.24
@@ -58,7 +58,7 @@ PyCharm 2020.3-203.5981.165
 QQ-for-Mac 8.4.10.118
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
-Sentry 20.11.1
+Sentry 20.12.0
 Sequel-Ace production/2.3.2-2121
 Setapp 2.7.15
 Sketch 70.2-109071

@@ -6,7 +6,7 @@ Arq-Backup 6.2.68
 Beancount 2.3.3
 BorgBackup 1.1.14
 Burp-Suite Professional / Community 2020.12
-Celery 5.0.4
+Celery 5.0.5
 ClashX 1.31.1
 CleanMyMac-X 4.7.2-40702.0.2012021930
 Confluence 7.9.0
@@ -48,7 +48,7 @@ Marked-2 2.6.2-1010
 Metabase v0.37.3
 Microsoft-Office 16.44.20121301
 Motrix v1.5.15
-Movist-Pro 2.4.0-147
+Movist-Pro 2.4.5-160
 Navicat-Premium 15.0.24
 Netch 1.6.7
 NeteaseMusic 2.3.3-840

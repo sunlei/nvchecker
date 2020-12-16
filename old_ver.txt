@@ -104,9 +104,9 @@ grafana v7.3.5
 iExplorer 4.4.1
 iMazing 2.13.2-14531
 iOS 14.3 (18C66)
-iOS-Beta null
+iOS-Beta 14.4 beta (18D5030e)
 iPadOS 14.3 (18C66)
-iPadOS-Beta null
+iPadOS-Beta 14.4 beta (18D5030e)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.5.3
@@ -131,9 +131,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.3 (18K561)
-tvOS-Beta null
+tvOS-Beta 14.4 beta (18K5780c)
 uview-ui 1.8.2
 @vue/cli 4.5.9
 watchOS 7.2 (18S563 | 18S564)
-watchOS-Beta null
+watchOS-Beta 7.3 beta (18S5780d)
 webhook 2.8.0

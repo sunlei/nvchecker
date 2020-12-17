@@ -5,7 +5,7 @@ AriaNg-Native 1.1.7
 Arq-Backup 6.2.68
 Beancount 2.3.3
 BorgBackup 1.1.14
-Burp-Suite Professional / Community 2020.12
+Burp-Suite Professional / Community 2020.12.1
 Celery 5.0.5
 ClashX 1.31.1
 CleanMyMac-X 4.7.2-40702.0.2012021930

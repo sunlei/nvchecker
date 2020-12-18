@@ -45,7 +45,7 @@ MWeb 3.4.4
 Manico 2.8.1-393
 Marked 2.6.2-1010
 Marked-2 2.6.2-1010
-Metabase v0.37.3
+Metabase v0.37.4
 Microsoft-Office 16.44.20121301
 Motrix v1.5.15
 Movist-Pro 2.4.5-160

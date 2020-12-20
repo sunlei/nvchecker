@@ -124,7 +124,7 @@ obsidian-plugin-minimal-theme-settings 2.4.1
 obsidian-plugin-note-refactor 1.6.0
 obsidian-plugin-paste-url-into-selection 1.1.0
 obsidian-plugin-sliding-panes 3.2.1
-obsidian-plugin-templater 0.5.1
+obsidian-plugin-templater 0.5.3
 obsidian-theme-minimal 2.4.4
 snell v2.0.3
 tornado 6.1

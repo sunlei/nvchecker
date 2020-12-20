@@ -50,7 +50,7 @@ Microsoft-Office 16.44.20121301
 Motrix v1.5.15
 Movist-Pro 2.4.5-160
 Navicat-Premium 15.0.24
-Netch 1.6.7
+Netch 1.6.8
 NeteaseMusic 2.3.3-840
 Notion 2.0.11
 Obsidian v0.9.22

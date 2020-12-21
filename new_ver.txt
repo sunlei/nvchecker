@@ -8,7 +8,7 @@ BorgBackup 1.1.14
 Burp-Suite Professional / Community 2020.12.1
 Celery 5.0.5
 ClashX 1.31.2
-CleanMyMac-X 4.7.2-40702.0.2012021930
+CleanMyMac-X 4.7.3-40703.0.2012181915
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.6
@@ -54,7 +54,7 @@ Netch 1.6.8
 NeteaseMusic 2.3.3-840
 Notion 2.0.11
 Obsidian v0.9.22
-PyCharm 2020.3-203.5981.165
+PyCharm 2020.3.1-203.6682.86
 QQ-for-Mac 8.4.10.118
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
 WeChat-Work 3.1.0.2350
-Wechat-for-Mac 2.5.0.18-15735
+Wechat-for-Mac 2.6.0.17-16787
 Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104
@@ -109,7 +109,7 @@ iPadOS 14.3 (18C66)
 iPadOS-Beta 14.4 beta (18D5030e)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.6.0
+jumpserver v2.6.1
 kombu 5.0.2
 macOS Big Sur 11.1 (20C69)
 macOS-Beta Big Sur 11.2 beta (20D5029f)

@@ -53,7 +53,7 @@ Navicat-Premium 15.0.24
 Netch 1.6.8
 NeteaseMusic 2.3.3-840
 Notion 2.0.11
-Obsidian v0.9.22
+Obsidian v0.10.1
 PyCharm 2020.3.1-203.6682.86
 QQ-for-Mac 8.4.10.118
 React 17.0.1
@@ -82,8 +82,8 @@ Visual-Studio-Code 1.52.1
 Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
-WeChat-Work 3.1.0.2350
-Wechat-for-Mac 2.6.0.17-16787
+WeChat-Work 3.1.0.2351
+Wechat-for-Mac 2.5.0.18-15735
 Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104

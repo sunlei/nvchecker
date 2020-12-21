@@ -28,7 +28,7 @@ Fork 2.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.6.3
-GitLab-Runner-Helm-Chart v0.24.0-rc1
+GitLab-Runner-Helm-Chart v0.24.0
 GoLand 2020.3-203.5981.98
 Google-Chrome-Beta 88.0.4324.50
 Google-Chrome-Dev 89.0.4356.6
@@ -117,7 +117,7 @@ mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
 obsidian-plugin-advanced-tables 0.7.0
-obsidian-plugin-calendar 1.4.6
+obsidian-plugin-calendar 1.4.7
 obsidian-plugin-editor-syntax-highlight 0.1.1
 obsidian-plugin-hider 1.0.5
 obsidian-plugin-minimal-theme-settings 2.4.1

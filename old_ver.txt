@@ -82,7 +82,7 @@ Visual-Studio-Code 1.52.1
 Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
-WeChat-Work 3.1.0.2351
+WeChat-Work 3.1.0.2353
 Wechat-for-Mac 2.6.0.17-16787
 Xcode 12.3 (12C33)
 Xcode-Beta null

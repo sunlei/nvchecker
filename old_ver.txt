@@ -117,7 +117,7 @@ mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
 obsidian-plugin-advanced-tables 0.8.0
-obsidian-plugin-calendar 1.4.10
+obsidian-plugin-calendar 1.4.11
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5
 obsidian-plugin-minimal-theme-settings 2.5.0

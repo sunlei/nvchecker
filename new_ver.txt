@@ -19,7 +19,7 @@ DEVONthink 3.6.1
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.1-948
 DataGrip 2020.3.1-203.6682.134
-Django 3.1.4
+Django 3.1.5
 Docker-for-Mac 3.0.3-51017
 Dropbox 112.4.321
 FilePane 1.10.7
@@ -50,7 +50,7 @@ Microsoft-Office 16.44.20121301
 Motrix v1.5.15
 Movist-Pro 2.4.5-160
 Navicat-Premium 15.0.24
-Netch 1.7.0
+Netch 1.6.9
 NeteaseMusic 2.3.3-840
 Notion 2.0.11
 Obsidian v0.10.1

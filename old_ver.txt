@@ -88,7 +88,7 @@ Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104
 alfred-vscode v2.1.0
-ansible 2.10.4
+ansible 2.10.5
 coconutBattery 3.9.4
 @dcloudio/uni-h5 2.0.0-29820201110001
 @dcloudio/uni-h5-ui 2.0.0-29320201014001
@@ -100,7 +100,7 @@ docker-openldap v1.4.0
 docker-openldap-backup v1.3.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.3.5
+grafana v7.3.6
 iExplorer 4.4.1
 iMazing 2.13.2-14531
 iOS 14.3 (18C66)

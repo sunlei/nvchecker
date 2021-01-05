@@ -53,7 +53,7 @@ Navicat-Premium 15.0.24
 Netch 1.7.0
 NeteaseMusic 2.3.3-840
 Notion 2.0.11
-Obsidian v0.10.1
+Obsidian v0.10.6
 PyCharm 2020.3.2-203.6682.179
 QQ-for-Mac 8.4.10.118
 React 17.0.1

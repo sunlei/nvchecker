@@ -83,16 +83,16 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
 WeChat-Work 3.1.1.2358
-Wechat-for-Mac 2.6.1.17-16823
+Wechat-for-Mac 2.6.0.18-16795
 Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104
 alfred-vscode v2.1.0
 ansible 2.10.5
 coconutBattery 3.9.4
-@dcloudio/uni-h5 2.0.0-29820201110001
-@dcloudio/uni-h5-ui 2.0.0-29320201014001
-@dcloudio/uni-mp-weixin 2.0.0-29820201110001
+@dcloudio/uni-h5 2.0.0-30420201231001
+@dcloudio/uni-h5-ui 2.0.0-30420201231001
+@dcloudio/uni-mp-weixin 2.0.0-30420201231001
 docker-compose 1.27.4
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02

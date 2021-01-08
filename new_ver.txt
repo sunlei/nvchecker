@@ -28,7 +28,7 @@ Fork 2.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 13.7.2, 13.6.4, and 13.5.6
-GitLab-Runner-Helm-Chart v0.24.0
+GitLab-Runner-Helm-Chart v0.25.0-rc1
 GoLand 2020.3.1-203.6682.164
 Google-Chrome-Beta 88.0.4324.77
 Google-Chrome-Dev 89.0.4356.6
@@ -124,7 +124,7 @@ obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
 obsidian-plugin-paste-url-into-selection 1.1.0
 obsidian-plugin-sliding-panes 3.2.1
-obsidian-plugin-templater 0.5.4
+obsidian-plugin-templater 0.5.5
 obsidian-theme-minimal 2.5.2
 snell v2.0.3
 tornado 6.1

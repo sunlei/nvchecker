@@ -69,7 +69,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.7-1129
-Surge-Mac-v4-Beta 4.0.4-1225
+Surge-Mac-v4-Beta 4.0.4-1226
 Surge-Mac-v4-Stable 4.0.3-1224
 Syncthing-for-macOS v1.12.0-1-101200001
 TablePlus 3.12.2-358
@@ -103,9 +103,9 @@ docker-self-service-password 2.7
 grafana v7.3.6
 iExplorer 4.4.1
 iMazing 2.13.2-14531
-iOS 14.3 (18C66)
+iOS 12.5.1 (16H22)
 iOS-Beta 14.4 beta (18D5030e)
-iPadOS 14.3 (18C66)
+iPadOS 12.5.1 (16H22)
 iPadOS-Beta 14.4 beta (18D5030e)
 iStat-Menus 6.51
 iTerm2 2.1.4
@@ -116,7 +116,7 @@ macOS-Beta Big Sur 11.2 beta (20D5029f)
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
-obsidian-plugin-advanced-tables 0.8.1
+obsidian-plugin-advanced-tables 0.8.2
 obsidian-plugin-calendar 1.4.12
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5

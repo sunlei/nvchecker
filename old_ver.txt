@@ -46,7 +46,7 @@ Manico 2.8.1-393
 Marked 2.6.2-1010
 Marked-2 2.6.2-1010
 Metabase v0.37.5
-Microsoft-Office 16.44.20121301
+Microsoft-Office 16.45.21011103
 Motrix v1.5.15
 Movist-Pro 2.4.5-160
 Navicat-Premium 15.0.24
@@ -104,15 +104,15 @@ grafana v7.3.6
 iExplorer 4.4.1
 iMazing 2.13.2-14531
 iOS 12.5.1 (16H22)
-iOS-Beta 14.4 beta (18D5030e)
+iOS-Beta 14.4 beta 2 (18D5043d)
 iPadOS 12.5.1 (16H22)
-iPadOS-Beta 14.4 beta (18D5030e)
+iPadOS-Beta 14.4 beta 2 (18D5043d)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.6.1
 kombu 5.0.2
 macOS Big Sur 11.1 (20C69)
-macOS-Beta Big Sur 11.2 beta (20D5029f)
+macOS-Beta Big Sur 11.2 beta 2 (20D5042d)
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
@@ -131,9 +131,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.3 (18K561)
-tvOS-Beta 14.4 beta (18K5780c)
+tvOS-Beta 14.4 beta 2 (18K5793d)
 uview-ui 1.8.3
 @vue/cli 4.5.10
 watchOS 7.2 (18S563 | 18S564)
-watchOS-Beta 7.3 beta (18S5780d)
+watchOS-Beta 7.3 beta 2 (18S5793d)
 webhook 2.8.0

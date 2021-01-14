@@ -2,7 +2,7 @@
 Alfred 4.3
 AriaNg 1.1.7
 AriaNg-Native 1.1.7
-Arq-Backup 6.2.68
+Arq-Backup 6.2.76
 Beancount 2.3.3
 BorgBackup 1.1.15
 Burp-Suite Professional / Community 2020.12.1
@@ -38,7 +38,7 @@ IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) 8.13.1
-Jira-Standard 8.14.0
+Jira-Standard 8.14.1
 Kaleidoscope 2.3.5-1445
 Little-Snitch 5.0.4-6162
 MWeb 3.4.4

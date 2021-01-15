@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.1-948
 DataGrip 2020.3.1-203.6682.134
 Django 3.1.5
 Docker-for-Mac 3.0.4-51218
-Dropbox 112.4.321
+Dropbox 113.4.507
 FilePane 1.10.7
 Firefox 84.0.2
 Fork 2.2
@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
 WeChat-Work 3.1.1.2358
-Wechat-for-Mac 2.6.1.17-16837
+Wechat-for-Mac 2.6.1.19-16853
 Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104
@@ -124,7 +124,7 @@ obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
 obsidian-plugin-paste-url-into-selection 1.1.0
 obsidian-plugin-sliding-panes 3.2.2
-obsidian-plugin-templater 0.5.6
+obsidian-plugin-templater 0.5.7
 obsidian-theme-minimal 2.5.2
 snell v2.0.3
 tornado 6.1

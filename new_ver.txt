@@ -58,7 +58,7 @@ PyCharm 2020.3.2-203.6682.179
 QQ-for-Mac 8.4.10.118
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
-Sentry 20.12.1
+Sentry 21.1.0
 Sequel-Ace production/3.1.0-3013
 Setapp 2.7.15
 Sketch 70.3-109109
@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
 WeChat-Work 3.1.1.2358
-Wechat-for-Mac 2.6.1.19-16853
+Wechat-for-Mac 2.6.1.17-16837
 Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104

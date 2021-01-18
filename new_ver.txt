@@ -30,7 +30,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.7.4, 13.6.5 and 13.5.7
 GitLab-Runner-Helm-Chart v0.25.0-rc1
 GoLand 2020.3.1-203.6682.164
-Google-Chrome-Beta 88.0.4324.87
+Google-Chrome-Beta 88.0.4324.96
 Google-Chrome-Dev 89.0.4384.0
 Google-Chrome-Stable 87.0.4280.141
 Hazel 4.4.5
@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
 WeChat-Work 3.1.1.2358
-Wechat-for-Mac 2.6.1.17-16837
+Wechat-for-Mac 2.6.1.19-16853
 Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104
@@ -118,7 +118,7 @@ mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
 obsidian-plugin-advanced-tables 0.8.2
-obsidian-plugin-calendar 1.4.13
+obsidian-plugin-calendar 1.4.14
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5
 obsidian-plugin-minimal-theme-settings 2.5.0

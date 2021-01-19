@@ -20,7 +20,7 @@ DaisyDisk 4.12.1
 Dash-for-macOS 5.5.1-948
 DataGrip 2020.3.1-203.6682.134
 Django 3.1.5
-Docker-for-Mac 3.1.0-51484
+Docker-for-Mac 3.0.4-51218
 Dropbox 113.4.507
 FilePane 1.10.7
 Firefox 84.0.2
@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
 WeChat-Work 3.1.1.2358
-Wechat-for-Mac 2.6.1.19-16853
+Wechat-for-Mac 2.6.1.17-16837
 Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104

@@ -69,7 +69,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.7-1129
-Surge-Mac-v4-Beta 4.0.5-1228
+Surge-Mac-v4-Beta 4.0.5-1229
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.12.1-1-101200101
 TablePlus 3.12.2-358
@@ -93,7 +93,7 @@ coconutBattery 3.9.4
 @dcloudio/uni-h5 2.0.0-30520210106003
 @dcloudio/uni-h5-ui 2.0.0-30520210106003
 @dcloudio/uni-mp-weixin 2.0.0-30520210106003
-docker-compose 1.27.4
+docker-compose 1.28.0
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0

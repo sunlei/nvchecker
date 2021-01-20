@@ -28,7 +28,7 @@ Fork 2.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.7.4, 13.6.5 and 13.5.7
-GitLab-Runner-Helm-Chart v0.25.0-rc1
+GitLab-Runner-Helm-Chart v0.25.0
 GoLand 2020.3.1-203.6682.164
 Google-Chrome-Beta 88.0.4324.96
 Google-Chrome-Dev 89.0.4384.0
@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
 Vuex 3.6.0
 WeChat-Work 3.1.1.2358
-Wechat-for-Mac 2.6.1.19-16853
+Wechat-for-Mac 2.6.1.17-16823
 Xcode 12.3 (12C33)
 Xcode-Beta null
 aText 2.36.6-104

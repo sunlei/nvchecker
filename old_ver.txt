@@ -109,8 +109,8 @@ iPadOS 12.5.1 (16H22)
 iPadOS-Beta 14.4 beta 2 (18D5043d)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.6.2
-jumpserver-installer v2.6.2
+jumpserver v2.7.0
+jumpserver-installer v2.7.0
 kombu 5.0.2
 macOS Big Sur 11.1 (20C69)
 macOS-Beta Big Sur 11.2 beta 2 (20D5042d)

@@ -1,5 +1,5 @@
 1Password-for-Mac 7.7
-Alfred 4.3
+Alfred 4.3.1
 AriaNg 1.1.7
 AriaNg-Native 1.1.7
 Arq-Backup 6.2.76
@@ -24,7 +24,7 @@ Docker-for-Mac 3.1.0-51484
 Dropbox 113.4.507
 FilePane 1.10.7
 Firefox 84.0.2
-Fork 2.2
+Fork 2.3
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.7.4, 13.6.5 and 13.5.7
@@ -134,7 +134,7 @@ trojan-go v0.8.2
 tvOS 14.4 RC (18K802)
 tvOS-Beta null
 uview-ui 1.8.3
-@vue/cli 4.5.10
+@vue/cli 4.5.11
 watchOS 7.3 RC (18S801)
 watchOS-Beta null
 webhook 2.8.0

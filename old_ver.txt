@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.1-948
 DataGrip 2020.3.1-203.6682.134
 Django 3.1.5
 Docker-for-Mac 3.1.0-51484
-Dropbox 113.4.507
+Dropbox 114.4.426
 FilePane 1.10.7
 Firefox 84.0.2
 Fork 2.3.1
@@ -112,7 +112,7 @@ iTerm2 2.1.4
 jumpserver v2.7.0
 jumpserver-installer v2.7.0
 kombu 5.0.2
-macOS Big Sur 11.2 RC (20D53)
+macOS Big Sur 11.2 RC 2 (20D62)
 macOS-Beta null
 mas v1.7.1
 nvALT 2.2.8-128

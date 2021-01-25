@@ -24,7 +24,7 @@ Docker-for-Mac 3.1.0-51484
 Dropbox 113.4.507
 FilePane 1.10.7
 Firefox 84.0.2
-Fork 2.3
+Fork 2.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.7.4, 13.6.5 and 13.5.7
@@ -53,7 +53,7 @@ Navicat-Premium 15.0.25
 Netch 1.7.2
 NeteaseMusic 2.3.4-846
 Notion 2.0.11
-Obsidian v0.10.8
+Obsidian v0.10.9
 PyCharm 2020.3.2-203.6682.179
 QQ-for-Mac 8.4.10.118
 React 17.0.1
@@ -90,9 +90,9 @@ aText 2.36.6-104
 alfred-vscode v2.1.0
 ansible 2.10.5
 coconutBattery 3.9.4
-@dcloudio/uni-h5 2.0.0-30520210106003
-@dcloudio/uni-h5-ui 2.0.0-30520210106003
-@dcloudio/uni-mp-weixin 2.0.0-30520210106003
+@dcloudio/uni-h5 2.0.0-30720210122001
+@dcloudio/uni-h5-ui 2.0.0-30720210122001
+@dcloudio/uni-mp-weixin 2.0.0-30720210122001
 docker-compose 1.28.0
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02

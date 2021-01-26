@@ -84,7 +84,7 @@ Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.1.2358
 Wechat-for-Mac 2.6.1.19-16853
-Xcode 12.4 RC (12D4e)
+Xcode 12.4 (12D4e)
 Xcode-Beta null
 aText 2.36.6-104
 alfred-vscode v2.1.0
@@ -93,7 +93,7 @@ coconutBattery 3.9.4
 @dcloudio/uni-h5 2.0.0-30720210122001
 @dcloudio/uni-h5-ui 2.0.0-30720210122001
 @dcloudio/uni-mp-weixin 2.0.0-30720210122001
-docker-compose 1.28.0
+docker-compose 1.28.2
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0
@@ -103,9 +103,9 @@ docker-self-service-password 2.7
 grafana v7.4.0-beta1
 iExplorer 4.4.1
 iMazing 2.13.2-14531
-iOS 14.4 RC (18D52)
+iOS 14.4 (18D52)
 iOS-Beta null
-iPadOS 14.4 RC (18D52)
+iPadOS 14.4 (18D52)
 iPadOS-Beta null
 iStat-Menus 6.51
 iTerm2 2.1.4
@@ -131,10 +131,10 @@ snell v2.0.3
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
-tvOS 14.4 RC (18K802)
+tvOS 14.4 (18K802)
 tvOS-Beta null
 uview-ui 1.8.3
 @vue/cli 4.5.11
-watchOS 7.3 RC (18S801)
+watchOS 7.3 (18S801)
 watchOS-Beta null
 webhook 2.8.0

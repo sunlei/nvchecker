@@ -8,7 +8,7 @@ BorgBackup 1.1.15
 Burp-Suite Professional / Community 2020.12.1
 Celery 5.0.5
 ClashX 1.31.2
-CleanMyMac-X 4.7.3-40703.0.2012181915
+CleanMyMac-X 4.7.4-40704.0.2101251619
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.6
@@ -23,7 +23,7 @@ Django 3.1.5
 Docker-for-Mac 3.1.0-51484
 Dropbox 114.4.426
 FilePane 1.10.7
-Firefox 84.0.2
+Firefox 85.0
 Fork 2.3.1
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
@@ -50,7 +50,7 @@ Microsoft-Office 16.45.21011103
 Motrix v1.5.15
 Movist-Pro 2.4.5-160
 Navicat-Premium 15.0.25
-Netch 1.7.2
+Netch 1.7.3
 NeteaseMusic 2.3.4-846
 Notion 2.0.11
 Obsidian v0.10.9
@@ -81,7 +81,7 @@ UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.52.1
 Vorta-Backup-Client v0.7.1
 Vue.js 2.6.12
-Vuex 3.6.1
+Vuex 3.6.2
 WeChat-Work 3.1.1.2358
 Wechat-for-Mac 2.6.1.19-16853
 Xcode 12.4 RC (12D4e)

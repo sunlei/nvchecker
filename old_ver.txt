@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.1-948
 DataGrip 2020.3.1-203.6682.134
 Django 3.1.5
 Docker-for-Mac 3.1.0-51484
-Dropbox 115.3.529
+Dropbox 114.4.426
 FilePane 1.10.7
 Firefox 85.0
 Fork 2.3.1
@@ -69,7 +69,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.7-1129
-Surge-Mac-v4-Beta 4.0.5-1239
+Surge-Mac-v4-Beta 4.0.5-1242
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.12.1-1-101200101
 TablePlus 3.12.2-358

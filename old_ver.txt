@@ -54,7 +54,7 @@ Netch 1.7.3
 NeteaseMusic 2.3.4-846
 Notion 2.0.11
 Obsidian v0.10.9
-PyCharm 2020.3.2-203.6682.179
+PyCharm 2020.3.3-203.7148.72
 QQ-for-Mac 8.4.10.118
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
@@ -117,7 +117,7 @@ macOS-Beta null
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
-obsidian-plugin-advanced-tables 0.9.1
+obsidian-plugin-advanced-tables 0.9.2
 obsidian-plugin-calendar 1.4.19
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5

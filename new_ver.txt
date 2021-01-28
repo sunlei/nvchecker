@@ -29,7 +29,7 @@ ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.8.1
 GitLab-Runner-Helm-Chart v0.25.0
-GoLand 2020.3.1-203.6682.164
+GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 88.0.4324.96
 Google-Chrome-Dev 89.0.4389.23
 Google-Chrome-Stable 88.0.4324.96
@@ -53,7 +53,7 @@ Navicat-Premium 15.0.25
 Netch 1.7.3
 NeteaseMusic 2.3.4-846
 Notion 2.0.11
-Obsidian v0.10.9
+Obsidian v0.10.11
 PyCharm 2020.3.3-203.7148.72
 QQ-for-Mac 8.4.10.118
 React 17.0.1

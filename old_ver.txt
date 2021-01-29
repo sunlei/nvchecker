@@ -112,7 +112,7 @@ iTerm2 2.1.4
 jumpserver v2.7.0
 jumpserver-installer v2.7.0
 kombu 5.0.2
-macOS Big Sur 11.2 RC 2 (20D62)
+macOS Big Sur 11.2 RC 3 (20D64)
 macOS-Beta null
 mas v1.7.1
 nvALT 2.2.8-128

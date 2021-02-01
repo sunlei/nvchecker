@@ -19,7 +19,7 @@ DEVONthink 3.6.1
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.1-948
 DataGrip 2020.3.2-203.7148.68
-Django 3.1.5
+Django 3.1.6
 Docker-for-Mac 3.1.0-51484
 Dropbox 114.4.426
 FilePane 1.10.7
@@ -68,7 +68,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.7-1129
+Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.0.5-1247
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.12.1-1-101200101

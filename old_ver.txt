@@ -68,7 +68,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.7-1129
+Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.0.5-1247
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.12.1-1-101200101
@@ -117,7 +117,7 @@ macOS-Beta null
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2
-obsidian-plugin-advanced-tables 0.9.2
+obsidian-plugin-advanced-tables 0.10.0
 obsidian-plugin-calendar 1.4.19
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5

@@ -32,7 +32,7 @@ GitLab-Runner-Helm-Chart v0.25.0
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.23
 Google-Chrome-Dev 90.0.4400.10
-Google-Chrome-Stable 88.0.4324.96
+Google-Chrome-Stable 88.0.4324.146
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
@@ -43,8 +43,8 @@ Kaleidoscope 2.3.6-1447
 Little-Snitch 5.0.4-6162
 MWeb 3.4.4
 Manico 2.9-405
-Marked 2.6.2-1010
-Marked-2 2.6.2-1010
+Marked 2.6.3-1013
+Marked-2 2.6.3-1013
 Metabase v0.37.8
 Microsoft-Office 16.45.21011103
 Motrix v1.5.15
@@ -68,10 +68,10 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.9-1188
+Surge-Mac-v3-Stable 3.5.7-1129
 Surge-Mac-v4-Beta 4.0.5-1247
 Surge-Mac-v4-Stable 4.0.4-1226
-Syncthing-for-macOS v1.12.1-1-101200101
+Syncthing-for-macOS v1.13.0-1-101300001
 TablePlus 3.12.2-358
 The-Unarchiver 4.2.4-131
 Tower-for-Mac 6.2-264
@@ -113,7 +113,7 @@ jumpserver v2.7.0
 jumpserver-installer v2.7.0
 kombu 5.0.2
 macOS Big Sur 11.2 (20D64)
-macOS-Beta null
+macOS-Beta Big Sur 11.3 beta (20E5172i)
 mas v1.7.1
 nvALT 2.2.8-128
 nvchecker v2.2

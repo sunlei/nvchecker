@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.1-948
 DataGrip 2020.3.2-203.7148.68
 Django 3.1.6
 Docker-for-Mac 3.1.0-51484
-Dropbox 114.4.426
+Dropbox 115.4.601
 FilePane 1.10.7
 Firefox 85.0
 Fork 2.3.2
@@ -30,7 +30,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 13.8.2, 13.7.6 and 13.6.6
 GitLab-Runner-Helm-Chart v0.25.0
 GoLand 2020.3.2-203.7148.71
-Google-Chrome-Beta 89.0.4389.23
+Google-Chrome-Beta 89.0.4389.40
 Google-Chrome-Dev 90.0.4400.10
 Google-Chrome-Stable 88.0.4324.146
 Hazel 4.4.5
@@ -68,7 +68,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.9-1188
+Surge-Mac-v3-Stable 3.5.7-1129
 Surge-Mac-v4-Beta 4.0.5-1248
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.0-1-101300001

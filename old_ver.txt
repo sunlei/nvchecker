@@ -32,7 +32,7 @@ GitLab-Runner-Helm-Chart v0.25.0
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.40
 Google-Chrome-Dev 90.0.4400.10
-Google-Chrome-Stable 88.0.4324.146
+Google-Chrome-Stable 88.0.4324.150
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
@@ -102,7 +102,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.4.0
 iExplorer 4.4.1
-iMazing 2.13.3-14694
+iMazing 2.13.2-14531
 iOS 14.4 (18D52)
 iOS-Beta 14.5 beta (18E5140k)
 iPadOS 14.4 (18D52)

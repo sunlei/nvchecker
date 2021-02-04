@@ -68,7 +68,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.7-1129
+Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.0.5-1249
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.0-1-101300001
@@ -109,8 +109,8 @@ iPadOS 14.4 (18D52)
 iPadOS-Beta 14.5 beta (18E5140j)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.7.0
-jumpserver-installer v2.7.0
+jumpserver v2.7.1
+jumpserver-installer v2.7.1
 kombu 5.0.2
 macOS Big Sur 11.2 (20D64)
 macOS-Beta Big Sur 11.3 beta (20E5172i)

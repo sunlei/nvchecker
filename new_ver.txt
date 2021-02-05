@@ -27,7 +27,7 @@ Firefox 85.0.1
 Fork 2.3.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
-GitLab-Release GitLab Security Release: 13.8.2, 13.7.6 and 13.6.6
+GitLab-Release GitLab Patch Release: 13.8.3
 GitLab-Runner-Helm-Chart v0.25.0
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.40

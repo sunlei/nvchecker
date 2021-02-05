@@ -23,7 +23,7 @@ Django 3.1.6
 Docker-for-Mac 3.1.0-51484
 Dropbox 115.4.601
 FilePane 1.10.7
-Firefox 85.0
+Firefox 85.0.1
 Fork 2.3.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
@@ -68,7 +68,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.9-1188
+Surge-Mac-v3-Stable 3.5.7-1129
 Surge-Mac-v4-Beta 4.0.5-1249
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.0-1-101300001
@@ -102,7 +102,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.4.0
 iExplorer 4.4.1
-iMazing 2.13.2-14531
+iMazing 2.13.3-14698
 iOS 14.4 (18D52)
 iOS-Beta 14.5 beta (18E5140k)
 iPadOS 14.4 (18D52)

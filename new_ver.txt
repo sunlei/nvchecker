@@ -31,7 +31,7 @@ GitLab-Release GitLab Patch Release: 13.8.3
 GitLab-Runner-Helm-Chart v0.25.0
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.40
-Google-Chrome-Dev 90.0.4400.10
+Google-Chrome-Dev 90.0.4408.0
 Google-Chrome-Stable 88.0.4324.150
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -68,13 +68,13 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.7-1129
+Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.0.5-1249
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.0-1-101300001
 TablePlus 3.12.2-358
 The-Unarchiver 4.2.4-131
-Tower-for-Mac 6.2-264
+Tower-for-Mac 6.3-273
 Transmit 5.7.1
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66

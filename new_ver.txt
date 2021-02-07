@@ -68,13 +68,13 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.7-1129
+Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.0.5-1249
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.0-1-101300001
 TablePlus 3.12.2-358
 The-Unarchiver 4.2.4-131
-Tower-for-Mac 6.2-264
+Tower-for-Mac 6.3-273
 Transmit 5.7.1
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66

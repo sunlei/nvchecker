@@ -5,7 +5,7 @@ AriaNg-Native 1.1.7
 Arq-Backup 6.2.76
 Beancount 2.3.3
 BorgBackup 1.1.15
-Burp-Suite Professional / Community 2020.12.1
+Burp-Suite Professional / Community 2021.2
 Celery 5.0.5
 ClashX 1.31.2
 CleanMyMac-X 4.7.4-40704.0.2101251619
@@ -102,7 +102,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.4.0
 iExplorer 4.4.1
-iMazing 2.13.2-14531
+iMazing 2.13.4-14707
 iOS 14.4 (18D52)
 iOS-Beta 14.5 beta (18E5140k)
 iPadOS 14.4 (18D52)

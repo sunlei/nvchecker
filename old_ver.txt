@@ -23,7 +23,7 @@ Django 3.1.6
 Docker-for-Mac 3.1.0-51484
 Dropbox 115.4.601
 FilePane 1.10.7
-Firefox 85.0.1
+Firefox 85.0.2
 Fork 2.3.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
@@ -78,7 +78,7 @@ Tower-for-Mac 6.3-273
 Transmit 5.7.1
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.53.0
+Visual-Studio-Code 1.53.1
 Vorta-Backup-Client v0.7.2
 Vue.js 2.6.12
 Vuex 3.6.2
@@ -112,7 +112,7 @@ iTerm2 2.1.4
 jumpserver v2.7.1
 jumpserver-installer v2.7.1
 kombu 5.0.2
-macOS Big Sur 11.2 (20D64)
+macOS Big Sur 11.2.1 (20D74)
 macOS-Beta Big Sur 11.3 beta (20E5172i)
 mas v1.7.1
 nvALT 2.2.8-128

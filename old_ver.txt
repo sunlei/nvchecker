@@ -28,7 +28,7 @@ Fork 2.3.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.8.3
-GitLab-Runner-Helm-Chart v0.25.0
+GitLab-Runner-Helm-Chart v0.26.0-rc1
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.40
 Google-Chrome-Dev 90.0.4408.0
@@ -53,7 +53,7 @@ Navicat-Premium 15.0.25
 Netch 1.7.3
 NeteaseMusic 2.3.4-846
 Notion 2.0.11
-Obsidian v0.10.11
+Obsidian v0.10.13
 PyCharm 2020.3.3-203.7148.72
 QQ-for-Mac 8.4.10.118
 React 17.0.1
@@ -68,7 +68,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.7-1129
+Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.0.5-1249
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.0-1-101300001

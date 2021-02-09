@@ -31,7 +31,7 @@ GitLab-Release GitLab Patch Release: 13.8.3
 GitLab-Runner-Helm-Chart v0.26.0-rc1
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.40
-Google-Chrome-Dev 90.0.4408.0
+Google-Chrome-Dev 90.0.4412.3
 Google-Chrome-Stable 88.0.4324.150
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -88,7 +88,7 @@ Xcode 12.4 (12D4e)
 Xcode-Beta 12.5 beta (12E5220o)
 aText 2.36.6-104
 alfred-vscode v2.1.0
-ansible 2.10.6
+ansible 2.10.7
 coconutBattery 3.9.4
 @dcloudio/uni-h5 2.0.0-30720210122002
 @dcloudio/uni-h5-ui 2.0.0-30720210122002

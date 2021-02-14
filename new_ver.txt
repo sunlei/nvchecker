@@ -1,7 +1,7 @@
 1Password-for-Mac 7.7
 Alfred 4.3.1
 AriaNg 1.2.0
-AriaNg-Native 1.1.7
+AriaNg-Native 1.2.0
 Arq-Backup 6.2.76
 Beancount 2.3.3
 BorgBackup 1.1.15

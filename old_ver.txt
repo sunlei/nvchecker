@@ -28,7 +28,7 @@ Fork 2.3.2
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 13.8.4, 13.7.7 and 13.6.7
-GitLab-Runner-Helm-Chart v0.26.0-rc1
+GitLab-Runner-Helm-Chart v0.26.0-rc2
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.47
 Google-Chrome-Dev 90.0.4412.3
@@ -39,7 +39,7 @@ Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) 8.13.1
 Jira-Standard 8.15.0
-Kaleidoscope 2.3.6-1447
+Kaleidoscope 2.4-1450
 Little-Snitch 5.0.4-6162
 MWeb 3.4.4
 Manico 2.9.1-407
@@ -58,7 +58,7 @@ PyCharm 2020.3.3-203.7148.72
 QQ-for-Mac 8.4.10.118
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
-Sentry 21.1.0
+Sentry 21.2.0
 Sequel-Ace production/3.2.0-3019
 Setapp 2.7.15
 Sketch 70.4-109185
@@ -135,6 +135,6 @@ tvOS 14.4 (18K802)
 tvOS-Beta 14.5 beta (18L5149j)
 uview-ui 1.8.3
 @vue/cli 4.5.11
-watchOS 7.3 (18S801)
+watchOS 7.3.1 (18S811)
 watchOS-Beta 7.4 beta (18T5144k)
 webhook 2.8.0

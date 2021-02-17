@@ -30,7 +30,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 13.8.4, 13.7.7 and 13.6.7
 GitLab-Runner-Helm-Chart v0.26.0-rc2
 GoLand 2020.3.2-203.7148.71
-Google-Chrome-Beta 89.0.4389.47
+Google-Chrome-Beta 89.0.4389.58
 Google-Chrome-Dev 90.0.4412.3
 Google-Chrome-Stable 88.0.4324.182
 Hazel 4.4.5
@@ -93,7 +93,7 @@ coconutBattery 3.9.4
 @dcloudio/uni-h5 2.0.0-30720210122002
 @dcloudio/uni-h5-ui 2.0.0-30720210122002
 @dcloudio/uni-mp-weixin 2.0.0-30720210122002
-docker-compose 1.28.2
+docker-compose 1.28.3
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.4.0

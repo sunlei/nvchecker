@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2020.3.2-203.7148.68
 Django 3.1.6
 Docker-for-Mac 3.1.0-51484
-Dropbox 115.4.601
+Dropbox 116.4.368
 FilePane 1.10.7
 Firefox 85.0.2
 Fork 2.3.2
@@ -45,8 +45,8 @@ MWeb 3.4.4
 Manico 2.9.1-407
 Marked 2.6.4-1014
 Marked-2 2.6.4-1014
-Metabase v0.37.9
-Microsoft-Office 16.45.21011103
+Metabase v0.38.0
+Microsoft-Office 16.46.21021202
 Motrix v1.5.15
 Movist-Pro 2.4.5-160
 Navicat-Premium 15.0.25
@@ -68,7 +68,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.9-1188
+Surge-Mac-v3-Stable 3.5.7-1129
 Surge-Mac-v4-Beta 4.0.5-1249
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.1-1-101300101

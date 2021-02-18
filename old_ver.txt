@@ -68,7 +68,7 @@ Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
-Surge-Mac-v3-Stable 3.5.9-1188
+Surge-Mac-v3-Stable 3.5.7-1129
 Surge-Mac-v4-Beta 4.0.5-1251
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.1-1-101300101
@@ -88,7 +88,7 @@ Xcode 12.4 (12D4e)
 Xcode-Beta 12.5 beta 2 (12E5234g)
 aText 2.36.6-104
 alfred-vscode v2.1.0
-ansible 2.10.7
+ansible 3.0.0
 coconutBattery 3.9.4
 @dcloudio/uni-h5 2.0.0-31220210205003
 @dcloudio/uni-h5-ui 2.0.0-31220210205003
@@ -117,7 +117,7 @@ macOS-Beta Big Sur 11.3 beta 2 (20E5186d)
 mas v1.8.0
 nvALT 2.2.8-128
 nvchecker v2.2
-obsidian-plugin-advanced-tables 0.10.0
+obsidian-plugin-advanced-tables 0.11.0
 obsidian-plugin-calendar 1.5.3
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5

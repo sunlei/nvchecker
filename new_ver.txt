@@ -28,11 +28,11 @@ Fork 2.4
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 13.8.4, 13.7.7 and 13.6.7
-GitLab-Runner-Helm-Chart v0.26.0-rc2
+GitLab-Runner-Helm-Chart v0.26.0
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.58
 Google-Chrome-Dev 90.0.4421.5
-Google-Chrome-Stable 88.0.4324.182
+Google-Chrome-Stable 88.0.4324.192
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0

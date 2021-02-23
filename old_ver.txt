@@ -40,7 +40,7 @@ Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) 8.13.1
 Jira-Standard 8.15.0
 Kaleidoscope 2.4-1450
-Little-Snitch 5.0.4-6162
+Little-Snitch 5.1-6183
 MWeb 3.4.4
 Manico 2.9.1-407
 Marked 2.6.4-1014

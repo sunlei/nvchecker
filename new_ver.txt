@@ -82,7 +82,7 @@ Visual-Studio-Code 1.53.2
 Vorta-Backup-Client v0.7.3
 Vue.js 2.6.12
 Vuex 3.6.2
-WeChat-Work 3.1.2.2364
+WeChat-Work 3.1.2.2368
 Wechat-for-Mac 2.6.1.19-16853
 Xcode 12.4 (12D4e)
 Xcode-Beta 12.5 beta 2 (12E5234g)
@@ -127,7 +127,7 @@ obsidian-plugin-paste-url-into-selection 1.1.0
 obsidian-plugin-sliding-panes 3.2.2
 obsidian-plugin-templater 0.5.7
 obsidian-theme-minimal 2.5.2
-snell v2.0.3
+snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2

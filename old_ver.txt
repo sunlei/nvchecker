@@ -69,7 +69,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.0.5-1259
+Surge-Mac-v4-Beta 4.0.5-1261
 Surge-Mac-v4-Stable 4.0.4-1226
 Syncthing-for-macOS v1.13.1-1-101300101
 TablePlus 3.12.4-360
@@ -100,7 +100,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.4.2
+grafana v7.4.3
 iExplorer 4.4.1
 iMazing 2.13.4-14707
 iOS 14.4 (18D52)

@@ -37,7 +37,7 @@ Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
-Jira-Enterprise(Long-Term-Support) 8.13.1
+Jira-Enterprise(Long-Term-Support) null
 Jira-Standard 8.15.0
 Kaleidoscope 2.4-1450
 Little-Snitch 5.1-6183
@@ -112,7 +112,7 @@ iTerm2 2.1.4
 jumpserver v2.7.1
 jumpserver-installer v2.7.1
 kombu 5.0.2
-macOS Big Sur 11.2.1 (20D74)
+macOS Big Sur 11.2.2 (20D80)
 macOS-Beta Big Sur 11.3 beta 2 (20E5186d)
 mas v1.8.0
 nvALT 2.2.8-128

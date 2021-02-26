@@ -40,7 +40,7 @@ Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) null
 Jira-Standard 8.15.0
 Kaleidoscope 2.4-1450
-Little-Snitch 5.1-6183
+Little-Snitch 5.1.1-6185
 MWeb 3.4.4
 Manico 2.9.2-410
 Marked 2.6.4-1014
@@ -93,7 +93,7 @@ coconutBattery 3.9.4
 @dcloudio/uni-h5 2.0.0-31220210205004
 @dcloudio/uni-h5-ui 2.0.0-31220210205004
 @dcloudio/uni-mp-weixin 2.0.0-31220210205004
-docker-compose 1.28.4
+docker-compose 1.28.5
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.5.0

@@ -113,7 +113,7 @@ jumpserver v2.7.1
 jumpserver-installer v2.7.1
 kombu 5.0.2
 macOS Big Sur 11.2.2 (20D80)
-macOS-Beta Big Sur 11.3 beta 2 (20E5186d)
+macOS-Beta Big Sur 11.3 beta 3 (20E5196f)
 mas v1.8.0
 nvALT 2.2.8-128
 nvchecker v2.2

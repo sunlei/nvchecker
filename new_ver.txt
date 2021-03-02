@@ -32,7 +32,7 @@ GitLab-Runner-Helm-Chart v0.26.0
 GoLand 2020.3.2-203.7148.71
 Google-Chrome-Beta 89.0.4389.72
 Google-Chrome-Dev 90.0.4427.5
-Google-Chrome-Stable 88.0.4324.192
+Google-Chrome-Stable 89.0.4389.72
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
@@ -53,7 +53,7 @@ Navicat-Premium 15.0.25
 Netch 1.7.6
 NeteaseMusic 2.3.4-846
 Notion 2.0.14
-Obsidian v0.11.0
+Obsidian v0.11.3
 PyCharm 2020.3.3-203.7148.72
 QQ-for-Mac 8.4.10.118
 React 17.0.1
@@ -85,7 +85,7 @@ Vuex 3.6.2
 WeChat-Work 3.1.2.2368
 Wechat-for-Mac 2.6.1.19-16853
 Xcode 12.4 (12D4e)
-Xcode-Beta 12.5 beta 2 (12E5234g)
+Xcode-Beta 12.5 beta 3 (12E5244e)
 aText 2.36.6-104
 alfred-vscode v2.1.0
 ansible 3.0.0
@@ -104,9 +104,9 @@ grafana v7.4.3
 iExplorer 4.4.1
 iMazing 2.13.5-14765
 iOS 14.4 (18D52)
-iOS-Beta 14.5 beta 2 (18E5154f)
+iOS-Beta 14.5 beta 3 (18E5164h)
 iPadOS 14.4 (18D52)
-iPadOS-Beta 14.5 beta 2 (18E5154f)
+iPadOS-Beta 14.5 beta 3 (18E5164h)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.7.1

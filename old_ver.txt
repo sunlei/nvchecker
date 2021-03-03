@@ -5,7 +5,7 @@ AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
 Beancount 2.3.3
 BorgBackup 1.1.15
-Burp-Suite Professional / Community 2021.2.1
+Burp-Suite Professional / Community 2021.3
 Celery 5.0.5
 ClashX 1.40.0
 CleanMyMac-X 4.8.0-40800.0.2102240722
@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2020.3.2-203.7148.68
 Django 3.1.7
 Docker-for-Mac 3.1.0-51484
-Dropbox 116.4.368
+Dropbox 117.4.378
 FilePane 1.10.7
 Firefox 86.0
 Fork 2.4
@@ -71,7 +71,7 @@ Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.0.6-1265
 Surge-Mac-v4-Stable 4.0.5-1262
-Syncthing-for-macOS v1.13.1-1-101300101
+Syncthing-for-macOS v1.14.0-1-101400001
 TablePlus 3.12.4-360
 The-Unarchiver 4.2.4-131
 Tower-for-Mac 6.3-273

@@ -27,9 +27,9 @@ Firefox 86.0
 Fork 2.4
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.9.1
+GitLab-Release GitLab Security Release: 13.9.2, 13.8.5 and 13.7.8
 GitLab-Runner-Helm-Chart v0.26.0
-GoLand 2020.3.2-203.7148.71
+GoLand 2020.3.3-203.7717.15
 Google-Chrome-Beta 89.0.4389.72
 Google-Chrome-Dev 90.0.4430.11
 Google-Chrome-Stable 89.0.4389.72
@@ -78,7 +78,7 @@ Tower-for-Mac 6.3-273
 Transmit 5.7.2
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.54.0
+Visual-Studio-Code 1.53.2
 Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2

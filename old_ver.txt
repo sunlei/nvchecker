@@ -90,9 +90,9 @@ aText 2.36.6-104
 alfred-vscode v2.1.0
 ansible 3.0.0
 coconutBattery 3.9.4
-@dcloudio/uni-h5 2.0.0-31220210205004
-@dcloudio/uni-h5-ui 2.0.0-31220210205004
-@dcloudio/uni-mp-weixin 2.0.0-31220210205004
+@dcloudio/uni-h5 2.0.0-31420210305001
+@dcloudio/uni-h5-ui 2.0.0-31420210305001
+@dcloudio/uni-mp-weixin 2.0.0-31420210305001
 docker-compose 1.28.5
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02

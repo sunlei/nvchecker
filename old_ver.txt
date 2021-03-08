@@ -103,16 +103,16 @@ docker-self-service-password 2.7
 grafana v7.5.0-beta1
 iExplorer 4.4.1
 iMazing 2.13.5-14765
-iOS 14.4 (18D52)
+iOS 14.4.1 (18D61)
 iOS-Beta 14.5 beta 3 (18E5164h)
-iPadOS 14.4 (18D52)
+iPadOS 14.4.1 (18D61)
 iPadOS-Beta 14.5 beta 3 (18E5164h)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.7.1
 jumpserver-installer v2.7.1
 kombu 5.0.2
-macOS Big Sur 11.2.2 (20D80)
+macOS Big Sur 11.2.3 (20D91)
 macOS-Beta Big Sur 11.3 beta 3 (20E5196f)
 mas v1.8.0
 nvALT 2.2.8-128
@@ -135,6 +135,6 @@ tvOS 14.4 (18K802)
 tvOS-Beta 14.5 beta 3 (18L5173f)
 uview-ui 1.8.3
 @vue/cli 4.5.11
-watchOS 7.3.1 (18S811)
+watchOS 7.3.2 (18S821)
 watchOS-Beta 7.4 beta 3 (18T5169f)
 webhook 2.8.0

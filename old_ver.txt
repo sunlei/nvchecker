@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2020.3.2-203.7148.68
 Django 3.1.7
 Docker-for-Mac 3.1.0-51484
-Dropbox 117.4.378
+Dropbox 118.3.448
 FilePane 1.10.7
 Firefox 86.0.1
 Fork 2.4
@@ -30,7 +30,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.9.3
 GitLab-Runner-Helm-Chart v0.27.0-rc1
 GoLand 2020.3.3-203.7717.15
-Google-Chrome-Beta 89.0.4389.72
+Google-Chrome-Beta 90.0.4430.19
 Google-Chrome-Dev 90.0.4430.19
 Google-Chrome-Stable 89.0.4389.82
 Hazel 4.4.5
@@ -48,7 +48,7 @@ Marked-2 2.6.5-1016
 Metabase v0.38.1
 Microsoft-Office 16.46.21021202
 Motrix v1.5.15
-Movist-Pro 2.4.5-160
+Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.26
 Netch 1.8.1
 NeteaseMusic 2.3.4-846

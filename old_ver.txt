@@ -24,14 +24,14 @@ Docker-for-Mac 3.1.0-51484
 Dropbox 117.4.378
 FilePane 1.10.7
 Firefox 86.0.1
-Fork 2.4
+Fork 2.5
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.9.3
 GitLab-Runner-Helm-Chart v0.27.0-rc1
 GoLand 2020.3.3-203.7717.15
 Google-Chrome-Beta 90.0.4430.19
-Google-Chrome-Dev 90.0.4430.19
+Google-Chrome-Dev 91.0.4442.4
 Google-Chrome-Stable 89.0.4389.82
 Hazel 4.4.5
 IINA 0.0.14.1-55

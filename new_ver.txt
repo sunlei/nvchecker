@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2020.3.2-203.7148.68
 Django 3.1.7
 Docker-for-Mac 3.1.0-51484
-Dropbox 118.3.448
+Dropbox 117.4.378
 FilePane 1.10.7
 Firefox 86.0.1
 Fork 2.4
@@ -78,7 +78,7 @@ Tower-for-Mac 6.3-273
 Transmit 5.7.2
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.54.1
+Visual-Studio-Code 1.54.2
 Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2

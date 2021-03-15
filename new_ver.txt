@@ -114,7 +114,7 @@ jumpserver-installer v2.7.1
 kombu 5.0.2
 macOS Big Sur 11.2.3 (20D91)
 macOS-Beta Big Sur 11.3 beta 3 (20E5196f)
-mas v1.8.0
+mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.2
 obsidian-plugin-advanced-tables 0.11.0

@@ -8,7 +8,7 @@ BorgBackup 1.1.15
 Burp-Suite Professional / Community 2021.3
 Celery 5.0.5
 ClashX 1.40.0
-CleanMyMac-X 4.8.0-40800.0.2102240722
+CleanMyMac-X 4.8.1-40801.0.2103150332
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.8
@@ -24,7 +24,7 @@ Docker-for-Mac 3.1.0-51484
 Dropbox 117.4.378
 FilePane 1.10.7
 Firefox 86.0.1
-Fork 2.5
+Fork 2.4
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.9.3
@@ -118,7 +118,7 @@ mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.2
 obsidian-plugin-advanced-tables 0.11.0
-obsidian-plugin-calendar 1.5.3
+obsidian-plugin-calendar 1.5.4
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5
 obsidian-plugin-minimal-theme-settings 2.5.0

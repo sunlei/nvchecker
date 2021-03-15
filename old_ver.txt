@@ -24,7 +24,7 @@ Docker-for-Mac 3.1.0-51484
 Dropbox 117.4.378
 FilePane 1.10.7
 Firefox 86.0.1
-Fork 2.4
+Fork 2.5
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.9.3
@@ -58,7 +58,7 @@ PyCharm 2020.3.3-203.7148.72
 QQ-for-Mac 8.4.10.118
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000
-Sentry 21.2.0
+Sentry 21.3.0
 Sequel-Ace production/3.2.3-3024
 Setapp 2.9.2
 Sketch 70.6-109241
@@ -104,16 +104,16 @@ grafana v7.5.0-beta1
 iExplorer 4.4.1
 iMazing 2.13.5-14765
 iOS 14.4.1 (18D61)
-iOS-Beta 14.5 beta 3 (18E5164h)
+iOS-Beta 14.5 beta 4 (18E5178a)
 iPadOS 14.4.1 (18D61)
-iPadOS-Beta 14.5 beta 3 (18E5164h)
+iPadOS-Beta 14.5 beta 4 (18E5178a)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.7.1
 jumpserver-installer v2.7.1
 kombu 5.0.2
 macOS Big Sur 11.2.3 (20D91)
-macOS-Beta Big Sur 11.3 beta 3 (20E5196f)
+macOS-Beta Big Sur 11.3 beta 4 (20E5210c)
 mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.2
@@ -132,9 +132,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.4 (18K802)
-tvOS-Beta 14.5 beta 3 (18L5173f)
+tvOS-Beta 14.5 beta 4 (18L5186a)
 uview-ui 1.8.3
 @vue/cli 4.5.11
 watchOS 7.3.2 (18S821)
-watchOS-Beta 7.4 beta 3 (18T5169f)
+watchOS-Beta 7.4 beta 4 (18T5183b)
 webhook 2.8.0

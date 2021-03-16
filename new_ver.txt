@@ -5,10 +5,10 @@ AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
 Beancount 2.3.3
 BorgBackup 1.1.15
-Burp-Suite Professional / Community 2021.3
+Burp-Suite Professional / Community 2021.3.1
 Celery 5.0.5
 ClashX 1.40.0
-CleanMyMac-X 4.8.1-40801.0.2103150332
+CleanMyMac-X 4.8.1-40801.0.2103161826
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.8
@@ -46,7 +46,7 @@ Manico 2.9.2-410
 Marked 2.6.5-1016
 Marked-2 2.6.5-1016
 Metabase v0.38.1
-Microsoft-Office 16.46.21021202
+Microsoft-Office 16.47.21031401
 Motrix v1.5.15
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.26

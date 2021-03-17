@@ -5,7 +5,7 @@ AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
 Beancount 2.3.3
 BorgBackup 1.1.15
-Burp-Suite Professional / Community 2021.3.1
+Burp-Suite Professional / Community 2021.3.2
 Celery 5.0.5
 ClashX 1.40.0
 CleanMyMac-X 4.8.1-40801.0.2103161826
@@ -21,13 +21,13 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2020.3.2-203.7148.68
 Django 3.1.7
 Docker-for-Mac 3.1.0-51484
-Dropbox 117.4.378
+Dropbox 118.4.460
 FilePane 1.10.7
 Firefox 86.0.1
 Fork 2.5
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.9.3
+GitLab-Release GitLab Critical Security Release: 13.9.4, 13.8.6, and 13.7.9
 GitLab-Runner-Helm-Chart v0.27.0-rc1
 GoLand 2020.3.4-203.7717.58
 Google-Chrome-Beta 90.0.4430.19
@@ -54,7 +54,7 @@ Netch 1.8.2
 NeteaseMusic 2.3.4-846
 Notion 2.0.16
 Obsidian v0.11.5
-PyCharm 2020.3.3-203.7148.72
+PyCharm 2020.3.4-203.7717.65
 QQ-for-Mac 8.4.10.118
 React 17.0.1
 Royal-TSX 4.3.6-4.3.6.1000

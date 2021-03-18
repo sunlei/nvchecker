@@ -31,7 +31,7 @@ GitLab-Release GitLab Critical Security Release: 13.9.4, 13.8.6, and 13.7.9
 GitLab-Runner-Helm-Chart v0.27.0-rc1
 GoLand 2020.3.4-203.7717.58
 Google-Chrome-Beta 90.0.4430.30
-Google-Chrome-Dev 91.0.4442.4
+Google-Chrome-Dev 91.0.4449.6
 Google-Chrome-Stable 89.0.4389.90
 Hazel 4.4.5
 IINA 0.0.14.1-55

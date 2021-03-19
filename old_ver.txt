@@ -100,7 +100,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v6.7.6
+grafana v7.5.0-beta2
 iExplorer 4.4.1
 iMazing 2.13.5-14765
 iOS 14.4.1 (18D61)
@@ -109,8 +109,8 @@ iPadOS 14.4.1 (18D61)
 iPadOS-Beta 14.5 beta 4 (18E5178a)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.8.0
-jumpserver-installer v2.8.0
+jumpserver v2.8.1
+jumpserver-installer v2.8.1
 kombu 5.0.2
 macOS Big Sur 11.2.3 (20D91)
 macOS-Beta Big Sur 11.3 beta 4 (20E5210c)

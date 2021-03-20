@@ -3,7 +3,7 @@ Alfred 4.3.2
 AriaNg 1.2.1
 AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
-Beancount 2.3.3
+Beancount 2.3.4
 BorgBackup 1.1.15
 Burp-Suite Professional / Community 2021.3.2
 Celery 5.0.5

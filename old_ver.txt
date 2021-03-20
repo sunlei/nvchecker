@@ -86,7 +86,7 @@ WeChat-Work 3.1.2.2368
 Wechat-for-Mac 2.6.1.19-16853
 Xcode 12.4 (12D4e)
 Xcode-Beta 12.5 beta 3 (12E5244e)
-aText 2.36.6-104
+aText 2.37-105
 alfred-vscode v2.1.0
 ansible 3.1.0
 coconutBattery 3.9.5

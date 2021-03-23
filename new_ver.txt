@@ -4,7 +4,7 @@ AriaNg 1.2.1
 AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
 Beancount 2.3.4
-BorgBackup 1.1.15
+BorgBackup 1.1.16
 Burp-Suite Professional / Community 2021.3.2
 Celery 5.0.5
 ClashX 1.40.0
@@ -56,7 +56,7 @@ Notion 2.0.16
 Obsidian v0.11.5
 PyCharm 2020.3.4-203.7717.65
 QQ-for-Mac 8.4.10.118
-React 17.0.1
+React 17.0.2
 Royal-TSX 4.3.6-4.3.6.1000
 Sentry 21.3.0
 Sequel-Ace production/3.2.3-3024

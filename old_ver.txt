@@ -23,7 +23,7 @@ Django 3.1.7
 Docker-for-Mac 3.2.2-61853
 Dropbox 118.4.460
 FilePane 1.10.7
-Firefox 86.0.1
+Firefox 87.0
 Fork 2.5
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
@@ -38,7 +38,7 @@ IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) null
-Jira-Standard 8.15.0
+Jira-Standard 8.16.0
 Kaleidoscope 2.4-1450
 Little-Snitch 5.1.1-6185
 MWeb 3.4.4
@@ -69,12 +69,12 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.0.6-1277
+Surge-Mac-v4-Beta 4.0.6-1278
 Surge-Mac-v4-Stable 4.0.5-1262
 Syncthing-for-macOS v1.14.0-1-101400001
 TablePlus 3.12.5-364
 The-Unarchiver 4.2.4-131
-Tower-for-Mac 6.4-278
+Tower-for-Mac 6.3-273
 Transmit 5.7.2
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
@@ -93,7 +93,7 @@ coconutBattery 3.9.5
 @dcloudio/uni-h5 2.0.0-31420210305001
 @dcloudio/uni-h5-ui 2.0.0-31420210305001
 @dcloudio/uni-mp-weixin 2.0.0-31420210305001
-docker-compose 1.28.5
+docker-compose 1.28.6
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.5.0

@@ -104,16 +104,16 @@ grafana v7.5.0-beta2
 iExplorer 4.4.1
 iMazing 2.13.5-14765
 iOS 14.4.1 (18D61)
-iOS-Beta 14.5 beta 4 (18E5178a)
+iOS-Beta 14.5 beta 5 (18E5186a)
 iPadOS 14.4.1 (18D61)
-iPadOS-Beta 14.5 beta 4 (18E5178a)
+iPadOS-Beta 14.5 beta 5 (18E5186a)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.8.1
 jumpserver-installer v2.8.1
 kombu 5.0.2
 macOS Big Sur 11.2.3 (20D91)
-macOS-Beta Big Sur 11.3 beta 4 (20E5210c)
+macOS-Beta Big Sur 11.3 beta 5 (20E217a)
 mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -132,9 +132,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.2
 tvOS 14.4 (18K802)
-tvOS-Beta 14.5 beta 4 (18L5186a)
+tvOS-Beta 14.5 beta 5 (18L5193a)
 uview-ui 1.8.4
 @vue/cli 4.5.12
 watchOS 7.3.2 (18S821)
-watchOS-Beta 7.4 beta 4 (18T5183b)
+watchOS-Beta 7.4 beta 5 (18T5190a)
 webhook 2.8.0

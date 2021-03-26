@@ -24,7 +24,7 @@ Docker-for-Mac 3.2.2-61853
 Dropbox 118.4.460
 FilePane 1.10.7
 Firefox 87.0
-Fork 2.5
+Fork 2.6
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.9.4, 13.8.6, and 13.7.9
@@ -54,7 +54,7 @@ Netch 1.8.2
 NeteaseMusic 2.3.4-846
 Notion 2.0.16
 Obsidian v0.11.9
-PyCharm 2020.3.4-203.7717.65
+PyCharm 2020.3.5-203.7717.81
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 4.3.6-4.3.6.1000
@@ -103,10 +103,10 @@ docker-self-service-password 2.7
 grafana v7.5.1
 iExplorer 4.4.1
 iMazing 2.13.5-14765
-iOS 14.4.1 (18D61)
+iOS 14.4.2 (18D70)
 iOS-Beta 14.5 beta 5 (18E5186a)
-iPadOS 14.4.1 (18D61)
-iPadOS-Beta 14.5 beta 5 (18E5186a)
+iPadOS 14.4.2 (18D70)
+iPadOS-Beta null
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.8.2
@@ -135,6 +135,6 @@ tvOS 14.4 (18K802)
 tvOS-Beta 14.5 beta 5 (18L5193a)
 uview-ui 1.8.4
 @vue/cli 4.5.12
-watchOS 7.3.2 (18S821)
+watchOS 7.3.3 (18S830)
 watchOS-Beta 7.4 beta 5 (18T5190a)
 webhook 2.8.0

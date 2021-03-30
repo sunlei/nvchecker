@@ -100,7 +100,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.5.1
+grafana v7.5.2
 iExplorer 4.4.1
 iMazing 2.13.5-14765
 iOS 14.4.2 (18D70)

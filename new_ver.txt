@@ -27,7 +27,7 @@ Firefox 87.0
 Fork 2.6
 ForkLift 3.4.4-211
 GitLab v13.1.1-ee
-GitLab-Release GitLab Critical Security Release: 13.9.4, 13.8.6, and 13.7.9
+GitLab-Release GitLab Security Release: 13.10.1, 13.9.5, and 13.8.7
 GitLab-Runner-Helm-Chart v0.27.0
 GoLand 2020.3.4-203.7717.58
 Google-Chrome-Beta 90.0.4430.40
@@ -52,7 +52,7 @@ Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.26
 Netch 1.8.2
 NeteaseMusic 2.3.4-846
-Notion 2.0.16
+Notion 2.0.17
 Obsidian v0.11.9
 PyCharm 2020.3.5-203.7717.81
 QQ-for-Mac 8.4.10.118
@@ -78,12 +78,12 @@ Tower-for-Mac 6.4-278
 Transmit 5.7.2
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.54.3
+Visual-Studio-Code 1.55.0
 Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.2.2368
-Wechat-for-Mac 3.0.0.17-17801
+Wechat-for-Mac 3.0.0.18-17838
 Xcode 12.4 (12D4e)
 Xcode-Beta 12.5 beta 3 (12E5244e)
 aText 2.37.1-106

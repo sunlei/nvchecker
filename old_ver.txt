@@ -72,7 +72,7 @@ Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.0.6-1280
 Surge-Mac-v4-Stable 4.0.5-1262
 Syncthing-for-macOS v1.14.0-1-101400001
-TablePlus 3.12.5-364
+TablePlus 3.12.6-366
 The-Unarchiver 4.2.4-131
 Tower-for-Mac 6.4-278
 Transmit 5.7.2
@@ -118,7 +118,7 @@ mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.3
 obsidian-plugin-advanced-tables 0.11.0
-obsidian-plugin-calendar 1.5.8
+obsidian-plugin-calendar 1.5.9
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5
 obsidian-plugin-minimal-theme-settings 2.5.0

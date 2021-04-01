@@ -5,7 +5,7 @@ AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.16
-Burp-Suite Professional / Community 2021.3.2
+Burp-Suite Professional / Community 2021.4
 Celery 5.0.5
 ClashX 1.40.0
 CleanMyMac-X 4.8.2-40802.0.2103291406
@@ -31,7 +31,7 @@ GitLab-Release GitLab Security Release: 13.10.1, 13.9.5, and 13.8.7
 GitLab-Runner-Helm-Chart v0.27.0
 GoLand 2020.3.4-203.7717.58
 Google-Chrome-Beta 90.0.4430.51
-Google-Chrome-Dev 91.0.4455.2
+Google-Chrome-Dev 91.0.4464.5
 Google-Chrome-Stable 89.0.4389.114
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.2.2368
-Wechat-for-Mac 3.0.0.18-17838
+Wechat-for-Mac 3.0.0.17-17801
 Xcode 12.4 (12D4e)
 Xcode-Beta 12.5 beta 3 (12E5244e)
 aText 2.37.1-106
@@ -131,7 +131,7 @@ obsidian-theme-minimal 2.5.2
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
-trojan-go v0.8.2
+trojan-go v0.8.3
 tvOS 14.4 (18K802)
 tvOS-Beta 14.5 beta 6 (18L5200a)
 uview-ui 1.8.4

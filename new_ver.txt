@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90123
-Wechat-for-Mac 3.0.0.18-17838
+Wechat-for-Mac 3.0.0.19-17842
 Xcode 12.4 (12D4e)
 Xcode-Beta 12.5 beta 3 (12E5244e)
 aText 2.37.1-106
@@ -126,7 +126,7 @@ obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
 obsidian-plugin-paste-url-into-selection 1.2.0
 obsidian-plugin-sliding-panes 3.2.2
-obsidian-plugin-templater 0.5.7
+obsidian-plugin-templater 1.0.0
 obsidian-theme-minimal 2.5.2
 snell v2.0.4
 tornado 6.1

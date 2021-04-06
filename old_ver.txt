@@ -71,7 +71,7 @@ Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.1.0-1282
 Surge-Mac-v4-Stable 4.0.5-1262
-Syncthing-for-macOS v1.14.0-1-101400001
+Syncthing-for-macOS v1.15.1-1-101500101
 TablePlus 3.12.6-366
 The-Unarchiver 4.2.4-131
 Tower-for-Mac 6.4-278
@@ -83,7 +83,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90123
-Wechat-for-Mac 3.0.0.18-17838
+Wechat-for-Mac 3.0.0.19-17842
 Xcode 12.4 (12D4e)
 Xcode-Beta 12.5 beta 3 (12E5244e)
 aText 2.37.1-106

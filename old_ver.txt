@@ -54,7 +54,7 @@ Netch 1.8.2
 NeteaseMusic 2.3.4-846
 Notion 2.0.17
 Obsidian v0.11.13
-PyCharm 2020.3.5-203.7717.81
+PyCharm 2021.1-211.6693.115
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 4.3.6-4.3.6.1000
@@ -100,7 +100,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.5.2
+grafana v7.5.3
 iExplorer 4.4.1
 iMazing 2.13.5-14765
 iOS 14.4.2 (18D70)

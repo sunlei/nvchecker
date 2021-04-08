@@ -31,7 +31,7 @@ GitLab-Release GitLab Patch Release: 13.10.2
 GitLab-Runner-Helm-Chart v0.27.0
 GoLand 2021.1-211.6693.119
 Google-Chrome-Beta 90.0.4430.61
-Google-Chrome-Dev 91.0.4464.5
+Google-Chrome-Dev 91.0.4469.4
 Google-Chrome-Stable 89.0.4389.114
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -78,7 +78,7 @@ Tower-for-Mac 6.4-278
 Transmit 5.7.2
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.55.0
+Visual-Studio-Code 1.55.1
 Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
@@ -102,7 +102,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.5.3
 iExplorer 4.4.1
-iMazing 2.13.5-14765
+iMazing 2.13.6-14851
 iOS 14.4.2 (18D70)
 iOS-Beta 14.5 beta 7 (18E5198a)
 iPadOS 14.4.2 (18D70)
@@ -126,7 +126,7 @@ obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
 obsidian-plugin-paste-url-into-selection 1.2.0
 obsidian-plugin-sliding-panes 3.2.2
-obsidian-plugin-templater 1.1.0
+obsidian-plugin-templater 1.2.0
 obsidian-theme-minimal 2.5.2
 snell v2.0.4
 tornado 6.1

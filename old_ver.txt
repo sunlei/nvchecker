@@ -8,7 +8,7 @@ BorgBackup 1.1.16
 Burp-Suite Professional / Community 2021.4
 Celery 5.0.5
 ClashX 1.40.0
-CleanMyMac-X 4.8.2-40802.0.2103291406
+CleanMyMac-X 4.8.2-40802.0.2104081317
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.8
@@ -29,7 +29,7 @@ ForkLift 3.4.4-211
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.10.2
 GitLab-Runner-Helm-Chart v0.27.0
-GoLand 2020.3.4-203.7717.58
+GoLand 2021.1-211.6693.119
 Google-Chrome-Beta 90.0.4430.61
 Google-Chrome-Dev 91.0.4464.5
 Google-Chrome-Stable 89.0.4389.114
@@ -61,7 +61,7 @@ Royal-TSX 4.3.6-4.3.6.1000
 Sentry 21.3.0
 Sequel-Ace production/3.3.0-3026
 Setapp 2.9.2
-Sketch 71.1-115193
+Sketch 71.2-115329
 Snipaste 2.5.6-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211

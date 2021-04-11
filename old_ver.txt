@@ -7,7 +7,7 @@ Beancount 2.3.4
 BorgBackup 1.1.16
 Burp-Suite Professional / Community 2021.4
 Celery 5.0.5
-ClashX 1.40.0
+ClashX 1.50.0
 CleanMyMac-X 4.8.2-40802.0.2103291406
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
@@ -102,7 +102,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.5.3
 iExplorer 4.4.1
-iMazing 2.13.7-14855
+iMazing 2.13.6-14851
 iOS 14.4.2 (18D70)
 iOS-Beta 14.5 beta 7 (18E5198a)
 iPadOS 14.4.2 (18D70)

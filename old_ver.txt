@@ -5,7 +5,7 @@ AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.16
-Burp-Suite Professional / Community 2021.4
+Burp-Suite Professional / Community 2021.4.1
 Celery 5.0.5
 ClashX 1.50.0
 CleanMyMac-X 4.8.2-40802.0.2103291406
@@ -75,7 +75,7 @@ Syncthing-for-macOS v1.15.1-1-101500101
 TablePlus 3.12.6-366
 The-Unarchiver 4.2.4-131
 Tower-for-Mac 6.4-278
-Transmit 5.7.2
+Transmit 5.7.3
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.55.1

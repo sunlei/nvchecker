@@ -21,7 +21,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2021.1-211.6693.68
 Django 3.2
 Docker-for-Mac 3.2.2-61853
-Dropbox 119.4.1772
+Dropbox 120.4.4598
 FilePane 1.10.7
 Firefox 87.0
 Fork 2.6
@@ -102,7 +102,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.5.3
 iExplorer 4.4.1
-iMazing 2.13.6-14851
+iMazing 2.13.7-14855
 iOS 14.4.2 (18D70)
 iOS-Beta 14.5 beta 8 (18E5199a)
 iPadOS 14.4.2 (18D70)

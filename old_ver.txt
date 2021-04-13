@@ -43,10 +43,10 @@ Kaleidoscope 2.4-1450
 Little-Snitch 5.1.2-6194
 MWeb 3.4.4
 Manico 2.9.2-410
-Marked 2.6.6-1018
-Marked-2 2.6.6-1018
+Marked 2.6.7-1020
+Marked-2 2.6.7-1020
 Metabase v0.38.4
-Microsoft-Office 16.47.21031401
+Microsoft-Office 16.48.21041102
 Motrix v1.5.15
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.26
@@ -78,7 +78,7 @@ Tower-for-Mac 6.4-278
 Transmit 5.7.3
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.55.1
+Visual-Studio-Code 1.55.2
 Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
@@ -102,11 +102,11 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.5.3
 iExplorer 4.4.1
-iMazing 2.13.7-14855
+iMazing 2.13.6-14851
 iOS 14.4.2 (18D70)
-iOS-Beta 14.5 beta 7 (18E5198a)
+iOS-Beta 14.5 beta 8 (18E5199a)
 iPadOS 14.4.2 (18D70)
-iPadOS-Beta 14.5 beta 7 (18E5198a)
+iPadOS-Beta 14.5 beta 8 (18E5199a)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.8.3
@@ -114,7 +114,7 @@ jumpserver-installer v2.8.3
 kitty v0.19.3
 kombu 5.0.2
 macOS Big Sur 11.2.3 (20D91)
-macOS-Beta Big Sur 11.3 beta 7 (20E5229a)
+macOS-Beta Big Sur 11.3 beta 8 (20E5231a)
 mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -126,7 +126,7 @@ obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
 obsidian-plugin-paste-url-into-selection 1.2.0
 obsidian-plugin-sliding-panes 3.2.2
-obsidian-plugin-templater 1.4.0
+obsidian-plugin-templater 1.5.0
 obsidian-theme-minimal 2.5.2
 snell v2.0.4
 tornado 6.1

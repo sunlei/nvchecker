@@ -1,11 +1,11 @@
-1Password-for-Mac 7.8
+1Password-for-Mac 7.8.1
 Alfred 4.3.2
 AriaNg 1.2.1
 AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.16
-Burp-Suite Professional / Community 2021.4.1
+Burp-Suite Professional / Community 2021.3.3
 Celery 5.0.5
 ClashX 1.50.0
 CleanMyMac-X 4.8.2-40802.0.2103291406
@@ -30,7 +30,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.10.3, 13.9.6, and 13.8.8
 GitLab-Runner-Helm-Chart v0.28.0-rc1
 GoLand 2021.1-211.6693.119
-Google-Chrome-Beta 90.0.4430.70
+Google-Chrome-Beta 90.0.4430.72
 Google-Chrome-Dev 91.0.4469.4
 Google-Chrome-Stable 89.0.4389.128
 Hazel 4.4.5
@@ -93,14 +93,14 @@ coconutBattery 3.9.5
 @dcloudio/uni-h5 2.0.0-31820210406002
 @dcloudio/uni-h5-ui 2.0.0-31820210406002
 @dcloudio/uni-mp-weixin 2.0.0-31820210406002
-docker-compose 1.29.0
+docker-compose 1.29.1
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v7.5.3
+grafana v7.5.4
 iExplorer 4.4.1
 iMazing 2.13.7-14855
 iOS 14.4.2 (18D70)

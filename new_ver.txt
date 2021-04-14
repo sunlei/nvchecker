@@ -32,7 +32,7 @@ GitLab-Runner-Helm-Chart v0.28.0-rc1
 GoLand 2021.1-211.6693.119
 Google-Chrome-Beta 90.0.4430.70
 Google-Chrome-Dev 91.0.4469.4
-Google-Chrome-Stable 89.0.4389.114
+Google-Chrome-Stable 89.0.4389.128
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0

@@ -43,8 +43,8 @@ Kaleidoscope 2.4-1450
 Little-Snitch 5.1.2-6194
 MWeb 3.4.4
 Manico 2.9.2-410
-Marked 2.6.7-1020
-Marked-2 2.6.7-1020
+Marked 2.6.8-1021
+Marked-2 2.6.8-1021
 Metabase v0.38.4
 Microsoft-Office 16.48.21041102
 Motrix v1.5.15
@@ -75,7 +75,7 @@ Syncthing-for-macOS v1.15.1-1-101500101
 TablePlus 3.12.6-366
 The-Unarchiver 4.2.4-131
 Tower-for-Mac 6.4-278
-Transmit 5.7.3
+Transmit 5.7.4
 Typora 0.9.9.36.2-4901
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.55.2
@@ -118,7 +118,7 @@ macOS-Beta Big Sur 11.3 beta 8 (20E5231a)
 mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.3
-obsidian-plugin-advanced-tables 0.12.0
+obsidian-plugin-advanced-tables 0.12.1
 obsidian-plugin-calendar 2.0.0-beta.1
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5

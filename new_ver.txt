@@ -31,7 +31,7 @@ GitLab-Release GitLab Critical Security Release: 13.10.3, 13.9.6, and 13.8.8
 GitLab-Runner-Helm-Chart v0.28.0-rc1
 GoLand 2021.1-211.6693.119
 Google-Chrome-Beta 90.0.4430.72
-Google-Chrome-Dev 91.0.4469.4
+Google-Chrome-Dev 91.0.4472.10
 Google-Chrome-Stable 90.0.4430.72
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -58,7 +58,7 @@ PyCharm 2021.1-211.6693.115
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 4.3.6-4.3.6.1000
-Sentry 21.3.1
+Sentry 21.4.0
 Sequel-Ace production/3.3.1-3028
 Setapp 2.9.2
 Sketch 71.2-115329

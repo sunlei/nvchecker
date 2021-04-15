@@ -25,7 +25,7 @@ Dropbox 120.4.4598
 FilePane 1.10.7
 Firefox 87.0
 Fork 2.6
-ForkLift 3.5-212
+ForkLift 3.5.1-213
 GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.10.3, 13.9.6, and 13.8.8
 GitLab-Runner-Helm-Chart v0.28.0-rc1
@@ -109,8 +109,8 @@ iPadOS 14.4.2 (18D70)
 iPadOS-Beta 14.5 beta 8 (18E5199a)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.8.4
-jumpserver-installer v2.8.4
+jumpserver v2.9.0
+jumpserver-installer v2.9.0
 kitty v0.19.3
 kombu 5.0.2
 macOS Big Sur 11.2.3 (20D91)

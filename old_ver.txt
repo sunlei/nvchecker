@@ -45,7 +45,7 @@ MWeb 3.4.4
 Manico 2.9.2-410
 Marked 2.6.8-1021
 Marked-2 2.6.8-1021
-Metabase v0.38.4
+Metabase v0.39.0
 Microsoft-Office 16.48.21041102
 Motrix v1.5.15
 Movist-Pro 2.6.4-169
@@ -69,7 +69,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.1.0-1296
+Surge-Mac-v4-Beta 4.1.0-1297
 Surge-Mac-v4-Stable 4.0.5-1262
 Syncthing-for-macOS v1.15.1-1-101500101
 TablePlus 3.12.6-366

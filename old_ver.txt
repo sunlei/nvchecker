@@ -29,11 +29,11 @@ Fork 2.6
 ForkLift 3.5.2-214
 GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.10.3, 13.9.6, and 13.8.8
-GitLab-Runner-Helm-Chart v0.28.0-rc1
+GitLab-Runner-Helm-Chart v0.28.0
 GoLand 2021.1-211.6693.119
-Google-Chrome-Beta 90.0.4430.72
+Google-Chrome-Beta 90.0.4430.85
 Google-Chrome-Dev 91.0.4472.10
-Google-Chrome-Stable 90.0.4430.72
+Google-Chrome-Stable 90.0.4430.85
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
@@ -85,8 +85,8 @@ Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90148
 Wechat-for-Mac 3.0.0.19-17842
-Xcode 12.4 (12D4e)
-Xcode-Beta 12.5 beta 3 (12E5244e)
+Xcode 12.5 RC (12E262)
+Xcode-Beta null
 aText 2.37.1-106
 alfred-vscode v2.1.0
 ansible 3.2.0
@@ -106,18 +106,18 @@ hpool-chia-miner v1.0.4.1
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.7-14855
-iOS 14.4.2 (18D70)
-iOS-Beta 14.5 beta 8 (18E5199a)
-iPadOS 14.4.2 (18D70)
-iPadOS-Beta 14.5 beta 8 (18E5199a)
+iOS 14.5 RC (18E199)
+iOS-Beta null
+iPadOS 14.5 RC (18E199)
+iPadOS-Beta null
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.7.3
 jumpserver-installer v2.9.2
 kitty v0.20.1
 kombu 5.0.2
-macOS Big Sur 11.2.3 (20D91)
-macOS-Beta Big Sur 11.3 beta 8 (20E5231a)
+macOS Big Sur 11.3 RC (20E232)
+macOS-Beta null
 mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -135,10 +135,10 @@ snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.3
-tvOS 14.4 (18K802)
-tvOS-Beta 14.5 beta 7 (18L5203a)
+tvOS 14.5 RC (18L204)
+tvOS-Beta null
 uview-ui 1.8.4
 @vue/cli 4.5.12
-watchOS 7.3.3 (18S830)
-watchOS-Beta 7.4 beta 7 (18T5194a)
+watchOS 7.4 RC (18T195)
+watchOS-Beta null
 webhook 2.8.0

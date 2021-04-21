@@ -89,7 +89,7 @@ Xcode 12.5 RC (12E262)
 Xcode-Beta null
 aText 2.37.1-106
 alfred-vscode v2.1.0
-ansible 3.2.0
+ansible 3.3.0
 coconutBattery 3.9.5
 @dcloudio/uni-h5 2.0.0-31820210406002
 @dcloudio/uni-h5-ui 2.0.0-31820210406002

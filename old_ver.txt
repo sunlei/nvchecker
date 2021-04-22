@@ -30,8 +30,8 @@ ForkLift 3.5.2-214
 GitLab v13.1.1-ee
 GitLab-Release GitLab Critical Security Release: 13.10.3, 13.9.6, and 13.8.8
 GitLab-Runner-Helm-Chart v0.28.0
-GoLand 2021.1-211.6693.119
-Google-Chrome-Beta 90.0.4430.85
+GoLand 2021.1.1-211.7142.13
+Google-Chrome-Beta 91.0.4472.19
 Google-Chrome-Dev 91.0.4472.19
 Google-Chrome-Stable 90.0.4430.85
 Hazel 4.4.5
@@ -55,7 +55,7 @@ Netch 1.8.3
 NeteaseMusic 2.3.4-846
 Notion 2.0.17
 Obsidian v0.11.13
-PyCharm 2021.1-211.6693.115
+PyCharm 2021.1.1-211.7142.13
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 4.3.6-4.3.6.1000
@@ -107,9 +107,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.7-14855
 iOS 14.5 RC (18E199)
-iOS-Beta null
+iOS-Beta 14.6 beta (18F5046e)
 iPadOS 14.5 RC (18E199)
-iPadOS-Beta null
+iPadOS-Beta 14.6 beta (18F5046e)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.9.2
@@ -136,9 +136,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.3
 tvOS 14.5 RC (18L204)
-tvOS-Beta null
+tvOS-Beta 14.6 beta (18L5546f)
 uview-ui 1.8.4
 @vue/cli 4.5.12
 watchOS 7.4 RC (18T195)
-watchOS-Beta null
+watchOS-Beta 7.5 beta (18T5546f)
 webhook 2.8.0

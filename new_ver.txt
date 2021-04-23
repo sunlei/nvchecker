@@ -32,7 +32,7 @@ GitLab-Release GitLab Critical Security Release: 13.10.3, 13.9.6, and 13.8.8
 GitLab-Runner-Helm-Chart v0.28.0
 GoLand 2021.1.1-211.7142.13
 Google-Chrome-Beta 91.0.4472.19
-Google-Chrome-Dev 91.0.4472.19
+Google-Chrome-Dev 92.0.4484.7
 Google-Chrome-Stable 90.0.4430.85
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -107,9 +107,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.7-14855
 iOS 14.5 RC (18E199)
-iOS-Beta 14.6 beta (18F5046e)
+iOS-Beta 14.6 beta (18F5046f)
 iPadOS 14.5 RC (18E199)
-iPadOS-Beta 14.6 beta (18F5046e)
+iPadOS-Beta 14.6 beta (18F5046f)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.9.2

@@ -77,7 +77,7 @@ TablePlus 3.12.6-366
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 6.4-278
 Transmit 5.7.4
-Typora 0.9.9.36.2-4901
+Typora 0.10.3-5294
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.55.2
 Vorta-Backup-Client v0.7.5
@@ -85,7 +85,7 @@ Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90148
 Wechat-for-Mac 3.0.0.19-17842
-Xcode 12.5 RC (12E262)
+Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106
 alfred-vscode v2.1.0
@@ -106,9 +106,9 @@ hpool-chia-miner v1.0.4.1
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.7-14855
-iOS 14.5 RC (18E199)
+iOS 14.5 (18E199)
 iOS-Beta 14.6 beta (18F5046f)
-iPadOS 14.5 RC (18E199)
+iPadOS 14.5 (18E199)
 iPadOS-Beta 14.6 beta (18F5046f)
 iStat-Menus 6.51
 iTerm2 2.1.4
@@ -116,7 +116,7 @@ jumpserver v2.9.2
 jumpserver-installer v2.9.2
 kitty v0.20.1
 kombu 5.0.2
-macOS Big Sur 11.3 RC (20E232)
+macOS Big Sur 11.3 (20E232)
 macOS-Beta Big Sur 11.4 beta (20F5046g)
 mas v1.8.1
 nvALT 2.2.8-128
@@ -135,10 +135,10 @@ snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.8.3
-tvOS 14.5 RC (18L204)
+tvOS 14.5 (18L204)
 tvOS-Beta 14.6 beta (18L5546f)
 uview-ui 1.8.4
 @vue/cli 4.5.12
-watchOS 7.4 RC (18T195)
+watchOS 7.4 (18T195)
 watchOS-Beta 7.5 beta (18T5546f)
 webhook 2.8.0

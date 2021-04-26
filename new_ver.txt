@@ -25,7 +25,7 @@ Docker-for-Mac 3.3.1-63152
 Dropbox 120.4.4598
 FilePane 1.10.7
 Firefox 88.0
-Fork 2.7
+Fork 2.6
 ForkLift 3.5.2-214
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.11.1
@@ -33,7 +33,7 @@ GitLab-Runner-Helm-Chart v0.28.0
 GoLand 2021.1.1-211.7142.13
 Google-Chrome-Beta 91.0.4472.19
 Google-Chrome-Dev 92.0.4484.7
-Google-Chrome-Stable 90.0.4430.85
+Google-Chrome-Stable 90.0.4430.93
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0

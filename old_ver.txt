@@ -127,7 +127,7 @@ obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.5
 obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
-obsidian-plugin-paste-url-into-selection 1.4.0
+obsidian-plugin-paste-url-into-selection 1.5.0
 obsidian-plugin-sliding-panes 3.2.2
 obsidian-plugin-templater 1.5.5
 obsidian-theme-minimal 2.5.9

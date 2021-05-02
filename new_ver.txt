@@ -84,7 +84,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90148
-Wechat-for-Mac 3.0.2.17-18028
+Wechat-for-Mac 3.0.0.19-17842
 Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106
@@ -134,7 +134,7 @@ obsidian-theme-minimal 2.5.9
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
-trojan-go v0.8.3
+trojan-go v0.9.0
 tvOS 14.5 (18L204)
 tvOS-Beta 14.6 beta 2 (18L5555c)
 uview-ui 1.8.4

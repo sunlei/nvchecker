@@ -134,7 +134,7 @@ obsidian-theme-minimal 2.5.9
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
-trojan-go v0.9.0
+trojan-go v0.9.1
 tvOS 14.5 (18L204)
 tvOS-Beta 14.6 beta 2 (18L5555c)
 uview-ui 1.8.4

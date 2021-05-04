@@ -32,7 +32,7 @@ GitLab-Release GitLab Patch Release: 13.11.3
 GitLab-Runner-Helm-Chart v0.28.0
 GoLand 2021.1.1-211.7142.13
 Google-Chrome-Beta 91.0.4472.27
-Google-Chrome-Dev 92.0.4491.7
+Google-Chrome-Dev 92.0.4496.0
 Google-Chrome-Stable 90.0.4430.93
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -84,7 +84,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90148
-Wechat-for-Mac 3.0.0.19-17842
+Wechat-for-Mac 3.0.2.18-18041
 Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106
@@ -117,7 +117,7 @@ jumpserver-installer v2.9.2
 kitty v0.20.2
 kombu 5.0.2
 macOS Big Sur 11.3.1 (20E241)
-macOS-Beta Big Sur 11.4 beta (20F5046g)
+macOS-Beta Big Sur 11.4 beta 2 (20F5055c)
 mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.3

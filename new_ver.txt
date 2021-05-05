@@ -79,7 +79,7 @@ Tower-for-Mac 6.4-278
 Transmit 5.7.4
 Typora 0.10.8-5313
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.55.2
+Visual-Studio-Code 1.56.0
 Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
@@ -124,7 +124,7 @@ nvchecker v2.3
 obsidian-plugin-advanced-tables 0.12.3
 obsidian-plugin-calendar 2.0.0-beta.2
 obsidian-plugin-editor-syntax-highlight 0.1.2
-obsidian-plugin-hider 1.0.5
+obsidian-plugin-hider 1.0.6
 obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
 obsidian-plugin-paste-url-into-selection 1.6.0

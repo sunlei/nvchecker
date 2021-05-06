@@ -48,7 +48,7 @@ Marked 2.6.8-1021
 Marked-2 2.6.8-1021
 Metabase v0.39.1
 Microsoft-Office 16.48.21041102
-Motrix v1.5.15
+Motrix v1.6.8
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.28
 Netch 1.8.3
@@ -121,7 +121,7 @@ macOS-Beta Big Sur 11.4 beta 2 (20F5055c)
 mas v1.8.1
 nvALT 2.2.8-128
 nvchecker v2.3
-obsidian-plugin-advanced-tables 0.12.3
+obsidian-plugin-advanced-tables 0.12.4
 obsidian-plugin-calendar 2.0.0-beta.2
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.6

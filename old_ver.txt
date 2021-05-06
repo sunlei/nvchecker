@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.1.1-1300
+Surge-Mac-v4-Beta 4.1.1-1302
 Surge-Mac-v4-Stable 4.1.0-1298
 Syncthing-for-macOS v1.16.1-1-101600101
 TablePlus 3.12.6-366
@@ -102,7 +102,7 @@ docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.5.5
-hpool-chia-miner v1.1.1
+hpool-chia-miner v1.1.1(2)
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.8-14897

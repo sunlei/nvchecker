@@ -114,7 +114,7 @@ iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.9.2
 jumpserver-installer v2.9.2
-kitty v0.20.2
+kitty v0.20.3
 kombu 5.0.2
 macOS Big Sur 11.3.1 (20E241)
 macOS-Beta Big Sur 11.4 beta 2 (20F5055c)
@@ -134,7 +134,7 @@ obsidian-theme-minimal 2.5.9
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
-trojan-go v0.9.1
+trojan-go v0.10.0
 tvOS 14.5 (18L204)
 tvOS-Beta 14.6 beta 2 (18L5555c)
 uview-ui 1.8.4

@@ -48,7 +48,7 @@ Marked 2.6.8-1021
 Marked-2 2.6.8-1021
 Metabase v0.39.1
 Microsoft-Office 16.48.21041102
-Motrix v1.6.8
+Motrix v1.6.10
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.28
 Netch 1.8.3
@@ -102,7 +102,7 @@ docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.5.5
-hpool-chia-miner v1.2.0-1
+hpool-chia-miner v1.2.0-2
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.8-14897

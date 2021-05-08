@@ -14,8 +14,8 @@ Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.8
 Confluence-Standard 7.9.3
-CotEditor-Beta 4.0.2-457
-CotEditor-Stable 4.0.2-457
+CotEditor-Beta 4.0.3-459
+CotEditor-Stable 4.0.3-459
 DEVONthink 3.7.1
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
@@ -138,7 +138,7 @@ trojan-go v0.10.0
 tvOS 14.5 (18L204)
 tvOS-Beta 14.6 beta 2 (18L5555c)
 uview-ui 1.8.4
-@vue/cli 4.5.12
+@vue/cli 4.5.13
 watchOS 7.4.1 (18T201)
 watchOS-Beta 7.5 beta 2 (18T5555c)
 webhook 2.8.0

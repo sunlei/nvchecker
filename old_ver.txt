@@ -7,7 +7,7 @@ Beancount 2.3.4
 BorgBackup 1.1.16
 Burp-Suite Professional / Community 2021.4.3
 Celery 5.0.5
-Chia-blockchain 1.1.4
+Chia-blockchain 1.1.5
 ClashX 1.50.1
 CleanMyMac-X 4.8.3-40803.0.2104261825
 Confluence 7.9.0
@@ -72,7 +72,7 @@ Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.1.1-1305
 Surge-Mac-v4-Stable 4.1.0-1298
-Syncthing-for-macOS v1.16.1-1-101600101
+Syncthing-for-macOS v1.16.1-2-101600102
 TablePlus 3.12.8-368
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 6.4-278

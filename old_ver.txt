@@ -54,7 +54,7 @@ Navicat-Premium 15.0.28
 Netch 1.8.3
 NeteaseMusic 2.3.4-846
 Notion 2.0.17
-Obsidian v0.11.13
+Obsidian v0.12.3
 PyCharm 2021.1.1-211.7142.13
 QQ-for-Mac 8.4.10.118
 React 17.0.2
@@ -102,7 +102,7 @@ docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.5.5
-hpool-chia-miner v1.2.0-4
+hpool-chia-miner v1.2.0-5
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.8-14897

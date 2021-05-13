@@ -102,7 +102,7 @@ docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v7.5.6
-hpool-chia-miner v1.3.0-1
+hpool-chia-miner v1.3.0-3
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.8-14897

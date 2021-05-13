@@ -20,7 +20,7 @@ DEVONthink 3.7.1
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
 DataGrip 2021.1.1-211.7142.37
-Django 3.2.2
+Django 3.2.3
 Docker-for-Mac 3.3.3-64133
 Dropbox 122.4.4867
 FilePane 1.10.7
@@ -84,7 +84,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90174
-Wechat-for-Mac 3.0.3.17-18061
+Wechat-for-Mac 3.0.2.18-18041
 Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106

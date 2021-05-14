@@ -28,7 +28,7 @@ Firefox 88.0.1
 Fork 2.7
 ForkLift 3.5.2-214
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.11.3
+GitLab-Release GitLab Patch Release: 13.11.4
 GitLab-Runner-Helm-Chart v0.29.0-rc1
 GoLand 2021.1.1-211.7142.13
 Google-Chrome-Beta 91.0.4472.57
@@ -84,7 +84,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90174
-Wechat-for-Mac 3.0.3.17-18061
+Wechat-for-Mac 3.0.2.18-18041
 Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106

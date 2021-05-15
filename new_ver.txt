@@ -48,7 +48,7 @@ Marked 2.6.8-1021
 Marked-2 2.6.8-1021
 Metabase v0.39.1
 Microsoft-Office 16.49.21050901
-Motrix v1.6.10
+Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.28
 Netch 1.8.4
@@ -77,14 +77,14 @@ TablePlus 3.12.8-368
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 6.4-278
 Transmit 5.7.4
-Typora 0.10.9-5330
+Typora 0.10.10-5354
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.56.2
 Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90174
-Wechat-for-Mac 3.0.2.18-18041
+Wechat-for-Mac 3.0.3.17-18061
 Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106

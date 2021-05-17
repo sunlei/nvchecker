@@ -106,18 +106,18 @@ hpool-chia-miner v1.3.0-5
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.8-14897
-iOS 14.5.1 (18E212)
-iOS-Beta 14.6 beta 3 (18F5065a)
-iPadOS 14.5.1 (18E212)
-iPadOS-Beta 14.6 beta 3 (18F5065a)
+iOS 14.6 RC (18F71)
+iOS-Beta null
+iPadOS 14.6 RC (18F71)
+iPadOS-Beta null
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.9.2
 jumpserver-installer v2.9.2
 kitty v0.20.3
 kombu 5.0.2
-macOS Big Sur 11.3.1 (20E241)
-macOS-Beta Big Sur 11.4 beta 3 (20F5065a)
+macOS Big Sur 11.4 RC (20F71)
+macOS-Beta null
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -135,10 +135,10 @@ snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.0
-tvOS 14.5 (18L204)
-tvOS-Beta 14.6 beta 3 (18L5565a)
+tvOS 14.6 RC (18L569)
+tvOS-Beta null
 uview-ui 1.8.4
 @vue/cli 4.5.13
-watchOS 7.4.1 (18T201)
-watchOS-Beta 7.5 beta 3 (18T5564a)
+watchOS 7.5 RC (18T567)
+watchOS-Beta null
 webhook 2.8.0

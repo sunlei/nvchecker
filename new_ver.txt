@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.9.2-410
 Marked 2.6.8-1021
 Marked-2 2.6.8-1021
-Metabase v0.39.1
+Metabase v0.39.2
 Microsoft-Office 16.49.21050901
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
@@ -84,7 +84,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90174
-Wechat-for-Mac 3.0.2.18-18041
+Wechat-for-Mac 3.0.3.17-18061
 Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106

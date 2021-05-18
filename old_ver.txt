@@ -39,7 +39,7 @@ IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) null
-Jira-Standard 8.16.1
+Jira-Standard 8.17.0
 Kaleidoscope 2.4-1450
 Little-Snitch 5.1.2-6194
 MWeb 3.4.4
@@ -84,7 +84,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90174
-Wechat-for-Mac 3.0.2.18-18041
+Wechat-for-Mac 3.0.3.17-18061
 Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106

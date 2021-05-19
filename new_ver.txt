@@ -59,7 +59,7 @@ PyCharm 2021.1.1-211.7142.13
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 4.3.6-4.3.6.1000
-Sentry 21.5.0
+Sentry 21.5.1
 Sequel-Ace production/3.3.2-3030
 Setapp 2.9.7
 Sketch 72.1-124357

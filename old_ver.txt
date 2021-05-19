@@ -31,7 +31,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.11.4
 GitLab-Runner-Helm-Chart v0.29.0-rc1
 GoLand 2021.1.1-211.7142.13
-Google-Chrome-Beta 91.0.4472.57
+Google-Chrome-Beta 91.0.4472.69
 Google-Chrome-Dev 92.0.4503.0
 Google-Chrome-Stable 90.0.4430.212
 Hazel 4.4.5
@@ -84,7 +84,7 @@ Vorta-Backup-Client v0.7.5
 Vue.js 2.6.12
 Vuex 3.6.2
 WeChat-Work 3.1.6.90174
-Wechat-for-Mac 3.0.2.18-18041
+Wechat-for-Mac 3.0.3.17-18061
 Xcode 12.5 (12E262)
 Xcode-Beta null
 aText 2.37.1-106
@@ -107,9 +107,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.8-14897
 iOS 14.6 RC (18F71)
-iOS-Beta null
+iOS-Beta 14.7 beta (18G5023c)
 iPadOS 14.6 RC (18F71)
-iPadOS-Beta null
+iPadOS-Beta 14.7 beta (18G5023c)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.9.2
@@ -117,7 +117,7 @@ jumpserver-installer v2.9.2
 kitty v0.20.3
 kombu 5.0.2
 macOS Big Sur 11.4 RC (20F71)
-macOS-Beta null
+macOS-Beta Big Sur 11.5 beta (20G5023d)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -136,9 +136,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.0
 tvOS 14.6 RC (18L569)
-tvOS-Beta null
+tvOS-Beta 14.7 beta (18M5523d)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.5 RC (18T567)
-watchOS-Beta null
+watchOS-Beta 7.6 beta (18U5523d)
 webhook 2.8.0

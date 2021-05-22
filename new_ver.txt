@@ -72,6 +72,7 @@ Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.1.1-1306
 Surge-Mac-v4-Stable 4.1.0-1298
+Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.16.1-2-101600102
 TablePlus 3.12.8-368
 The-Unarchiver 4.3.0-132
@@ -90,6 +91,7 @@ Xcode-Beta null
 aText 2.37.1-106
 alfred-vscode v2.1.0
 ansible 4.0.0
+chia_plot_manager V0.7
 coconutBattery 3.9.5
 @dcloudio/uni-h5 2.0.0-31920210514002
 @dcloudio/uni-h5-ui 2.0.0-31920210514002
@@ -131,6 +133,7 @@ obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.2
 obsidian-plugin-templater 1.6.0
 obsidian-theme-minimal 2.5.11
+plotng v0.19
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0

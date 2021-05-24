@@ -31,7 +31,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.11.4
 GitLab-Runner-Helm-Chart v0.29.0
 GoLand 2021.1.1-211.7142.13
-Google-Chrome-Beta 91.0.4472.69
+Google-Chrome-Beta 91.0.4472.77
 Google-Chrome-Dev 92.0.4512.4
 Google-Chrome-Stable 90.0.4430.212
 Hazel 4.4.5

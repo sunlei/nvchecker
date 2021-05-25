@@ -30,7 +30,7 @@ ForkLift 3.5.2-214
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 13.11.4
 GitLab-Runner-Helm-Chart v0.29.0
-GoLand 2021.1.1-211.7142.13
+GoLand 2021.1.2-211.7442.27
 Google-Chrome-Beta 91.0.4472.77
 Google-Chrome-Dev 92.0.4512.4
 Google-Chrome-Stable 90.0.4430.212
@@ -133,7 +133,7 @@ obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.7.1
 obsidian-theme-minimal 2.5.11
-plotng v0.20
+plotng v0.21
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0

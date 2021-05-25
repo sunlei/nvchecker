@@ -130,10 +130,10 @@ obsidian-plugin-hider 1.0.7
 obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
 obsidian-plugin-paste-url-into-selection 1.6.0
-obsidian-plugin-sliding-panes 3.2.2
+obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.7.1
 obsidian-theme-minimal 2.5.11
-plotng v0.19
+plotng v0.20
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0

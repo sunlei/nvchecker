@@ -1,4 +1,4 @@
-1Password-for-Mac 7.8.3
+1Password-for-Mac 7.8.4
 Alfred 4.3.4
 AriaNg 1.2.1
 AriaNg-Native 1.2.1

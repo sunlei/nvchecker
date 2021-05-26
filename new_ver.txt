@@ -28,7 +28,7 @@ Firefox 88.0.1
 Fork 2.7
 ForkLift 3.5.2-214
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.11.4
+GitLab-Release GitLab Patch Release: 13.12.1
 GitLab-Runner-Helm-Chart v0.29.0
 GoLand 2021.1.2-211.7442.27
 Google-Chrome-Beta 91.0.4472.77
@@ -114,8 +114,8 @@ iPadOS 14.6 (18F72)
 iPadOS-Beta 14.7 beta (18G5023c)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.10.1
-jumpserver-installer v2.10.1
+jumpserver v2.10.2
+jumpserver-installer v2.10.2
 kitty v0.20.3
 kombu 5.1.0
 macOS Big Sur 11.4 (20F71)
@@ -133,7 +133,7 @@ obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.7.1
 obsidian-theme-minimal 2.5.12
-plotng v0.21
+plotng v0.22
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0

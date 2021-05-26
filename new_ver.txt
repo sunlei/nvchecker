@@ -137,7 +137,7 @@ plotng v0.21
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
-trojan-go v0.10.0
+trojan-go v0.10.1
 tvOS 14.6 (18L569)
 tvOS-Beta 14.7 beta (18M5523d)
 uview-ui 1.8.4

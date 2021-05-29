@@ -91,7 +91,7 @@ Xcode-Beta null
 aText 2.37.1-106
 alfred-vscode v2.1.0
 ansible 4.0.0
-chia_plot_manager v0.8
+chia_plot_manager v0.9
 coconutBattery 3.9.5
 @dcloudio/uni-h5 2.0.0-31920210514002
 @dcloudio/uni-h5-ui 2.0.0-31920210514002

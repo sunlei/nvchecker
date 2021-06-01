@@ -12,7 +12,7 @@ ClashX 1.50.1
 CleanMyMac-X 4.8.4-40804.0.2105261318
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
-Confluence-Enterprise(Long-Term-Support) 7.4.8
+Confluence-Enterprise(Long-Term-Support) 7.4.9
 Confluence-Standard 7.9.3
 CotEditor-Beta 4.0.3-459
 CotEditor-Stable 4.0.3-459

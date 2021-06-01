@@ -19,12 +19,12 @@ CotEditor-Stable 4.0.3-459
 DEVONthink 3.7.2
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
-DataGrip 2021.1.1-211.7142.37
+DataGrip 2021.1.2-211.7442.38
 Django 3.2.3
 Docker-for-Mac 3.3.3-64133
 Dropbox 123.4.4832
 FilePane 1.10.7
-Firefox 88.0.1
+Firefox 89.0
 Fork 2.8
 ForkLift 3.5.2-214
 GitLab v13.1.1-ee
@@ -52,7 +52,7 @@ Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.28
 Netch 1.8.5
-NeteaseMusic 2.3.4-846
+NeteaseMusic 2.3.5-850
 Notion 2.0.17
 Obsidian v0.12.3
 PyCharm 2021.1.1-211.7142.13

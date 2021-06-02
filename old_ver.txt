@@ -55,7 +55,7 @@ Netch 1.8.5
 NeteaseMusic 2.3.5-850
 Notion 2.0.17
 Obsidian v0.12.3
-PyCharm 2021.1.1-211.7142.13
+PyCharm 2021.1.2-211.7442.45
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 4.3.6-4.3.6.1000
@@ -109,9 +109,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.8-14897
 iOS 14.6 (18F72)
-iOS-Beta 14.7 beta (18G5023c)
+iOS-Beta 14.7 beta 2 (18G5033e)
 iPadOS 14.6 (18F72)
-iPadOS-Beta 14.7 beta (18G5023c)
+iPadOS-Beta 14.7 beta 2 (18G5033e)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.10.3
@@ -119,7 +119,7 @@ jumpserver-installer v2.10.3
 kitty v0.20.3
 kombu 5.1.0
 macOS Big Sur 11.4 (20F71)
-macOS-Beta Big Sur 11.5 beta (20G5023d)
+macOS-Beta Big Sur 11.5 beta 2 (20G5033c)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -139,9 +139,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.3
 tvOS 14.6 (18L569)
-tvOS-Beta 14.7 beta (18M5523d)
+tvOS-Beta 14.7 beta 2 (18M5533c)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.5 (18T567)
-watchOS-Beta 7.6 beta (18U5523d)
+watchOS-Beta 7.6 beta 2 (18U5533b)
 webhook 2.8.0

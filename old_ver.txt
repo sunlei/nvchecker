@@ -76,7 +76,7 @@ Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.16.1-2-101600102
 TablePlus 3.12.8-368
 The-Unarchiver 4.3.0-132
-Tower-for-Mac 6.5-279
+Tower-for-Mac 6.4-278
 Transmit 5.7.4
 Typora 0.10.10-5354
 UniFi-Network-Controller 5.12.66
@@ -114,8 +114,8 @@ iPadOS 14.6 (18F72)
 iPadOS-Beta 14.7 beta (18G5023c)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.10.2
-jumpserver-installer v2.10.2
+jumpserver v2.10.3
+jumpserver-installer v2.10.3
 kitty v0.20.3
 kombu 5.1.0
 macOS Big Sur 11.4 (20F71)

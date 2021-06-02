@@ -20,7 +20,7 @@ DEVONthink 3.7.2
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
 DataGrip 2021.1.2-211.7442.38
-Django 3.2.3
+Django 3.2.4
 Docker-for-Mac 3.3.3-64133
 Dropbox 123.4.4832
 FilePane 1.10.7
@@ -76,7 +76,7 @@ Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.16.1-2-101600102
 TablePlus 3.12.8-368
 The-Unarchiver 4.3.0-132
-Tower-for-Mac 6.4-278
+Tower-for-Mac 6.5-279
 Transmit 5.7.4
 Typora 0.10.10-5354
 UniFi-Network-Controller 5.12.66

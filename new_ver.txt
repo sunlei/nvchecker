@@ -32,7 +32,7 @@ GitLab-Release GitLab Patch Release: 13.12.3
 GitLab-Runner-Helm-Chart v0.29.0
 GoLand 2021.1.2-211.7442.27
 Google-Chrome-Beta 92.0.4515.39
-Google-Chrome-Dev 93.0.4530.5
+Google-Chrome-Dev 93.0.4535.3
 Google-Chrome-Stable 91.0.4472.77
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -81,7 +81,7 @@ Transmit 5.7.4
 Typora 0.10.10-5354
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.56.2
-Vorta-Backup-Client v0.7.5
+Vorta-Backup-Client v0.7.6
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.8.90228

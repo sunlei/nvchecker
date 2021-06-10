@@ -52,13 +52,13 @@ Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.28
 Netch 1.8.5
-NeteaseMusic 2.3.5-850
+NeteaseMusic 2.3.5-852
 Notion 2.0.17
 Obsidian v0.12.4
 PyCharm 2021.1.2-211.7442.45
 QQ-for-Mac 8.4.10.118
 React 17.0.2
-Royal-TSX 4.3.6-4.3.6.1000
+Royal-TSX 5.0-5.0.0.1000
 Sentry 21.5.1
 Sequel-Ace production/3.3.3-3034
 Setapp 2.9.7
@@ -103,7 +103,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v8.0.0
+grafana v8.0.1
 hpool-chia-miner v1.4.0-2
 hpool-chia-plotter v0.10
 iExplorer 4.4.1

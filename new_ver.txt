@@ -80,7 +80,7 @@ Tower-for-Mac 6.5-279
 Transmit 5.7.4
 Typora 0.10.10-5354
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.56.2
+Visual-Studio-Code 1.57.0
 Vorta-Backup-Client v0.7.6
 Vue.js 2.6.14
 Vuex 3.6.2
@@ -107,7 +107,7 @@ grafana v8.0.1
 hpool-chia-miner v1.4.0-2
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
-iMazing 2.13.8-14897
+iMazing 2.13.9-14924
 iOS 14.6 (18F72)
 iOS-Beta 15 beta (19A5261w)
 iPadOS null

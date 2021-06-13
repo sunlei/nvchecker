@@ -88,7 +88,7 @@ WeChat-Work 3.1.8.90238
 Wechat-for-Mac 3.0.4.17-18099
 Xcode 12.5 (12E262)
 Xcode-Beta 13 beta (13A5154h)
-aText 2.38.3-110
+aText 2.38.4-111
 alfred-vscode v2.1.0
 ansible 4.1.0
 chia_plot_manager v0.92

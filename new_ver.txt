@@ -1,7 +1,7 @@
 1Password-for-Mac 7.8.5
 Alfred 4.3.4
 AriaNg 1.2.2
-AriaNg-Native 1.2.2
+AriaNg-Native 1.2.1
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.16
@@ -108,10 +108,10 @@ hpool-chia-miner v1.4.0-2
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.9-14924
-iOS 14.6 (18F72)
-iOS-Beta 15 beta (19A5261w)
+iOS null
+iOS-Beta 14.7 beta 3 (18G5042c)
 iPadOS null
-iPadOS-Beta 15 beta (19A5261w)
+iPadOS-Beta 14.7 beta 3 (18G5042c)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.10.4
@@ -119,7 +119,7 @@ jumpserver-installer v2.10.4
 kitty v0.21.1
 kombu 5.1.0
 macOS Big Sur 11.4 (20F71)
-macOS-Beta Monterey beta (21A5248p)
+macOS-Beta Big Sur 11.5 beta 3 (20G5042c)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -139,9 +139,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.4
 tvOS 14.6 (18L569)
-tvOS-Beta 15 beta (19J5268r)
+tvOS-Beta 14.7 beta 3 (18M5542c)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.5 (18T567)
-watchOS-Beta 8 beta (19R5266q)
+watchOS-Beta 7.6 beta 3 (18U5542b)
 webhook 2.8.0

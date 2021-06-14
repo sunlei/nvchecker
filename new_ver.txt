@@ -116,7 +116,7 @@ iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.10.4
 jumpserver-installer v2.10.4
-kitty v0.21.0
+kitty v0.21.1
 kombu 5.1.0
 macOS Big Sur 11.4 (20F71)
 macOS-Beta Monterey beta (21A5248p)

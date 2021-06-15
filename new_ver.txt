@@ -41,7 +41,7 @@ Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) null
 Jira-Standard 8.17.0
 Kaleidoscope 2.4-1450
-Little-Snitch 5.2-6205
+Little-Snitch 5.2.1-6207
 MWeb 3.4.4
 Manico 2.9.2-410
 Marked 2.6.8-1021
@@ -52,7 +52,7 @@ Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.28
 Netch 1.8.5
-NeteaseMusic 2.3.5-852
+NeteaseMusic 2.3.5-856
 Notion 2.0.17
 Obsidian v0.12.4
 PyCharm 2021.1.2-211.7442.45

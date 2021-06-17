@@ -114,8 +114,8 @@ iPadOS null
 iPadOS-Beta 14.7 beta 3 (18G5042c)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.10.4
-jumpserver-installer v2.10.4
+jumpserver v2.11.0
+jumpserver-installer v2.11.0
 kitty v0.21.1
 kombu 5.1.0
 macOS Big Sur 11.4 (20F71)
@@ -131,7 +131,7 @@ obsidian-plugin-minimal-theme-settings 2.5.0
 obsidian-plugin-note-refactor 1.6.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
-obsidian-plugin-templater 1.7.1
+obsidian-plugin-templater 1.8.0
 obsidian-theme-minimal 2.5.12
 plotng v0.24
 snell v2.0.4

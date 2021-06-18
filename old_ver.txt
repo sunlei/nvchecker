@@ -80,7 +80,7 @@ Tower-for-Mac 6.5-279
 Transmit 5.7.4
 Typora 0.10.11-5372
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.57.0
+Visual-Studio-Code 1.57.1
 Vorta-Backup-Client v0.7.6
 Vue.js 2.6.14
 Vuex 3.6.2

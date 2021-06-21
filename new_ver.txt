@@ -28,7 +28,7 @@ Firefox 89.0.1
 Fork 2.8
 ForkLift 3.5.2-214
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.12.4
+GitLab-Release GitLab Patch Release: 13.12.5
 GitLab-Runner-Helm-Chart v0.30.0
 GoLand 2021.1.3-211.7442.57
 Google-Chrome-Beta 92.0.4515.59
@@ -54,7 +54,7 @@ Navicat-Premium 15.0.28
 Netch 1.8.5
 NeteaseMusic 2.3.5-856
 Notion 2.0.17
-Obsidian v0.12.4
+Obsidian v0.12.5
 PyCharm 2021.1.2-211.7442.45
 QQ-for-Mac 8.4.10.118
 React 17.0.2

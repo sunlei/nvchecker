@@ -85,9 +85,9 @@ Vorta-Backup-Client v0.7.7
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.8.90238
-Wechat-for-Mac 3.1.0.17-18693
+Wechat-for-Mac 3.0.4.17-18099
 Xcode 12.5.1 (12E507)
-Xcode-Beta 13 beta (13A5154h)
+Xcode-Beta 13 beta 2 (13A5155e)
 aText 2.38.4-111
 alfred-vscode v2.1.0
 ansible 4.1.0
@@ -109,9 +109,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.9-14924
 iOS 12.5.4 (16H50)
-iOS-Beta 14.7 beta 3 (18G5042c)
+iOS-Beta 15 beta 2 (19A5281h)
 iPadOS null
-iPadOS-Beta 14.7 beta 3 (18G5042c)
+iPadOS-Beta 15 beta 2 (19A5281h)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.11.2
@@ -139,9 +139,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.4
 tvOS 14.6 (18L569)
-tvOS-Beta 14.7 beta 3 (18M5542c)
+tvOS-Beta 15 beta 2 (19J5288e)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.5 (18T567)
-watchOS-Beta 7.6 beta 3 (18U5542b)
+watchOS-Beta 8 beta 2 (19R5286f)
 webhook 2.8.0

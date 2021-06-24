@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2021.6.2
 Celery 5.1.1
 Chia-blockchain 1.1.7
 ClashX 1.60.0
-CleanMyMac-X 4.8.4-40804.0.2105261318
+CleanMyMac-X 4.8.5-40805.0.2106230919
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.9
@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.7.7
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.8.90238
-Wechat-for-Mac 3.1.1.17-18713
+Wechat-for-Mac 3.1.0.17-18693
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta (13A5154h)
 aText 2.38.4-111

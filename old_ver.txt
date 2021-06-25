@@ -25,7 +25,7 @@ Docker-for-Mac 3.4.0-65384
 Dropbox 125.4.3474
 FilePane 1.10.7
 Firefox 89.0.2
-Fork 2.8
+Fork 2.9.1
 ForkLift 3.5.2-214
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.0.1
@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.7.7
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.8.90238
-Wechat-for-Mac 3.1.1.17-18713
+Wechat-for-Mac 3.1.0.17-18693
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 2 (13A5155e)
 aText 2.38.5-112

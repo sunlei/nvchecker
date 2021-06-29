@@ -50,7 +50,7 @@ Metabase v0.39.4
 Microsoft-Office 16.50.21061301
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
-Navicat-Premium 15.0.28
+Navicat-Premium 15.0.29
 Netch 1.8.5
 NeteaseMusic 2.3.5-856
 Notion 2.0.17
@@ -114,8 +114,8 @@ iPadOS null
 iPadOS-Beta 15 beta 2 (19A5281h)
 iStat-Menus 6.51
 iTerm2 2.1.4
-jumpserver v2.11.2
-jumpserver-installer v2.11.2
+jumpserver v2.11.3
+jumpserver-installer v2.11.3
 kitty v0.21.2
 kombu 5.1.0
 macOS Big Sur 11.4 (20F71)

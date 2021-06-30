@@ -90,7 +90,7 @@ Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 2 (13A5155e)
 aText 2.38.5-112
 alfred-vscode v2.1.0
-ansible 4.1.0
+ansible 4.2.0
 chia_plot_manager v0.92
 coconutBattery 3.9.5
 @dcloudio/uni-h5 2.0.0-31920210609001

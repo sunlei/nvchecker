@@ -55,7 +55,7 @@ Netch 1.8.5
 NeteaseMusic 2.3.5-856
 Notion 2.0.17
 Obsidian v0.12.5
-PyCharm 2021.1.2-211.7442.45
+PyCharm 2021.1.3-211.7628.24
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 5.0-5.0.0.1000

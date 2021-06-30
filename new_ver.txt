@@ -5,7 +5,7 @@ AriaNg-Native 1.2.2
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.16
-Burp-Suite Professional / Community 2021.6.2
+Burp-Suite Professional / Community 2021.7
 Celery 5.1.2
 Chia-blockchain 1.1.7
 ClashX 1.60.0
@@ -31,7 +31,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.0.1
 GitLab-Runner-Helm-Chart v0.30.0
 GoLand 2021.1.3-211.7442.57
-Google-Chrome-Beta 92.0.4515.69
+Google-Chrome-Beta 92.0.4515.80
 Google-Chrome-Dev 93.0.4557.4
 Google-Chrome-Stable 91.0.4472.114
 Hazel 4.4.5
@@ -109,9 +109,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.9-14924
 iOS 12.5.4 (16H50)
-iOS-Beta 14.7 beta 4 (18G5052d)
+iOS-Beta 15 beta 2 (19A5281j)
 iPadOS null
-iPadOS-Beta 14.7 beta 4 (18G5052d)
+iPadOS-Beta 15 beta 2 (19A5281j)
 iStat-Menus 6.51
 iTerm2 2.1.4
 jumpserver v2.11.3

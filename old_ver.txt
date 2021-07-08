@@ -109,9 +109,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.10-15078
 iOS 12.5.4 (16H50)
-iOS-Beta 15 beta 2 (19A5281j)
+iOS-Beta 14.7 beta 5 (18G5063a)
 iPadOS null
-iPadOS-Beta 15 beta 2 (19A5281j)
+iPadOS-Beta 14.7 beta 5 (18G5063a)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.11.4
@@ -119,7 +119,7 @@ jumpserver-installer v2.11.4
 kitty v0.21.2
 kombu 5.1.0
 macOS Big Sur 11.4 (20F71)
-macOS-Beta Big Sur 11.5 beta 4 (20G5052c)
+macOS-Beta Big Sur 11.5 beta 5 (20G5065a)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -139,9 +139,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.4
 tvOS 14.6 (18L569)
-tvOS-Beta 14.7 beta 4 (18M5552d)
+tvOS-Beta 14.7 beta 5 (18M5559a)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.5 (18T567)
-watchOS-Beta 7.6 beta 4 (18U5552d)
+watchOS-Beta 7.6 beta 5 (18U5561a)
 webhook 2.8.0

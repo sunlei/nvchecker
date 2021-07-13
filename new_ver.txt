@@ -5,7 +5,7 @@ AriaNg-Native 1.2.2
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.17
-Burp-Suite Professional / Community 2021.7
+Burp-Suite Professional / Community 2021.7.1
 Celery 5.1.2
 Chia-blockchain 1.2.1
 ClashX 1.65.0
@@ -24,7 +24,7 @@ Django 3.2.5
 Docker-for-Mac 3.5.1-66090
 Dropbox 126.4.4618
 FilePane 1.10.7
-Firefox 89.0.2
+Firefox 90.0
 Fork 2.9.3
 ForkLift 3.5.3-215
 GitLab v13.1.1-ee

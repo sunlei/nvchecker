@@ -32,7 +32,7 @@ GitLab-Release GitLab Patch Release: 14.0.5
 GitLab-Runner-Helm-Chart v0.31.0-rc1
 GoLand 2021.1.3-211.7442.57
 Google-Chrome-Beta 92.0.4515.93
-Google-Chrome-Dev 93.0.4557.4
+Google-Chrome-Dev 93.0.4573.0
 Google-Chrome-Stable 91.0.4472.114
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -47,7 +47,7 @@ Manico 2.9.2-410
 Marked 2.6.9-1022
 Marked-2 2.6.9-1022
 Metabase v0.40.0
-Microsoft-Office 16.50.21061301
+Microsoft-Office 16.51.21071101
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.29
@@ -73,19 +73,19 @@ Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.2.0-1321
 Surge-Mac-v4-Stable 4.2.0-1321
 Swar-Chia-Plot-Manager v.0.1.0
-Syncthing-for-macOS v1.17.0-1-101700001
+Syncthing-for-macOS v1.18.0-1-101800001
 TablePlus 4.0.0-370
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 6.5-279
 Transmit 5.7.4
 Typora 0.10.11-5372
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.58.0
+Visual-Studio-Code 1.58.1
 Vorta-Backup-Client v0.7.7
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.8.90238
-Wechat-for-Mac 3.1.2.17-18766
+Wechat-for-Mac 3.1.5.19-18846
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 2 (13A5155e)
 aText 2.38.5-112
@@ -108,18 +108,18 @@ hpool-chia-miner 1.4.2
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.10-15078
-iOS 12.5.4 (16H50)
-iOS-Beta 14.7 beta 5 (18G5063a)
-iPadOS null
-iPadOS-Beta 14.7 beta 5 (18G5063a)
+iOS 14.7 RC (18G68)
+iOS-Beta 15 beta 2 (19A5281j)
+iPadOS 14.7 RC (18G68)
+iPadOS-Beta 15 beta 2 (19A5281j)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.11.4
 jumpserver-installer v2.11.4
 kitty v0.21.2
 kombu 5.1.0
-macOS Big Sur 11.4 (20F71)
-macOS-Beta Big Sur 11.5 beta 5 (20G5065a)
+macOS Big Sur 11.5 RC (20G70)
+macOS-Beta Monterey beta 2 (21A5268h)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -138,10 +138,10 @@ snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.4
-tvOS 14.6 (18L569)
-tvOS-Beta 14.7 beta 5 (18M5559a)
+tvOS 14.7 RC (18M60)
+tvOS-Beta 15 beta 2 (19J5288e)
 uview-ui 1.8.4
 @vue/cli 4.5.13
-watchOS 7.5 (18T567)
-watchOS-Beta 7.6 beta 5 (18U5561a)
+watchOS 7.6 RC (18U63)
+watchOS-Beta 8 beta 2 (19R5286f)
 webhook 2.8.0

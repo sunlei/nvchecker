@@ -4,7 +4,7 @@ AriaNg 1.2.2
 AriaNg-Native 1.2.2
 Arq-Backup 6.2.76
 Beancount 2.3.4
-BorgBackup 1.1.16
+BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.7
 Celery 5.1.2
 Chia-blockchain 1.2.1

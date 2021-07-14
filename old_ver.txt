@@ -7,7 +7,7 @@ Beancount 2.3.4
 BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.7.1
 Celery 5.1.2
-Chia-blockchain 1.2.1
+Chia-blockchain 1.2.2
 ClashX 1.65.0
 CleanMyMac-X 4.8.5-40805.0.2106230919
 Confluence 7.9.0
@@ -31,7 +31,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.0.5
 GitLab-Runner-Helm-Chart v0.31.0-rc1
 GoLand 2021.1.3-211.7442.57
-Google-Chrome-Beta 92.0.4515.93
+Google-Chrome-Beta 92.0.4515.101
 Google-Chrome-Dev 93.0.4573.0
 Google-Chrome-Stable 91.0.4472.114
 Hazel 4.4.5
@@ -51,7 +51,7 @@ Microsoft-Office 16.51.21071101
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.29
-Netch 1.8.5
+Netch 1.8.6
 NeteaseMusic 2.3.5-856
 Notion 2.0.17
 Obsidian v0.12.10
@@ -109,9 +109,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.10-15078
 iOS 14.7 RC (18G68)
-iOS-Beta 15 beta 2 (19A5281j)
+iOS-Beta 15 beta 3 (19A5297e)
 iPadOS 14.7 RC (18G68)
-iPadOS-Beta 15 beta 2 (19A5281j)
+iPadOS-Beta 15 beta 3 (19A5297e)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.11.4
@@ -119,7 +119,7 @@ jumpserver-installer v2.11.4
 kitty v0.21.2
 kombu 5.1.0
 macOS Big Sur 11.5 RC (20G70)
-macOS-Beta Monterey beta 2 (21A5268h)
+macOS-Beta Monterey beta 3 (21A5284e)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.3
@@ -139,9 +139,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.4
 tvOS 14.7 RC (18M60)
-tvOS-Beta 15 beta 2 (19J5288e)
+tvOS-Beta 15 beta 3 (19J5304d)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.6 RC (18U63)
-watchOS-Beta 8 beta 2 (19R5286f)
+watchOS-Beta 8 beta 3 (19R5302f)
 webhook 2.8.0

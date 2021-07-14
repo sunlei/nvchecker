@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.9.2-410
 Marked 2.6.9-1022
 Marked-2 2.6.9-1022
-Metabase v0.40.0
+Metabase v0.40.1
 Microsoft-Office 16.51.21071101
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
@@ -87,7 +87,7 @@ Vuex 3.6.2
 WeChat-Work 3.1.10.90255
 Wechat-for-Mac 3.1.5.19-18846
 Xcode 12.5.1 (12E507)
-Xcode-Beta 13 beta 2 (13A5155e)
+Xcode-Beta 13 beta 3 (13A5192i)
 aText 2.38.5-112
 alfred-vscode v2.1.0
 ansible 4.2.0

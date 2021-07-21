@@ -62,7 +62,7 @@ Royal-TSX 5.0-5.0.0.1000
 Sentry 21.7.0
 Sequel-Ace production/3.3.3-3034
 Setapp 2.9.12
-Sketch 73.1-127209
+Sketch 74.1-128920
 Snipaste 2.5.6-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -114,8 +114,8 @@ iPadOS 14.7 RC (18G68)
 iPadOS-Beta 15 beta 3 (19A5297e)
 iStat-Menus 6.60
 iTerm2 2.1.4
-jumpserver v2.12.0
-jumpserver-installer v2.12.0
+jumpserver v2.12.1
+jumpserver-installer v2.12.1
 kitty v0.21.2
 kombu 5.1.0
 macOS Big Sur 11.5 RC (20G71)

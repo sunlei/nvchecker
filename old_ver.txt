@@ -5,11 +5,11 @@ AriaNg-Native 1.2.2
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.17
-Burp-Suite Professional / Community 2021.7.1
+Burp-Suite Professional / Community 2021.7.2
 Celery 5.1.2
 Chia-blockchain 1.2.2
 ClashX 1.65.0
-CleanMyMac-X 4.8.5-40805.0.2106230919
+CleanMyMac-X 4.8.6-40806.0.2107211848
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.9
@@ -39,7 +39,7 @@ IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) null
-Jira-Standard 8.17.1
+Jira-Standard 8.18.1
 Kaleidoscope 2.4-1450
 Little-Snitch 5.2.2-6209
 MWeb 3.4.4

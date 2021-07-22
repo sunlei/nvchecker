@@ -24,7 +24,7 @@ Django 3.2.5
 Docker-for-Mac 3.5.1-66090
 Dropbox 127.4.4265
 FilePane 1.10.7
-Firefox 90.0.1
+Firefox 90.0.2
 Fork 2.9.3
 ForkLift 3.5.3-215
 GitLab v13.1.1-ee

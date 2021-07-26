@@ -108,9 +108,9 @@ hpool-chia-miner 1.5.1
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.10-15078
-iOS 14.7 (18G69)
+iOS 14.7.1 (18G82)
 iOS-Beta 15 beta 3 (19A5297e)
-iPadOS 14.7  (18G69/18G70)
+iPadOS 14.7.1  (18G82)
 iPadOS-Beta 15 beta 3 (19A5297e)
 iStat-Menus 6.60
 iTerm2 2.1.4
@@ -118,7 +118,7 @@ jumpserver v2.12.1
 jumpserver-installer v2.12.1
 kitty v0.22.0
 kombu 5.1.0
-macOS Big Sur 11.5 (20G71)
+macOS Big Sur 11.5.1 (20G80)
 macOS-Beta Monterey beta 3 (21A5284e)
 mas v1.8.2
 nvALT 2.2.8-128

@@ -87,7 +87,7 @@ Vuex 3.6.2
 WeChat-Work 3.1.11.90266
 Wechat-for-Mac 3.1.5.19-18846
 Xcode 12.5.1 (12E507)
-Xcode-Beta 13 beta 3 (13A5192j)
+Xcode-Beta 13 beta 4 (13A5201i)
 aText 2.38.5-112
 alfred-vscode v2.1.0
 ansible 4.3.0
@@ -109,9 +109,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.13.10-15078
 iOS 14.7.1 (18G82)
-iOS-Beta 15 beta 3 (19A5297e)
+iOS-Beta 15 beta 4 (19A5307g)
 iPadOS 14.7.1  (18G82)
-iPadOS-Beta 15 beta 3 (19A5297e)
+iPadOS-Beta 15 beta 4 (19A5307g)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.12.1
@@ -119,11 +119,11 @@ jumpserver-installer v2.12.1
 kitty v0.22.0
 kombu 5.1.0
 macOS Big Sur 11.5.1 (20G80)
-macOS-Beta Monterey beta 3 (21A5284e)
+macOS-Beta Monterey beta 4 (21A5294g)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.3
-obsidian-plugin-advanced-tables 0.12.5
+obsidian-plugin-advanced-tables 0.13.0
 obsidian-plugin-calendar 2.0.0-beta.2
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.7
@@ -139,9 +139,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.4
 tvOS 14.7 (18M60)
-tvOS-Beta 15 beta 3 (19J5304d)
+tvOS-Beta 15 beta 4 (19J5314e)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.6 (18U63)
-watchOS-Beta 8 beta 3 (19R5302f)
+watchOS-Beta 8 beta 4 (19R5312e)
 webhook 2.8.0

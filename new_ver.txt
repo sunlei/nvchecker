@@ -30,7 +30,7 @@ ForkLift 3.5.3-215
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.1.1
 GitLab-Runner-Helm-Chart v0.31.0
-GoLand 2021.1.3-211.7442.57
+GoLand 2021.2-212.4746.93
 Google-Chrome-Beta 92.0.4515.107
 Google-Chrome-Dev 93.0.4577.15
 Google-Chrome-Stable 92.0.4515.107
@@ -63,7 +63,7 @@ Sentry 21.7.0
 Sequel-Ace production/3.3.3-3034
 Setapp 2.9.12
 Sketch 74.1-128920
-Snipaste 2.5.6-Beta
+Snipaste 2.6-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
@@ -103,7 +103,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v8.1.0-beta2
+grafana v8.1.0-beta3
 hpool-chia-miner 1.5.1
 hpool-chia-plotter v0.10
 iExplorer 4.4.1

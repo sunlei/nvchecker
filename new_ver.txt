@@ -12,7 +12,7 @@ ClashX 1.65.0
 CleanMyMac-X 4.8.6-40806.0.2107211848
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
-Confluence-Enterprise(Long-Term-Support) 7.4.9
+Confluence-Enterprise(Long-Term-Support) 7.4.10
 Confluence-Standard 7.9.3
 CotEditor-Beta 4.0.5-463
 CotEditor-Stable 4.0.5-463
@@ -127,7 +127,7 @@ obsidian-plugin-advanced-tables 0.13.0
 obsidian-plugin-calendar 2.0.0-beta.2
 obsidian-plugin-editor-syntax-highlight 0.1.2
 obsidian-plugin-hider 1.0.7
-obsidian-plugin-minimal-theme-settings 3.2.1
+obsidian-plugin-minimal-theme-settings 3.2.2
 obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3

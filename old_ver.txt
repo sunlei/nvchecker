@@ -63,7 +63,7 @@ Sentry 21.7.0
 Sequel-Ace production/3.4.0-3038
 Setapp 2.9.12
 Sketch 74.1-128920
-Snipaste 2.6.4-Beta
+Snipaste 2.6.5-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
@@ -107,7 +107,7 @@ grafana v8.1.0-beta3
 hpool-chia-miner 1.5.1
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
-iMazing 2.14.0-15353
+iMazing 2.14.1-15361
 iOS 14.7.1 (18G82)
 iOS-Beta 15 beta 4 (19A5307g)
 iPadOS 14.7.1  (18G82)

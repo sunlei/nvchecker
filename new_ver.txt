@@ -54,7 +54,7 @@ Navicat-Premium 15.0.29
 Netch 1.8.7
 NeteaseMusic 2.3.5-856
 Notion 2.0.17
-Obsidian v0.12.10
+Obsidian v0.12.12
 PyCharm 2021.2-212.4746.96
 QQ-for-Mac 8.4.10.118
 React 17.0.2
@@ -107,7 +107,7 @@ grafana v8.1.0-beta3
 hpool-chia-miner 1.5.1
 hpool-chia-plotter v0.10
 iExplorer 4.4.1
-iMazing 2.13.10-15078
+iMazing 2.14.0-15353
 iOS 14.7.1 (18G82)
 iOS-Beta 15 beta 4 (19A5307g)
 iPadOS 14.7.1  (18G82)

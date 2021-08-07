@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.1-1326
+Surge-Mac-v4-Beta 4.2.1-1328
 Surge-Mac-v4-Stable 4.2.0-1321
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.1-1-101800101
@@ -132,7 +132,7 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.8.1
-obsidian-theme-minimal 3.2.0
+obsidian-theme-minimal 3.3.0
 plotng v0.26
 snell v2.0.4
 tornado 6.1

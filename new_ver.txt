@@ -22,7 +22,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2021.2-212.4746.86
 Django 3.2.6
 Docker-for-Mac 3.5.2-66501
-Dropbox 127.4.4265
+Dropbox 128.4.2870
 FilePane 1.10.7
 Firefox 90.0.2
 Fork 2.10
@@ -132,7 +132,7 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.8.1
-obsidian-theme-minimal 3.3.0
+obsidian-theme-minimal 3.3.1
 plotng v0.26
 snell v2.0.4
 tornado 6.1

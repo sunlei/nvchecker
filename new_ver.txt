@@ -1,5 +1,5 @@
 1Password-for-Mac 7.8.6
-Alfred 4.5
+Alfred 4.5.1
 AriaNg 1.2.2
 AriaNg-Native 1.2.2
 Arq-Backup 6.2.76

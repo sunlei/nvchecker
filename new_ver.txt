@@ -119,7 +119,7 @@ jumpserver-installer v2.12.1
 kitty v0.22.2
 kombu 5.1.0
 macOS Big Sur 11.5.2 (20G95)
-macOS-Beta Monterey beta 4 (21A5294g)
+macOS-Beta Monterey beta 5 (21A5304g)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.4
@@ -143,5 +143,5 @@ tvOS-Beta 15 beta 5 (19J5325f)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.6.1 (18U70)
-watchOS-Beta 8 beta 4 (19R5312e)
+watchOS-Beta 8 beta 5 (19R5323g)
 webhook 2.8.0

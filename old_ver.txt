@@ -59,11 +59,11 @@ PyCharm 2021.2-212.4746.96
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 5.0-5.0.0.1000
-Sentry 21.7.0
+Sentry 21.8.0
 Sequel-Ace production/3.4.0-3038
 Setapp 2.9.12
 Sketch 75-129697
-Snipaste 2.6.6-Beta
+Snipaste 2.6.6-Beta2
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
@@ -78,7 +78,7 @@ TablePlus 4.1.0-376
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 7.0-290
 Transmit 5.7.6
-Typora 0.11.3-5640
+Typora 0.11.4-5646
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.59.0
 Vorta-Backup-Client v0.7.7
@@ -132,7 +132,7 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.8.1
-obsidian-theme-minimal 3.3.1
+obsidian-theme-minimal 3.3.2
 plotng v0.26
 snell v2.0.4
 tornado 6.1

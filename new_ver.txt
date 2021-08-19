@@ -50,7 +50,7 @@ Metabase v0.40.2
 Microsoft-Office 16.52.21080801
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
-Navicat-Premium 15.0.29
+Navicat-Premium 15.0.30
 Netch 1.8.7
 NeteaseMusic 2.3.5-856
 Notion 2.0.17

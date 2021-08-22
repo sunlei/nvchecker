@@ -29,7 +29,7 @@ Fork 2.10
 ForkLift 3.5.3-215
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.1.3
-GitLab-Runner-Helm-Chart v0.32.0-rc1
+GitLab-Runner-Helm-Chart v0.32.0
 GoLand 2021.2.1-212.5080.40
 Google-Chrome-Beta 93.0.4577.51
 Google-Chrome-Dev 94.0.4606.9

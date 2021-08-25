@@ -93,9 +93,9 @@ alfred-vscode v2.1.0
 ansible 4.4.0
 chia_plot_manager V0.94
 coconutBattery 3.9.5
-@dcloudio/uni-h5 2.0.0-31920210709003
-@dcloudio/uni-h5-ui 2.0.0-31920210709003
-@dcloudio/uni-mp-weixin 2.0.0-31920210709003
+@dcloudio/uni-h5 2.0.0-32220210818002
+@dcloudio/uni-h5-ui 2.0.0-32220210818002
+@dcloudio/uni-mp-weixin 2.0.0-32220210818002
 docker-compose 1.29.2
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02

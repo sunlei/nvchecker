@@ -7,7 +7,7 @@ Beancount 2.3.4
 BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.8.2
 Celery 5.1.2
-Chia-blockchain 1.2.3
+Chia-blockchain 1.2.4
 ClashX 1.65.1
 CleanMyMac-X 4.8.7-40807.0.2108251533
 Confluence 7.9.0
@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.9.2-410
 Marked 2.6.9-1022
 Marked-2 2.6.9-1022
-Metabase v0.40.3
+Metabase v0.40.3.1
 Microsoft-Office 16.52.21080801
 Motrix v1.6.11
 Movist-Pro 2.6.4-169

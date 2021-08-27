@@ -55,7 +55,7 @@ Netch 1.8.7
 NeteaseMusic 2.3.6-862
 Notion 2.0.17
 Obsidian v0.12.12
-PyCharm 2021.2-212.4746.96
+PyCharm 2021.2.1-212.5080.64
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 5.0-5.0.0.1000
@@ -114,8 +114,8 @@ iPadOS 14.7.1  (18G82)
 iPadOS-Beta 15 beta 7 (19A5337a)
 iStat-Menus 6.60
 iTerm2 2.1.4
-jumpserver v2.13.1
-jumpserver-installer v2.13.1
+jumpserver v2.13.2
+jumpserver-installer v2.13.2
 kitty v0.23.1
 kombu 5.1.0
 macOS Big Sur 11.5.2 (20G95)

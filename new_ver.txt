@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.7.8
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.12.90288
-Wechat-for-Mac 3.1.5.19-18846
+Wechat-for-Mac 3.2.0.17-19411
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 5 (13A5212g)
 YOURLS 1.8.1
@@ -120,7 +120,7 @@ jumpserver-installer v2.13.2
 kitty v0.23.1
 kombu 5.1.0
 macOS Big Sur 11.5.2 (20G95)
-macOS-Beta Monterey beta 5 (21A5304g)
+macOS-Beta Monterey beta 6 (21A5506j)
 mas v1.8.2
 nvALT 2.2.8-128
 nvchecker v2.4

@@ -88,6 +88,7 @@ WeChat-Work 3.1.12.90288
 Wechat-for-Mac 3.1.5.19-18846
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 5 (13A5212g)
+YOURLS 1.8.1
 aText 2.38.5-112
 alfred-vscode v2.1.0
 ansible 4.4.0
@@ -134,6 +135,7 @@ obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.8.1
 obsidian-theme-minimal 3.3.2
 plotng v0.26
+shlink v2.8.1
 snell v2.0.4
 tornado 6.1
 trojan-gfw v1.16.0

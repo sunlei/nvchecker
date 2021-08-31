@@ -110,9 +110,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.4.1
 iMazing 2.14.2-15366
 iOS 14.7.1 (18G82)
-iOS-Beta 15 beta 7 (19A5337a)
+iOS-Beta 15 beta 8 (19A5340a)
 iPadOS 14.7.1  (18G82)
-iPadOS-Beta 15 beta 7 (19A5337a)
+iPadOS-Beta 15 beta 8 (19A5340a)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.13.2
@@ -141,9 +141,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.5
 tvOS 14.7 (18M60)
-tvOS-Beta 15 beta 7 (19J5340a)
+tvOS-Beta 15 beta 8 (19J5345a)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 7.6.1 (18U70)
-watchOS-Beta 8 beta 7 (19R5340a)
+watchOS-Beta 8 beta 8 (19R5342a)
 webhook 2.8.0

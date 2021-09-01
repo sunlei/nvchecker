@@ -91,7 +91,7 @@ Xcode-Beta 13 beta 5 (13A5212g)
 YOURLS 1.8.1
 aText 2.38.5-112
 alfred-vscode v2.1.0
-ansible 4.4.0
+ansible 4.5.0
 chia_plot_manager V0.94
 coconutBattery 3.9.5
 @dcloudio/uni-h5 2.0.0-32220210818002

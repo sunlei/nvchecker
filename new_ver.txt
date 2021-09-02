@@ -32,7 +32,7 @@ GitLab-Release GitLab Patch Release: 13.12.11
 GitLab-Runner-Helm-Chart v0.32.0
 GoLand 2021.2.2-212.5080.74
 Google-Chrome-Beta 94.0.4606.30
-Google-Chrome-Dev 95.0.4621.4
+Google-Chrome-Dev 95.0.4628.3
 Google-Chrome-Stable 93.0.4577.63
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -54,7 +54,7 @@ Navicat-Premium 15.0.30
 Netch 1.8.7
 NeteaseMusic 2.3.6-862
 Notion 2.0.17
-Obsidian v0.12.12
+Obsidian v0.12.15
 PyCharm 2021.2.1-212.5080.64
 QQ-for-Mac 8.4.10.118
 React 17.0.2
@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.7.8
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.15.90292
-Wechat-for-Mac 3.1.5.19-18846
+Wechat-for-Mac 3.2.0.18-10
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 5 (13A5212g)
 YOURLS 1.8.1

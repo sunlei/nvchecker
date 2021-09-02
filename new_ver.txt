@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2021.8.2
 Celery 5.1.2
 Chia-blockchain 1.2.5
 ClashX 1.65.1
-CleanMyMac-X 4.8.7-40807.0.2108251533
+CleanMyMac-X 4.8.8-40808.0.2109011504
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.11
@@ -28,7 +28,7 @@ Firefox 91.0.2
 Fork 2.11.2
 ForkLift 3.5.3-215
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 14.2.3
+GitLab-Release GitLab Patch Release: 13.12.11
 GitLab-Runner-Helm-Chart v0.32.0
 GoLand 2021.2.2-212.5080.74
 Google-Chrome-Beta 94.0.4606.30
@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.7.8
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.15.90292
-Wechat-for-Mac 3.2.0.18-19417
+Wechat-for-Mac 3.1.5.19-18846
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 5 (13A5212g)
 YOURLS 1.8.1

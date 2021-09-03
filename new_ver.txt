@@ -62,7 +62,7 @@ Royal-TSX 5.0-5.0.0.1000
 Sentry 21.8.0
 Sequel-Ace production/3.4.0-3038
 Setapp 2.9.12
-Sketch 76-130267
+Sketch 76.1-130273
 Snipaste 2.6.6-Beta2
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.7.8
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.15.90292
-Wechat-for-Mac 3.1.5.19-18846
+Wechat-for-Mac 3.2.0.18-10
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 5 (13A5212g)
 YOURLS 1.8.1

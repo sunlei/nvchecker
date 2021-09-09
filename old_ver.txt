@@ -121,7 +121,7 @@ kitty v0.23.1
 kombu 5.1.0
 macOS Big Sur 11.5.2 (20G95)
 macOS-Beta Monterey beta 6 (21A5506j)
-mas v1.8.2
+mas v1.8.3
 nvALT 2.2.8-128
 nvchecker v2.4
 obsidian-plugin-advanced-tables 0.13.0

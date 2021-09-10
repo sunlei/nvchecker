@@ -7,7 +7,7 @@ Beancount 2.3.4
 BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.8.2
 Celery 5.1.2
-Chia-blockchain 1.2.5
+Chia-blockchain 1.2.6
 ClashX 1.65.1
 CleanMyMac-X 4.8.8-40808.0.2109011504
 Confluence 7.9.0
@@ -32,7 +32,7 @@ GitLab-Release GitLab Patch Release: 13.12.11
 GitLab-Runner-Helm-Chart v0.32.0
 GoLand 2021.2.2-212.5080.74
 Google-Chrome-Beta 94.0.4606.41
-Google-Chrome-Dev 95.0.4628.3
+Google-Chrome-Dev 95.0.4636.4
 Google-Chrome-Stable 93.0.4577.63
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.9.4-414
 Marked 2.6.9-1022
 Marked-2 2.6.9-1022
-Metabase v0.40.3.1
+Metabase v0.40.4
 Microsoft-Office 16.52.21080801
 Motrix v1.6.11
 Movist-Pro 2.6.4-169

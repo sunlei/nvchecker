@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.2-1337
+Surge-Mac-v4-Beta 4.2.2-1338
 Surge-Mac-v4-Stable 4.2.1-1333
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.1-1-101800101
@@ -84,7 +84,7 @@ Visual-Studio-Code 1.60.0
 Vorta-Backup-Client v0.7.8
 Vue.js 2.6.14
 Vuex 3.6.2
-WeChat-Work 3.1.15.90292
+WeChat-Work 3.1.16.90294
 Wechat-for-Mac 3.2.0.19-19439
 Xcode 12.5.1 (12E507)
 Xcode-Beta 13 beta 5 (13A5212g)

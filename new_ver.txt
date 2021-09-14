@@ -107,7 +107,7 @@ docker-self-service-password 2.7
 grafana v8.1.3
 hpool-chia-miner 1.5.4
 hpool-chia-plotter v0.10
-iExplorer 4.4.1
+iExplorer 4.5.0
 iMazing 2.14.2-15366
 iOS 14.8 (18H17)
 iOS-Beta 15 beta 8 (19A5340a)

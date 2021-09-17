@@ -7,7 +7,7 @@ Beancount 2.3.4
 BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.8.3
 Celery 5.1.2
-Chia-blockchain 1.2.6
+Chia-blockchain 1.2.7
 ClashX 1.70.0
 CleanMyMac-X 4.8.8-40808.0.2109011504
 Confluence 7.9.0
@@ -92,7 +92,7 @@ YOURLS 1.8.2
 aText 2.38.5-112
 alfred-vscode v2.1.0
 ansible 4.5.0
-chia_plot_manager v0.96
+chia_plot_manager v0.97.1
 coconutBattery 3.9.5
 @dcloudio/uni-h5 2.0.0-32220210818002
 @dcloudio/uni-h5-ui 2.0.0-32220210818002

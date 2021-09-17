@@ -28,7 +28,7 @@ Firefox 92.0
 Fork 2.11.2
 ForkLift 3.5.3-215
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 13.12.11
+GitLab-Release GitLab Patch Release: 14.2.4
 GitLab-Runner-Helm-Chart v0.33.0-rc1
 GoLand 2021.2.3-212.5284.40
 Google-Chrome-Beta 94.0.4606.51
@@ -136,7 +136,7 @@ obsidian-plugin-templater 1.8.1
 obsidian-theme-minimal 3.3.2
 plotng v0.26
 shlink v2.8.1
-snell v2.0.4
+snell 2.0.5
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6

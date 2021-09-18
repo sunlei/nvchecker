@@ -74,7 +74,7 @@ Surge-Mac-v4-Beta 4.2.2-1347
 Surge-Mac-v4-Stable 4.2.1-1333
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.1-1-101800101
-TablePlus 4.1.2-382
+TablePlus 4.2.0-388
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 7.0-290
 Transmit 5.7.6

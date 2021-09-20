@@ -31,7 +31,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.2.4
 GitLab-Runner-Helm-Chart v0.33.0-rc1
 GoLand 2021.2.3-212.5284.40
-Google-Chrome-Beta 94.0.4606.51
+Google-Chrome-Beta 94.0.4606.54
 Google-Chrome-Dev 95.0.4638.10
 Google-Chrome-Stable 93.0.4577.82
 Hazel 4.4.5
@@ -86,7 +86,7 @@ Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.16.90294
 Wechat-for-Mac 3.2.0.19-19439
-Xcode 13 RC (13A233)
+Xcode 13 (13A233)
 Xcode-Beta null
 YOURLS 1.8.2
 aText 2.38.5-112
@@ -111,9 +111,9 @@ hpool-chia-miner 1.5.4
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.2-15366
-iOS 15 RC (19A344)
+iOS 15 (19A346)
 iOS-Beta null
-iPadOS 15 RC (19A344)
+iPadOS 15 (19A346)
 iPadOS-Beta null
 iStat-Menus 6.60
 iTerm2 2.1.4
@@ -135,17 +135,17 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.8.1
-obsidian-theme-minimal 3.3.2
+obsidian-theme-minimal 3.3.3
 plotng v0.26
 shlink v2.8.1
 snell 2.0.5
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
-tvOS 15 RC (19J346)
+tvOS 15 (19J346)
 tvOS-Beta null
 uview-ui 1.8.4
 @vue/cli 4.5.13
-watchOS 8 RC (19R346)
+watchOS 8 (19R346)
 watchOS-Beta null
 webhook 2.8.0

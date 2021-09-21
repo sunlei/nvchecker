@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.9.4-414
 Marked 2.6.10-1023
 Marked-2 2.6.10-1023
-Metabase v0.40.4
+Metabase v0.40.5
 Microsoft-Office 16.53.21091200
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
@@ -91,7 +91,7 @@ Xcode-Beta null
 YOURLS 1.8.2
 aText 2.38.5-112
 alfred-vscode v2.1.0
-ansible 4.5.0
+ansible 4.6.0
 chia_plot_manager v0.97.2
 coconutBattery 3.9.5
 cryptofeed 2.0.0

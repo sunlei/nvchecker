@@ -32,8 +32,8 @@ GitLab-Release GitLab Patch Release: 14.2.4
 GitLab-Runner-Helm-Chart v0.33.0-rc1
 GoLand 2021.2.3-212.5284.40
 Google-Chrome-Beta 94.0.4606.54
-Google-Chrome-Dev 95.0.4638.10
-Google-Chrome-Stable 93.0.4577.82
+Google-Chrome-Dev 95.0.4638.17
+Google-Chrome-Stable 94.0.4606.54
 Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
@@ -112,9 +112,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.3-15450
 iOS 15 (19A346)
-iOS-Beta null
+iOS-Beta 15.1 beta (19B5042h)
 iPadOS 15 (19A346)
-iPadOS-Beta null
+iPadOS-Beta 15.1 beta (19B5042h)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.14.0
@@ -122,7 +122,7 @@ jumpserver-installer v2.14.0
 kitty v0.23.1
 kombu 5.1.0
 macOS Big Sur 11.6 (20G165)
-macOS-Beta Monterey beta 6 (21A5506j)
+macOS-Beta Monterey beta 7 (21A5522h)
 mas v1.8.3
 nvALT 2.2.8-128
 nvchecker v2.4
@@ -143,9 +143,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15 (19J346)
-tvOS-Beta null
+tvOS-Beta 15.1 beta (19J5542e)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 8 (19R346)
-watchOS-Beta null
+watchOS-Beta 8.1 beta (19R5541f)
 webhook 2.8.0

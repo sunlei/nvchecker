@@ -26,7 +26,7 @@ Dropbox 131.4.3968
 FilePane 1.10.7
 Firefox 92.0
 Fork 2.11.2
-ForkLift 3.5.3-215
+ForkLift 3.5.4-216
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.2.4
 GitLab-Runner-Helm-Chart v0.33.0-rc1
@@ -106,7 +106,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v8.1.4
+grafana v8.1.5
 hpool-chia-miner 1.5.4
 hpool-chia-plotter v0.10
 iExplorer 4.5.0

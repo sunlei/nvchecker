@@ -110,7 +110,7 @@ grafana v8.1.5
 hpool-chia-miner 1.5.4
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
-iMazing 2.14.2-15366
+iMazing 2.14.3-15450
 iOS 15 (19A346)
 iOS-Beta null
 iPadOS 15 (19A346)

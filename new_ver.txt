@@ -24,7 +24,7 @@ Django 3.2.7
 Docker-for-Mac 3.6.0-67351
 Dropbox 131.4.3968
 FilePane 1.10.7
-Firefox 92.0
+Firefox 92.0.1
 Fork 2.11.2
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
@@ -111,7 +111,7 @@ hpool-chia-miner 1.5.4
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.3-15459
-iOS 15 (19A346)
+iOS 12.5.5 (16H62)
 iOS-Beta 15.1 beta (19B5042h)
 iPadOS 15 (19A346)
 iPadOS-Beta 15.1 beta (19B5042h)

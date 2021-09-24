@@ -32,7 +32,7 @@ GitLab-Release GitLab Patch Release: 13.12.12
 GitLab-Runner-Helm-Chart v0.33.0-rc1
 GoLand 2021.2.3-212.5284.40
 Google-Chrome-Beta 95.0.4638.17
-Google-Chrome-Dev 95.0.4638.17
+Google-Chrome-Dev 96.0.4651.0
 Google-Chrome-Stable 94.0.4606.61
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -110,7 +110,7 @@ grafana v8.1.5
 hpool-chia-miner 1.5.4
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
-iMazing 2.14.3-15459
+iMazing 2.14.4-15470
 iOS 12.5.5 (16H62)
 iOS-Beta 15.1 beta (19B5042h)
 iPadOS 15 (19A346)

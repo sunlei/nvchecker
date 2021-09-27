@@ -96,9 +96,9 @@ chia_plot_manager v0.97.2
 coconutBattery 3.9.5
 cryptofeed 2.0.1
 cryptostore 0.3.2
-@dcloudio/uni-h5 2.0.0-32320210825001
-@dcloudio/uni-h5-ui 2.0.0-32320210825001
-@dcloudio/uni-mp-weixin 2.0.0-32320210825001
+@dcloudio/uni-h5 2.0.0-32920210927001
+@dcloudio/uni-h5-ui 2.0.0-32920210927001
+@dcloudio/uni-mp-weixin 2.0.0-32920210927001
 docker-compose 1.29.2
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02

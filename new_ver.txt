@@ -44,8 +44,8 @@ Kaleidoscope 2.4-1450
 Little-Snitch 5.3-6215
 MWeb 3.4.4
 Manico 2.9.4-414
-Marked 2.6.11-1025
-Marked-2 2.6.11-1025
+Marked 2.6.12-1026
+Marked-2 2.6.12-1026
 Metabase v0.40.5
 Microsoft-Office 16.53.21091200
 Motrix v1.6.11

@@ -32,7 +32,7 @@ GitLab-Release GitLab Patch Release: 14.0.11
 GitLab-Runner-Helm-Chart v0.33.0-rc1
 GoLand 2021.2.3-212.5284.40
 Google-Chrome-Beta 95.0.4638.17
-Google-Chrome-Dev 96.0.4651.0
+Google-Chrome-Dev 96.0.4655.5
 Google-Chrome-Stable 94.0.4606.61
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -112,9 +112,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.4-15470
 iOS 12.5.5 (16H62)
-iOS-Beta 15.1 beta (19B5042h)
+iOS-Beta 15.1 beta 2 (19B5052f)
 iPadOS 15 (19A346)
-iPadOS-Beta 15.1 beta (19B5042h)
+iPadOS-Beta 15.1 beta 2 (19B5052f)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.14.2
@@ -134,7 +134,7 @@ obsidian-plugin-minimal-theme-settings 3.2.2
 obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
-obsidian-plugin-templater 1.9.2
+obsidian-plugin-templater 1.9.4
 obsidian-theme-minimal 3.3.3
 plotng v0.26
 shlink v2.8.1
@@ -143,9 +143,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15 (19J346)
-tvOS-Beta 15.1 beta (19J5542e)
+tvOS-Beta 15.1 beta 2 (19J5552e)
 uview-ui 1.8.4
 @vue/cli 4.5.13
 watchOS 8 (19R346)
-watchOS-Beta 8.1 beta (19R5541f)
+watchOS-Beta 8.1 beta 2 (19R5551d)
 webhook 2.8.0

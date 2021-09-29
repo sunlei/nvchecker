@@ -31,7 +31,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.0.11
 GitLab-Runner-Helm-Chart v0.33.0
 GoLand 2021.2.3-212.5284.40
-Google-Chrome-Beta 95.0.4638.17
+Google-Chrome-Beta 95.0.4638.32
 Google-Chrome-Dev 96.0.4655.5
 Google-Chrome-Stable 94.0.4606.61
 Hazel 4.4.5
@@ -76,7 +76,7 @@ Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.1-1-101800101
 TablePlus 4.2.0-388
 The-Unarchiver 4.3.0-132
-Tower-for-Mac 7.1-292
+Tower-for-Mac 7.0-290
 Transmit 5.7.6
 Typora 0.11.5-5648
 UniFi-Network-Controller 5.12.66

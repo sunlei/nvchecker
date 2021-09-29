@@ -53,7 +53,7 @@ Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.30
 Netch 1.9.0
 NeteaseMusic 2.3.6-862
-Notion 2.0.17
+Notion 2.0.18
 Obsidian v0.12.15
 PyCharm 2021.2.2-212.5284.44
 QQ-for-Mac 8.4.10.118
@@ -134,7 +134,7 @@ obsidian-plugin-minimal-theme-settings 3.2.2
 obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
-obsidian-plugin-templater 1.9.4
+obsidian-plugin-templater 1.9.5
 obsidian-theme-minimal 3.3.3
 plotng v0.26
 shlink v2.8.1

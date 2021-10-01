@@ -5,7 +5,7 @@ AriaNg-Native 1.2.2
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.17
-Burp-Suite Professional / Community 2021.8.3
+Burp-Suite Professional / Community 2021.8.4
 Celery 5.1.2
 Chia-blockchain 1.2.8
 ClashX 1.70.0
@@ -29,7 +29,7 @@ Fork 2.12
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 14.3.1, 14.2.5, and 14.1.7
-GitLab-Runner-Helm-Chart v0.33.0
+GitLab-Runner-Helm-Chart v0.33.1
 GoLand 2021.2.3-212.5284.40
 Google-Chrome-Beta 95.0.4638.32
 Google-Chrome-Dev 96.0.4655.5

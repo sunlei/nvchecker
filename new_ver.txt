@@ -76,7 +76,7 @@ Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.1-1-101800101
 TablePlus 4.2.0-388
 The-Unarchiver 4.3.0-132
-Tower-for-Mac 7.1-292
+Tower-for-Mac 7.0-290
 Transmit 5.7.6
 Typora 0.11.5-5648
 UniFi-Network-Controller 5.12.66
@@ -134,7 +134,7 @@ obsidian-plugin-minimal-theme-settings 3.2.2
 obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
-obsidian-plugin-templater 1.9.8
+obsidian-plugin-templater 1.9.9
 obsidian-theme-minimal 3.3.3
 plotng v0.26
 shlink v2.8.1

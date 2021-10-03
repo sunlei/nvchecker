@@ -129,7 +129,7 @@ nvchecker v2.5
 obsidian-plugin-advanced-tables 0.13.0
 obsidian-plugin-calendar 2.0.0-beta.2
 obsidian-plugin-editor-syntax-highlight 0.1.2
-obsidian-plugin-hider 1.0.7
+obsidian-plugin-hider 1.0.8
 obsidian-plugin-minimal-theme-settings 3.2.2
 obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0

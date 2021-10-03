@@ -125,7 +125,7 @@ macOS Big Sur 11.6 (20G165)
 macOS-Beta Monterey beta 8 (21A5534d)
 mas v1.8.3
 nvALT 2.2.8-128
-nvchecker v2.4
+nvchecker v2.5
 obsidian-plugin-advanced-tables 0.13.0
 obsidian-plugin-calendar 2.0.0-beta.2
 obsidian-plugin-editor-syntax-highlight 0.1.2

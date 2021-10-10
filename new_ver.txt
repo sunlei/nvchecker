@@ -70,8 +70,8 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.3-1356
-Surge-Mac-v4-Stable 4.2.2-1351
+Surge-Mac-v4-Beta 4.2.3-1357
+Surge-Mac-v4-Stable 4.2.3-1357
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.3-1-101800301
 TablePlus 4.2.0-388

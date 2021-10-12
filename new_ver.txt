@@ -62,7 +62,7 @@ Royal-TSX 5.0-5.0.0.1000
 Sentry 21.9.0
 Sequel-Ace production/3.4.1-3041
 Setapp 2.9.12
-Sketch 77-131065
+Sketch 78-131919
 Snipaste 2.6.6-Beta2
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211

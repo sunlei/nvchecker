@@ -94,7 +94,7 @@ alfred-vscode v2.1.0
 ansible 4.6.0
 chia_plot_manager v0.97.2
 coconutBattery 3.9.6
-cryptofeed 2.0.1
+cryptofeed 2.0.2
 cryptostore 0.3.2
 @dcloudio/uni-h5 2.0.0-32920210927002
 @dcloudio/uni-h5-ui 2.0.0-32920210927002

@@ -145,7 +145,7 @@ trojan-go v0.10.6
 tvOS 15 (19J346)
 tvOS-Beta 15.1 beta 4 (19J5567a)
 uview-ui 1.8.4
-@vue/cli 4.5.13
+@vue/cli 4.5.14
 watchOS 8.0.1 (19R354)
 watchOS-Beta 8.1 beta 4 (19R5566a)
 webhook 2.8.0

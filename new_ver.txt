@@ -1,5 +1,5 @@
 1Password-for-Mac 7.9
-Alfred 4.5.1
+Alfred 4.6
 AriaNg 1.2.2
 AriaNg-Native 1.2.2
 Arq-Backup 6.2.76
@@ -51,7 +51,7 @@ Microsoft-Office 16.54.21101001
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.30
-Netch 1.9.1
+Netch 1.9.2
 NeteaseMusic 2.3.6-862
 Notion 2.0.19
 Obsidian v0.12.15

@@ -38,8 +38,8 @@ Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
-Jira-Enterprise(Long-Term-Support) null
-Jira-Standard 8.19.1
+Jira-Enterprise(Long-Term-Support) 8.20.0
+Jira-Standard 8.16.1
 Kaleidoscope 2.4-1450
 Little-Snitch 5.3.1-6225
 MWeb 3.4.4

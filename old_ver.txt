@@ -29,7 +29,7 @@ Fork 2.12
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.3.3
-GitLab-Runner-Helm-Chart v0.34.0-rc1
+GitLab-Runner-Helm-Chart v0.34.0
 GoLand 2021.2.4-212.5457.54
 Google-Chrome-Beta 96.0.4664.18
 Google-Chrome-Dev 97.0.4676.0
@@ -86,7 +86,7 @@ Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.18.90318
 Wechat-for-Mac 3.2.1.17-19796
-Xcode 13.1 RC (13A1030d)
+Xcode 13.1 (13A1030d)
 Xcode-Beta null
 YOURLS 1.8.2
 aText 2.39.2-115
@@ -111,9 +111,9 @@ hpool-chia-miner 1.5.5
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.4-15470
-iOS 15.1 RC (19B74)
+iOS 15.1 (19B74)
 iOS-Beta null
-iPadOS 15.1 RC 2 (19B75)
+iPadOS 15.1 (19B74 | 19B75)
 iPadOS-Beta null
 iStat-Menus 6.60
 iTerm2 2.1.4
@@ -121,7 +121,7 @@ jumpserver v2.14.2
 jumpserver-installer v2.14.2
 kitty v0.23.1
 kombu 5.1.0
-macOS Monterey RC 2 (21A559)
+macOS Monterey (21A559)
 macOS-Beta null
 mas v1.8.3
 nvALT 2.2.8-128
@@ -142,10 +142,10 @@ snell 2.0.5
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
-tvOS 15.1 RC (19J572)
+tvOS 15.1 (19J572)
 tvOS-Beta null
 uview-ui 1.8.4
 @vue/cli 4.5.14
-watchOS 8.1 RC (19R570)
+watchOS 8.1 (19R570)
 watchOS-Beta null
 webhook 2.8.0

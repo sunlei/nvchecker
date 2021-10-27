@@ -22,7 +22,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2021.2.4-212.5457.41
 Django 3.2.8
 Docker-for-Mac 3.6.0-67351
-Dropbox 134.3.4111
+Dropbox 133.4.4089
 FilePane 1.10.7
 Firefox 93.0
 Fork 2.12
@@ -143,7 +143,7 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15.1 (19J572)
-tvOS-Beta null
+tvOS-Beta 15.2 beta (19K5025g)
 uview-ui 1.8.4
 @vue/cli 4.5.14
 watchOS 8.1 (19R570)

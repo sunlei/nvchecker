@@ -22,7 +22,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2021.2.4-212.5457.41
 Django 3.2.8
 Docker-for-Mac 3.6.0-67351
-Dropbox 133.4.4089
+Dropbox 134.3.4111
 FilePane 1.10.7
 Firefox 93.0
 Fork 2.12
@@ -31,7 +31,7 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.3.3
 GitLab-Runner-Helm-Chart v0.34.0
 GoLand 2021.2.4-212.5457.54
-Google-Chrome-Beta 96.0.4664.18
+Google-Chrome-Beta 96.0.4664.27
 Google-Chrome-Dev 97.0.4681.0
 Google-Chrome-Stable 95.0.4638.54
 Hazel 4.4.5
@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.4-1377
+Surge-Mac-v4-Beta 4.2.4-1378
 Surge-Mac-v4-Stable 4.2.3-1357
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.3-1-101800301
@@ -87,7 +87,7 @@ Vuex 3.6.2
 WeChat-Work 3.1.18.90318
 Wechat-for-Mac 3.2.1.17-19796
 Xcode 13.1 (13A1030d)
-Xcode-Beta null
+Xcode-Beta 13.2 beta (13C5066c)
 YOURLS 1.8.2
 aText 2.39.2-115
 alfred-vscode v2.1.0
@@ -112,9 +112,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.4-15470
 iOS 15.1 (19B74)
-iOS-Beta null
+iOS-Beta 15.2 beta (19C5026i)
 iPadOS 15.1 (19B74 | 19B75)
-iPadOS-Beta null
+iPadOS-Beta 15.2 beta (19C5026i)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.14.2
@@ -147,5 +147,5 @@ tvOS-Beta null
 uview-ui 1.8.4
 @vue/cli 4.5.14
 watchOS 8.1 (19R570)
-watchOS-Beta null
+watchOS-Beta 8.3 beta (19S5026e)
 webhook 2.8.0

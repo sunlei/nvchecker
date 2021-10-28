@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.4-1379
+Surge-Mac-v4-Beta 4.2.4-1380
 Surge-Mac-v4-Stable 4.2.3-1357
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.3-1-101800301
@@ -117,8 +117,8 @@ iPadOS 15.1 (19B74 | 19B75)
 iPadOS-Beta 15.2 beta (19C5026i)
 iStat-Menus 6.60
 iTerm2 2.1.4
-jumpserver v2.14.2
-jumpserver-installer v2.14.2
+jumpserver v2.15.0
+jumpserver-installer v2.15.0
 kitty v0.23.1
 kombu 5.1.0
 macOS Monterey (21A559)

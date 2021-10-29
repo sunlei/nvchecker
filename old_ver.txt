@@ -117,8 +117,8 @@ iPadOS 15.1 (19B74 | 19B75)
 iPadOS-Beta 15.2 beta (19C5026i)
 iStat-Menus 6.60
 iTerm2 2.1.4
-jumpserver v2.15.0
-jumpserver-installer v2.15.0
+jumpserver v2.15.1
+jumpserver-installer v2.15.1
 kitty v0.23.1
 kombu 5.1.0
 macOS Monterey (21A559)

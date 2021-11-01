@@ -12,7 +12,7 @@ ClashX 1.71.0
 CleanMyMac-X 4.9.1-40901.0.2110281426
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
-Confluence-Enterprise(Long-Term-Support) 7.4.11
+Confluence-Enterprise(Long-Term-Support) 7.4.13
 Confluence-Standard 7.9.3
 CotEditor-Beta 4.0.5-463
 CotEditor-Stable 4.0.5-463
@@ -38,7 +38,7 @@ Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
-Jira-Enterprise(Long-Term-Support) 8.20.0
+Jira-Enterprise(Long-Term-Support) 8.20.1
 Jira-Standard 8.16.1
 Kaleidoscope 2.4-1450
 Little-Snitch 5.3.1-6225

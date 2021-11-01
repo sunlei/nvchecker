@@ -20,7 +20,7 @@ DEVONthink 3.8
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
 DataGrip 2021.2.4-212.5457.41
-Django 3.2.8
+Django 3.2.9
 Docker-for-Mac 3.6.0-67351
 Dropbox 134.4.4115
 FilePane 1.10.7
@@ -117,8 +117,8 @@ iPadOS 15.1 (19B74 | 19B75)
 iPadOS-Beta 15.2 beta (19C5026i)
 iStat-Menus 6.60
 iTerm2 2.1.4
-jumpserver v2.15.2
-jumpserver-installer v2.15.2
+jumpserver v2.15.3
+jumpserver-installer v2.15.3
 kitty v0.23.1
 kombu 5.1.0
 macOS Monterey (21A559)

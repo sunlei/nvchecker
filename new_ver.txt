@@ -135,14 +135,14 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
-obsidian-theme-minimal 4.0.5
+obsidian-theme-minimal 4.0.6
 plotng v0.26
 shlink v2.9.2
 snell 2.0.5
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
-tvOS 15.1 (19J572)
+tvOS 15.1.1 (19J581)
 tvOS-Beta 15.2 beta (19K5025g)
 uview-ui 1.8.4
 @vue/cli 4.5.15

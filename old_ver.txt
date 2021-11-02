@@ -32,7 +32,7 @@ GitLab-Release GitLab Security Release: 14.4.1, 14.3.4, and 14.2.6
 GitLab-Runner-Helm-Chart v0.34.0
 GoLand 2021.2.4-212.5457.54
 Google-Chrome-Beta 96.0.4664.27
-Google-Chrome-Dev 97.0.4681.0
+Google-Chrome-Dev 97.0.4688.2
 Google-Chrome-Stable 95.0.4638.69
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -120,7 +120,7 @@ iTerm2 2.1.4
 jumpserver v2.15.3
 jumpserver-installer v2.15.3
 kitty v0.23.1
-kombu 5.1.0
+kombu 5.2.0
 macOS Monterey (21A559)
 macOS-Beta 12.1 beta (21C5021h)
 mas v1.8.3

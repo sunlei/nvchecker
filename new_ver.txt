@@ -1,4 +1,4 @@
-1Password-for-Mac 7.9
+1Password-for-Mac 7.9.1
 Alfred 4.6
 AriaNg 1.2.3
 AriaNg-Native 1.2.3
@@ -24,7 +24,7 @@ Django 3.2.9
 Docker-for-Mac 4.1.1-69879
 Dropbox 134.4.4115
 FilePane 1.10.7
-Firefox 93.0
+Firefox 94.0
 Fork 2.12
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
@@ -91,7 +91,7 @@ Xcode-Beta 13.2 beta (13C5066c)
 YOURLS 1.8.2
 aText 2.39.2-115
 alfred-vscode v2.1.0
-ansible 4.7.0
+ansible 4.8.0
 chia_plot_manager v0.98
 coconutBattery 3.9.6
 cryptofeed 2.0.3

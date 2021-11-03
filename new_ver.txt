@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.4-1386
+Surge-Mac-v4-Beta 4.2.4-1388
 Surge-Mac-v4-Stable 4.2.3-1357
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.4-1-101800401
@@ -123,7 +123,7 @@ kitty v0.23.1
 kombu 5.2.0
 macOS Monterey (21A559)
 macOS-Beta 12.1 beta (21C5021h)
-mas v1.8.3
+mas v1.8.4
 nvALT 2.2.8-128
 nvchecker v2.5
 obsidian-plugin-advanced-tables 0.13.0

@@ -6,7 +6,7 @@ Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.10
-Celery 5.1.2
+Celery 5.2.0
 Chia-blockchain 1.2.11
 ClashX 1.71.0
 CleanMyMac-X 4.9.2-40902.0.2111031749
@@ -135,7 +135,7 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
-obsidian-theme-minimal 4.0.8
+obsidian-theme-minimal 4.0.9
 plotng v0.26
 shlink v2.9.2
 snell v2.0.6

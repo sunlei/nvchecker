@@ -80,7 +80,7 @@ Tower-for-Mac 7.1-292
 Transmit 5.8.2
 Typora 0.11.16-5916
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.62.0
+Visual-Studio-Code 1.62.1
 Vorta-Backup-Client v0.7.8
 Vue.js 2.6.14
 Vuex 3.6.2
@@ -112,9 +112,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.5-15503
 iOS 15.1 (19B74)
-iOS-Beta 15.2 beta (19C5026i)
+iOS-Beta 15.2 beta 2 (19C5036e)
 iPadOS 15.1 (19B74 | 19B75)
-iPadOS-Beta 15.2 beta (19C5026i)
+iPadOS-Beta 15.2 beta 2 (19C5036e)
 iStat-Menus 6.60
 iTerm2 2.1.4
 jumpserver v2.15.3
@@ -122,7 +122,7 @@ jumpserver-installer v2.15.3
 kitty v0.23.1
 kombu 5.2.1
 macOS Monterey (21A559)
-macOS-Beta 12.1 beta (21C5021h)
+macOS-Beta 12.1 beta 2 (21C5031d)
 mas v1.8.5
 nvALT 2.2.8-128
 nvchecker v2.5
@@ -143,9 +143,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15.1.1 (19J581)
-tvOS-Beta 15.2 beta (19K5025g)
+tvOS-Beta 15.2 beta 2 (19K5035d)
 uview-ui 1.8.4
 @vue/cli 4.5.15
 watchOS 8.1 (19R570)
-watchOS-Beta 8.3 beta (19S5026e)
+watchOS-Beta 8.3 beta 2 (19S5036d)
 webhook 2.8.0

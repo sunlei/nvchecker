@@ -8,7 +8,7 @@ BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.10.1
 Celery 5.2.0
 Chia-blockchain 1.2.11
-ClashX 1.71.0
+ClashX 1.72.0
 CleanMyMac-X 4.9.2-40902.0.2111031749
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5

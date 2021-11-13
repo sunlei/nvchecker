@@ -76,7 +76,7 @@ Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.4-1-101800401
 TablePlus 4.5.0-396
 The-Unarchiver 4.3.0-132
-Tower-for-Mac 7.1-292
+Tower-for-Mac 7.2-294
 Transmit 5.8.2
 Typora 0.11.16-5916
 UniFi-Network-Controller 5.12.66

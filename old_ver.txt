@@ -95,7 +95,7 @@ ansible 4.8.0
 chia_plot_manager v0.98
 coconutBattery 3.9.6
 cryptofeed 2.1.0
-cryptostore 0.3.2
+cryptostore 0.4.0
 @dcloudio/uni-h5 2.0.0-32920211029004
 @dcloudio/uni-h5-ui 2.0.0-32920211029004
 @dcloudio/uni-mp-weixin 2.0.0-32920211029004

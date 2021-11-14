@@ -94,7 +94,7 @@ alfred-vscode v2.1.0
 ansible 4.8.0
 chia_plot_manager v0.98
 coconutBattery 3.9.6
-cryptofeed 2.0.3
+cryptofeed 2.1.0
 cryptostore 0.3.2
 @dcloudio/uni-h5 2.0.0-32920211029004
 @dcloudio/uni-h5-ui 2.0.0-32920211029004
@@ -135,7 +135,7 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
-obsidian-theme-minimal 4.0.9
+obsidian-theme-minimal 4.1.0
 plotng v0.26
 shlink v2.9.2
 snell v2.0.6

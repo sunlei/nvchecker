@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.9.4-414
 Marked 2.6.13-1027
 Marked-2 2.6.13-1027
-Metabase v0.41.2
+Metabase v1.41.2
 Microsoft-Office 16.54.21101001
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
@@ -137,7 +137,7 @@ obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
 obsidian-theme-minimal 4.1.1
 plotng v0.26
-shlink v2.9.2
+shlink v2.9.3
 snell v2.0.6
 tornado 6.1
 trojan-gfw v1.16.0

@@ -6,7 +6,7 @@ Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.10.1
-Celery 5.2.0
+Celery 5.2.1
 Chia-blockchain 1.2.11
 ClashX 1.72.0
 CleanMyMac-X 4.9.2-40902.0.2111031749
@@ -120,7 +120,7 @@ iTerm2 2.1.4
 jumpserver v2.15.4
 jumpserver-installer v2.15.4
 kitty v0.23.1
-kombu 5.2.1
+kombu 5.2.2
 macOS Monterey (21A559)
 macOS-Beta 12.1 beta 2 (21C5031d)
 mas v1.8.5

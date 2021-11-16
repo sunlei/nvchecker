@@ -47,7 +47,7 @@ Manico 2.9.4-414
 Marked 2.6.13-1027
 Marked-2 2.6.13-1027
 Metabase v1.41.2
-Microsoft-Office 16.54.21101001
+Microsoft-Office 16.55.21111400
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.32

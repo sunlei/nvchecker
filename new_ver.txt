@@ -111,7 +111,7 @@ hpool-chia-miner 1.5.5
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.5-15503
-iOS 15.1 (19B74)
+iOS 15.1.1 (19B81)
 iOS-Beta 15.2 beta 3 (19C5044b)
 iPadOS 15.1 (19B74 | 19B75)
 iPadOS-Beta 15.2 beta 3 (19C5044b)

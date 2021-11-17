@@ -41,7 +41,7 @@ Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) 8.20.1
 Jira-Standard 8.16.1
 Kaleidoscope 2.4-1450
-Little-Snitch 5.3.1-6225
+Little-Snitch 5.3.2-6229
 MWeb 3.4.4
 Manico 2.9.4-414
 Marked 2.6.13-1027
@@ -78,7 +78,7 @@ TablePlus 4.5.0-396
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 7.2-294
 Transmit 5.8.2
-Typora 0.11.16-5916
+Typora 0.11.18-5941
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.62.2
 Vorta-Backup-Client v0.7.8

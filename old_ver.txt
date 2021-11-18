@@ -135,7 +135,7 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
-obsidian-theme-minimal 4.1.1
+obsidian-theme-minimal 4.1.2
 plotng v0.26
 shlink v2.9.3
 snell v2.0.6
@@ -146,6 +146,6 @@ tvOS 15.1.1 (19J581)
 tvOS-Beta 15.2 beta 3 (19K5043b)
 uview-ui 2.0.3
 @vue/cli 4.5.15
-watchOS 8.1 (19R570)
+watchOS 8.1.1 (19R580)
 watchOS-Beta 8.3 beta 3 (19S5044c)
 webhook 2.8.0

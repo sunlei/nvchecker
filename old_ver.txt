@@ -106,7 +106,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v8.2.4
+grafana v8.2.5
 hpool-chia-miner 1.5.5
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
@@ -117,8 +117,8 @@ iPadOS 15.1 (19B74 | 19B75)
 iPadOS-Beta 15.2 beta 3 (19C5044b)
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.15.4
-jumpserver-installer v2.15.4
+jumpserver v2.16.0
+jumpserver-installer v2.16.0
 kitty v0.23.1
 kombu 5.2.2
 macOS Monterey (21A559)

@@ -32,7 +32,7 @@ GitLab-Release GitLab Patch Release: 14.1.8
 GitLab-Runner-Helm-Chart v0.35.0-rc1
 GoLand 2021.2.4-212.5457.54
 Google-Chrome-Beta 97.0.4692.20
-Google-Chrome-Dev 97.0.4692.20
+Google-Chrome-Dev 98.0.4710.4
 Google-Chrome-Stable 96.0.4664.55
 Hazel 4.4.5
 IINA 0.0.14.1-55

@@ -5,7 +5,7 @@ AriaNg-Native 1.2.3
 Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.17
-Burp-Suite Professional / Community 2021.10.1
+Burp-Suite Professional / Community 2021.10.2
 Celery 5.2.1
 Chia-blockchain 1.2.11
 ClashX 1.72.0
@@ -117,8 +117,8 @@ iPadOS 15.1 (19B74 | 19B75)
 iPadOS-Beta 15.2 beta 3 (19C5044b)
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.16.0
-jumpserver-installer v2.16.0
+jumpserver v2.16.1
+jumpserver-installer v2.16.1
 kitty v0.23.1
 kombu 5.2.2
 macOS Monterey (21A559)

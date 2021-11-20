@@ -135,7 +135,7 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
-obsidian-theme-minimal 4.1.5
+obsidian-theme-minimal 4.1.6
 plotng v0.26
 shlink v2.9.3
 snell v2.0.6

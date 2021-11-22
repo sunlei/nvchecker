@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.5-1406
+Surge-Mac-v4-Beta 4.2.5-1407
 Surge-Mac-v4-Stable 4.2.4-1399
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.4-1-101800401
@@ -89,7 +89,7 @@ Wechat-for-Mac 3.2.1.17-19796
 Xcode 13.1 (13A1030d)
 Xcode-Beta 13.2 beta 2 (13C5081f)
 YOURLS 1.8.2
-aText 2.40-117
+aText 2.40.1-118
 alfred-vscode v2.1.0
 ansible 4.8.0
 chia_plot_manager v0.98

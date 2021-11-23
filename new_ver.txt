@@ -19,7 +19,7 @@ CotEditor-Stable 4.0.5-463
 DEVONthink 3.8
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
-DataGrip 2021.3-213.5744.174
+DataGrip 2021.3.1-213.5744.178
 Django 3.2.9
 Docker-for-Mac 4.2.0-70708
 Dropbox 135.4.4221

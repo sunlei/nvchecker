@@ -62,7 +62,7 @@ Royal-TSX 5.0-5.0.0.1000
 Sentry 21.11.0
 Sequel-Ace production/3.4.2-3043
 Setapp 2.9.12
-Sketch 79.1-133344
+Sketch 80-134463
 Snipaste 2.6.6-Beta2
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.5-1407
+Surge-Mac-v4-Beta 4.2.5-1408
 Surge-Mac-v4-Stable 4.2.4-1399
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.4-1-101800401
@@ -96,9 +96,9 @@ chia_plot_manager v0.98
 coconutBattery 3.9.6
 cryptofeed 2.1.0
 cryptostore 0.4.0
-@dcloudio/uni-h5 2.0.0-32920211120001
-@dcloudio/uni-h5-ui 2.0.0-32920211120001
-@dcloudio/uni-mp-weixin 2.0.0-32920211120001
+@dcloudio/uni-h5 2.0.0-32920211122002
+@dcloudio/uni-h5-ui 2.0.0-32920211122002
+@dcloudio/uni-mp-weixin 2.0.0-32920211122002
 docker-compose v2.1.1
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02

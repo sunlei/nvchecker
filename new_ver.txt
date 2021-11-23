@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2021.10.2
 Celery 5.2.1
 Chia-blockchain 1.2.11
 ClashX 1.72.0
-CleanMyMac-X 4.9.2-40902.0.2111031749
+CleanMyMac-X 4.9.3-40903.0.2111221225
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.13
@@ -135,7 +135,7 @@ obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
-obsidian-theme-minimal 4.1.7
+obsidian-theme-minimal 4.1.8
 plotng v0.26
 shlink v2.9.3
 snell v2.0.6

@@ -25,7 +25,7 @@ Docker-for-Mac 4.2.0-70708
 Dropbox 135.4.4221
 FilePane 1.10.7
 Firefox 94.0.2
-Fork 2.13
+Fork 2.14
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.1.8
@@ -78,7 +78,7 @@ TablePlus 4.5.0-396
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 7.2-294
 Transmit 5.8.2
-Typora 1.0.1-5986
+Typora 1.0.2-5990
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.62.3
 Vorta-Backup-Client v0.7.8

@@ -91,7 +91,7 @@ Xcode-Beta 13.2 beta 2 (13C5081f)
 YOURLS 1.8.2
 aText 2.40.1-118
 alfred-vscode v2.1.0
-ansible 4.9.0
+ansible 5.0.0
 chia_plot_manager v0.98
 coconutBattery 3.9.6
 cryptofeed 2.1.1

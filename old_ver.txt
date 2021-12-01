@@ -28,11 +28,11 @@ Firefox 94.0.2
 Fork 2.14
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 14.3.5
+GitLab-Release GitLab Patch Release: 14.5.1
 GitLab-Runner-Helm-Chart v0.35.0
 GoLand 2021.2.4-212.5457.54
-Google-Chrome-Beta 97.0.4692.20
-Google-Chrome-Dev 98.0.4710.4
+Google-Chrome-Beta 97.0.4692.36
+Google-Chrome-Dev 98.0.4736.0
 Google-Chrome-Stable 96.0.4664.55
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -106,7 +106,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v8.2.5
+grafana v8.3.0
 hpool-chia-miner 1.5.5
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
@@ -122,7 +122,7 @@ jumpserver-installer v2.16.3
 kitty v0.23.1
 kombu 5.2.2
 macOS Monterey (21A559)
-macOS-Beta 12.1 beta 3 (21C5039b)
+macOS-Beta 12.1 beta 4 (21C5045a)
 mas v1.8.5
 nvALT 2.2.8-128
 nvchecker v2.5
@@ -144,7 +144,7 @@ trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15.1.1 (19J581)
 tvOS-Beta 15.2 beta 3 (19K5043b)
-uview-ui 2.0.8
+uview-ui 2.0.9
 @vue/cli 4.5.15
 watchOS 8.1.1 (19R580)
 watchOS-Beta 8.3 beta 3 (19S5044c)

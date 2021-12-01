@@ -55,7 +55,7 @@ Netch 1.9.2
 NeteaseMusic 2.3.7-868
 Notion 2.0.19
 Obsidian v0.12.19
-PyCharm 2021.2.3-212.5457.59
+PyCharm 2021.3-213.5744.248
 QQ-for-Mac 8.4.10.118
 React 17.0.2
 Royal-TSX 5.0-5.0.0.1000
@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.2.5-1413
+Surge-Mac-v4-Beta 4.2.5-1414
 Surge-Mac-v4-Stable 4.2.4-1399
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.4-1-101800401
@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.8.2
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.20.90367
-Wechat-for-Mac 3.2.2.17-20338
+Wechat-for-Mac 3.2.1.17-19796
 Xcode 13.1 (13A1030d)
 Xcode-Beta 13.2 beta 2 (13C5081f)
 YOURLS 1.8.2

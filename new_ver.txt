@@ -22,7 +22,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2021.3.1-213.5744.178
 Django 3.2.9
 Docker-for-Mac 4.2.0-70708
-Dropbox 135.4.4221
+Dropbox 136.4.4345
 FilePane 1.10.7
 Firefox 94.0.2
 Fork 2.14

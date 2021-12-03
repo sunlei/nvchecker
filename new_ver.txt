@@ -28,7 +28,7 @@ Firefox 94.0.2
 Fork 2.14
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 14.4.3
+GitLab-Release GitLab Patch Release: 14.5.1
 GitLab-Runner-Helm-Chart v0.35.0
 GoLand 2021.3-213.5744.269
 Google-Chrome-Beta 97.0.4692.36
@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.10-417
 Marked 2.6.13-1027
 Marked-2 2.6.13-1027
-Metabase v1.41.3.1
+Metabase v0.41.3.1
 Microsoft-Office 16.55.21111400
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
@@ -99,7 +99,7 @@ cryptostore 0.4.0
 @dcloudio/uni-h5 2.0.1-32920211122002
 @dcloudio/uni-h5-ui 2.0.1-32920211122002
 @dcloudio/uni-mp-weixin 2.0.1-32920211122002
-docker-compose v2.1.1
+docker-compose v2.2.2
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.5.0

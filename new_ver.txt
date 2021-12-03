@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.8.2
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.20.90367
-Wechat-for-Mac 3.2.1.17-19796
+Wechat-for-Mac 3.2.2.17-20338
 Xcode 13.1 (13A1030d)
 Xcode-Beta 13.2 beta 2 (13C5081f)
 YOURLS 1.8.2

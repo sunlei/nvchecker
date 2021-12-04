@@ -43,7 +43,7 @@ Jira-Standard 8.16.1
 Kaleidoscope 2.4-1450
 Little-Snitch 5.3.2-6229
 MWeb 3.4.4
-Manico 2.10-417
+Manico 2.10.1-418
 Marked 2.6.13-1027
 Marked-2 2.6.13-1027
 Metabase v0.41.3.1

@@ -1,4 +1,4 @@
-1Password-for-Mac 7.9.1
+1Password-for-Mac 7.9.2
 Alfred 4.6.1
 AriaNg 1.2.3
 AriaNg-Native 1.2.3
@@ -24,7 +24,7 @@ Django 4.0
 Docker-for-Mac 4.2.0-70708
 Dropbox 136.4.4345
 FilePane 1.10.7
-Firefox 94.0.2
+Firefox 95.0
 Fork 2.14
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee

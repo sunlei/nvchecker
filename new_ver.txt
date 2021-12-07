@@ -86,8 +86,8 @@ Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.20.90367
 Wechat-for-Mac 3.2.2.17-20338
-Xcode 13.1 (13A1030d)
-Xcode-Beta 13.2 beta 2 (13C5081f)
+Xcode 13.2 RC (13C90)
+Xcode-Beta null
 YOURLS 1.8.2
 aText 2.40.1-118
 alfred-vscode v2.1.0
@@ -106,23 +106,23 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v8.2.6
+grafana v8.3.1
 hpool-chia-miner 1.5.5
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.6-15535
-iOS 15.1.1 (19B81)
-iOS-Beta 15.2 beta 4 (19C5050b)
-iPadOS 15.1 (19B74 | 19B75)
-iPadOS-Beta 15.2 beta 4 (19C5050b)
+iOS 15.2 RC (19C56)
+iOS-Beta null
+iPadOS 15.2 RC (19C56)
+iPadOS-Beta null
 iStat-Menus 6.61
 iTerm2 2.1.4
 jumpserver v2.16.3
 jumpserver-installer v2.16.3
 kitty v0.23.1
 kombu 5.2.2
-macOS Monterey (21A559)
-macOS-Beta 12.1 beta 4 (21C5045a)
+macOS 12.1 RC (21C51)
+macOS-Beta null
 mas v1.8.5
 nvALT 2.2.8-128
 nvchecker v2.5
@@ -146,6 +146,6 @@ tvOS 15.1.1 (19J581)
 tvOS-Beta 15.2 beta 4 (19K5050a)
 uview-ui 2.0.9
 @vue/cli 4.5.15
-watchOS 8.1.1 (19R580)
-watchOS-Beta 8.3 beta 4 (19S5050c)
+watchOS 8.3 RC (19S55)
+watchOS-Beta null
 webhook 2.8.0

@@ -31,8 +31,8 @@ GitLab v13.1.1-ee
 GitLab-Release GitLab Security Release: 14.5.2, 14.4.4, and 14.3.6
 GitLab-Runner-Helm-Chart v0.35.0
 GoLand 2021.3-213.5744.269
-Google-Chrome-Beta 97.0.4692.36
-Google-Chrome-Dev 98.0.4750.0
+Google-Chrome-Beta 97.0.4692.45
+Google-Chrome-Dev 98.0.4750.2
 Google-Chrome-Stable 96.0.4664.93
 Hazel 4.4.5
 IINA 0.0.14.1-55
@@ -142,8 +142,8 @@ snell v2.0.6
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
-tvOS 15.1.1 (19J581)
-tvOS-Beta 15.2 beta 4 (19K5050a)
+tvOS 15.2 RC (19K53)
+tvOS-Beta null
 uview-ui 2.0.10
 @vue/cli 4.5.15
 watchOS 8.3 RC (19S55)

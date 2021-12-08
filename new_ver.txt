@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2021.10.3
 Celery 5.2.1
 Chia-blockchain 1.2.11
 ClashX 1.72.0
-CleanMyMac-X 4.9.3-40903.0.2111221225
+CleanMyMac-X 4.9.4-40904.0.2112071332
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.13

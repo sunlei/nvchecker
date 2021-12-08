@@ -32,7 +32,7 @@ GitLab-Release GitLab Security Release: 14.5.2, 14.4.4, and 14.3.6
 GitLab-Runner-Helm-Chart v0.35.0
 GoLand 2021.3-213.5744.269
 Google-Chrome-Beta 97.0.4692.36
-Google-Chrome-Dev 98.0.4736.0
+Google-Chrome-Dev 98.0.4750.0
 Google-Chrome-Stable 96.0.4664.93
 Hazel 4.4.5
 IINA 0.0.14.1-55

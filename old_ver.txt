@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2021.12
 Celery 5.2.1
 Chia-blockchain 1.2.11
 ClashX 1.72.0
-CleanMyMac-X 4.9.3-40903.0.2111221225
+CleanMyMac-X 4.9.5-40905.0.2112091537
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.14
@@ -38,8 +38,8 @@ Hazel 4.4.5
 IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
-Jira-Enterprise(Long-Term-Support) 8.20.2
-Jira-Standard 8.16.1
+Jira-Enterprise(Long-Term-Support) null
+Jira-Standard 8.21.0
 Kaleidoscope 2.4-1450
 Little-Snitch 5.3.2-6229
 MWeb 3.4.4

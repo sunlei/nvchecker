@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.10.1-418
 Marked 2.6.13-1027
 Marked-2 2.6.13-1027
-Metabase v0.41.3.1
+Metabase v1.41.4
 Microsoft-Office 16.55.21111400
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
@@ -111,7 +111,7 @@ hpool-chia-miner 1.5.5
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.6-15535
-iOS 15.2 RC (19C56)
+iOS 15.2 RC 2 (19C57)
 iOS-Beta null
 iPadOS 15.2 RC (19C56)
 iPadOS-Beta null
@@ -121,7 +121,7 @@ jumpserver v2.16.3
 jumpserver-installer v2.16.3
 kitty v0.23.1
 kombu 5.2.2
-macOS 12.1 RC (21C51)
+macOS 12.1 RC 2 (21C52)
 macOS-Beta null
 mas v1.8.5
 nvALT 2.2.8-128

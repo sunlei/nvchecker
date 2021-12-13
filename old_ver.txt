@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.3.0-1421
+Surge-Mac-v4-Beta 4.3.0-1422
 Surge-Mac-v4-Stable 4.2.5-1414
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.5-1-101800501
@@ -144,7 +144,7 @@ trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15.2 RC (19K53)
 tvOS-Beta null
-uview-ui 2.0.10
+uview-ui 2.0.11
 @vue/cli 4.5.15
 watchOS 8.3 RC (19S55)
 watchOS-Beta null

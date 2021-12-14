@@ -62,7 +62,7 @@ Royal-TSX 5.0-5.0.0.1000
 Sentry 21.11.0
 Sequel-Ace production/3.4.2-3043
 Setapp 2.13.2
-Sketch 80.1-134476
+Sketch 81-135625
 Snipaste 2.7-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.3.0-1427
+Surge-Mac-v4-Beta 4.3.0-1428
 Surge-Mac-v4-Stable 4.2.5-1414
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.5-1-101800501

@@ -80,7 +80,7 @@ Tower-for-Mac 7.2-294
 Transmit 5.8.2
 Typora 1.0.4-5994
 UniFi-Network-Controller 5.12.66
-Visual-Studio-Code 1.63.0
+Visual-Studio-Code 1.63.1
 Vorta-Backup-Client v0.8.2
 Vue.js 2.6.14
 Vuex 3.6.2
@@ -106,7 +106,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v8.3.2
+grafana v8.3.3
 hpool-chia-miner 1.5.5
 hpool-chia-plotter v0.10
 iExplorer 4.5.0

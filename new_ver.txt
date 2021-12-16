@@ -46,7 +46,7 @@ MWeb 3.4.4
 Manico 2.10.1-418
 Marked 2.6.13-1027
 Marked-2 2.6.13-1027
-Metabase v0.41.4
+Metabase v0.41.5
 Microsoft-Office 16.56.21121100
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
@@ -122,7 +122,7 @@ jumpserver-installer v2.17.0
 kitty v0.23.1
 kombu 5.2.2
 macOS 12.1 (21C52)
-macOS-Beta null
+macOS-Beta 12.2 beta (21D5025f)
 mas v1.8.5
 nvALT 2.2.8-128
 nvchecker v2.5

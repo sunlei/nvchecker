@@ -19,7 +19,7 @@ CotEditor-Stable 4.0.5-463
 DEVONthink 3.8
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
-DataGrip 2021.3.1-213.5744.178
+DataGrip 2021.3.2-213.6461.19
 Django 4.0
 Docker-for-Mac 4.3.1-72247
 Dropbox 136.4.4345
@@ -117,8 +117,8 @@ iPadOS 15.2 (19C56/19C57)
 iPadOS-Beta null
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.16.3
-jumpserver-installer v2.16.3
+jumpserver v2.17.0
+jumpserver-installer v2.17.0
 kitty v0.23.1
 kombu 5.2.2
 macOS 12.1 (21C52)

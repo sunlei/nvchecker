@@ -93,7 +93,7 @@ aText 2.40.1-118
 alfred-vscode v2.1.0
 ansible 5.0.1
 chia_plot_manager v0.98
-coconutBattery 3.9.6
+coconutBattery 3.9.7
 cryptofeed 2.1.1
 cryptostore 0.4.0
 @dcloudio/uni-h5 2.0.1-32920211122003

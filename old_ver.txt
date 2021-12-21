@@ -123,7 +123,7 @@ kitty v0.23.1
 kombu 5.2.2
 macOS 12.1 (21C52)
 macOS-Beta 12.2 beta (21D5025f)
-mas v1.8.5
+mas v1.8.6
 nvALT 2.2.8-128
 nvchecker v2.5
 obsidian-plugin-advanced-tables 0.15.0

@@ -9,7 +9,7 @@ Burp-Suite Professional / Community 2021.12
 Celery 5.2.1
 Chia-blockchain 1.2.11
 ClashX 1.72.0
-CleanMyMac-X 4.9.5-40905.0.2112091537
+CleanMyMac-X 4.10.0-41000.0.2112211205
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
 Confluence-Enterprise(Long-Term-Support) 7.4.14
@@ -63,7 +63,7 @@ Sentry 21.12.0
 Sequel-Ace production/3.4.3-20019
 Setapp 2.13.2
 Sketch 81.1-135647
-Snipaste 2.7-Beta
+Snipaste 2.7.1-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
@@ -137,7 +137,7 @@ obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
 obsidian-theme-minimal 4.1.9
 plotng v0.26
-shlink v2.10.0
+shlink v2.10.1
 snell v2.0.6
 tornado 6.1
 trojan-gfw v1.16.0

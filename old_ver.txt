@@ -6,7 +6,7 @@ Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.12
-Celery 5.2.1
+Celery 5.2.2
 Chia-blockchain 1.2.11
 ClashX 1.72.0
 CleanMyMac-X 4.10.0-41000.0.2112211205

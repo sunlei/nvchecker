@@ -22,7 +22,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2021.3.2-213.6461.19
 Django 4.0
 Docker-for-Mac 4.3.2-72729
-Dropbox 138.4.2392
+Dropbox 139.3.4798
 FilePane 1.10.7
 Firefox 95.0.2
 Fork 2.14
@@ -107,7 +107,7 @@ docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v8.3.3
-hpool-chia-miner 1.5.5
+hpool-chia-miner 1.5.6
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.6-15535

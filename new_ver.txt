@@ -19,7 +19,7 @@ CotEditor-Stable 4.0.5-463
 DEVONthink 3.8
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
-DataGrip 2021.3.2-213.6461.19
+DataGrip 2021.3.3-213.6461.82
 Django 4.0
 Docker-for-Mac 4.3.2-72729
 Dropbox 138.4.2392
@@ -55,7 +55,7 @@ Netch 1.9.2
 NeteaseMusic 2.3.7-868
 Notion 2.0.19
 Obsidian v0.13.14
-PyCharm 2021.3-213.5744.248
+PyCharm 2021.3.1-213.6461.77
 QQ-for-Mac 6.7.5.20299
 React 17.0.2
 Royal-TSX 5.0-5.0.0.1000

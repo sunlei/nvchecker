@@ -6,7 +6,7 @@ Arq-Backup 6.2.76
 Beancount 2.3.4
 BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.12
-Celery 5.2.2
+Celery 5.2.3
 Chia-blockchain 1.2.11
 ClashX 1.72.0
 CleanMyMac-X 4.10.0-41000.0.2112211205
@@ -96,9 +96,9 @@ chia_plot_manager v0.98
 coconutBattery 3.9.7
 cryptofeed 2.1.2
 cryptostore 0.4.0
-@dcloudio/uni-h5 2.0.1-33320211224001
-@dcloudio/uni-h5-ui 2.0.1-33320211224001
-@dcloudio/uni-mp-weixin 2.0.1-33320211224001
+@dcloudio/uni-h5 2.0.1-33420211228004
+@dcloudio/uni-h5-ui 2.0.1-33420211228004
+@dcloudio/uni-mp-weixin 2.0.1-33420211228004
 docker-compose v2.2.2
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
@@ -120,7 +120,7 @@ iTerm2 2.1.4
 jumpserver v2.17.1
 jumpserver-installer v2.17.1
 kitty v0.23.1
-kombu 5.2.2
+kombu 5.2.3
 macOS 12.1 (21C52)
 macOS-Beta 12.2 beta (21D5025f)
 mas v1.8.6

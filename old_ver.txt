@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.3.1-1447
+Surge-Mac-v4-Beta 4.3.1-1451
 Surge-Mac-v4-Stable 4.3.0-1430
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.5-1-101800501
@@ -96,9 +96,9 @@ chia_plot_manager v0.98
 coconutBattery 3.9.7
 cryptofeed 2.1.2
 cryptostore 0.4.0
-@dcloudio/uni-h5 2.0.1-33420211228004
-@dcloudio/uni-h5-ui 2.0.1-33420211228004
-@dcloudio/uni-mp-weixin 2.0.1-33420211228004
+@dcloudio/uni-h5 2.0.1-33520211229002
+@dcloudio/uni-h5-ui 2.0.1-33520211229002
+@dcloudio/uni-mp-weixin 2.0.1-33520211229002
 docker-compose v2.2.2
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02

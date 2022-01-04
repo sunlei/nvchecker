@@ -119,7 +119,7 @@ iStat-Menus 6.61
 iTerm2 2.1.4
 jumpserver v2.17.2
 jumpserver-installer v2.17.2
-kitty v0.23.1
+kitty v0.24.0
 kombu 5.2.3
 macOS 12.1 (21C52)
 macOS-Beta 12.2 beta (21D5025f)

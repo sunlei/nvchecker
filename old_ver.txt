@@ -99,7 +99,7 @@ cryptostore 0.4.0
 @dcloudio/uni-h5 2.0.1-33520211229002
 @dcloudio/uni-h5-ui 2.0.1-33520211229002
 @dcloudio/uni-mp-weixin 2.0.1-33520211229002
-docker-compose v2.2.2
+docker-compose v2.2.3
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
 docker-openldap v1.5.0

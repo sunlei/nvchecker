@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.8.2
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 3.1.23.90391
-Wechat-for-Mac 3.2.2.18-20338
+Wechat-for-Mac 3.2.2.17-20338
 Xcode 13.2.1 (13C100)
 Xcode-Beta null
 YOURLS 1.8.2
@@ -117,8 +117,8 @@ iPadOS 15.2 (19C56/19C57)
 iPadOS-Beta 15.3 beta (19D5026g)
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.17.2
-jumpserver-installer v2.17.2
+jumpserver v2.17.3
+jumpserver-installer v2.17.3
 kitty v0.24.1
 kombu 5.2.3
 macOS 12.1 (21C52)

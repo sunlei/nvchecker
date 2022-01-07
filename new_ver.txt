@@ -137,7 +137,7 @@ obsidian-plugin-sliding-panes 3.2.3
 obsidian-plugin-templater 1.9.9
 obsidian-theme-minimal 4.3.5
 plotng v0.26
-shlink v2.10.1
+shlink v2.10.2
 snell v2.0.6
 tornado 6.1
 trojan-gfw v1.16.0

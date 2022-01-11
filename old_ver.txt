@@ -122,7 +122,7 @@ jumpserver-installer v2.17.3
 kitty v0.24.1
 kombu 5.2.3
 macOS 12.1 (21C52)
-macOS-Beta 12.2 beta (21D5025f)
+macOS-Beta 12.2 beta 2 (21D5039d)
 mas v1.8.6
 nvALT 2.2.8-128
 nvchecker v2.5

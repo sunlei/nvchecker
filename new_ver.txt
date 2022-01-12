@@ -85,13 +85,13 @@ Vorta-Backup-Client v0.8.2
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 4.0.0.90415
-Wechat-for-Mac 3.2.2.18-20338
+Wechat-for-Mac 3.3.0.19-20874
 Xcode 13.2.1 (13C100)
 Xcode-Beta null
 YOURLS 1.8.2
 aText 2.40.1-118
 alfred-vscode v2.1.0
-ansible 5.1.0
+ansible 5.2.0
 chia_plot_manager v0.98
 coconutBattery 3.9.7
 cryptofeed 2.1.2

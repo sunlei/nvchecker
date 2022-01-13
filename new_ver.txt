@@ -47,7 +47,7 @@ Manico 2.10.1-418
 Marked 2.6.13-1027
 Marked-2 2.6.13-1027
 Metabase v0.41.5
-Microsoft-Office 16.56.21121100
+Microsoft-Office 16.57.22011101
 Motrix v1.6.11
 Movist-Pro 2.6.4-169
 Navicat-Premium 15.0.33
@@ -85,7 +85,7 @@ Vorta-Backup-Client v0.8.2
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 4.0.0.90415
-Wechat-for-Mac 3.2.2.18-20338
+Wechat-for-Mac 3.3.0.19-20874
 Xcode 13.2.1 (13C100)
 Xcode-Beta null
 YOURLS 1.8.2
@@ -134,7 +134,7 @@ obsidian-plugin-minimal-theme-settings 4.3.0
 obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
-obsidian-plugin-templater 1.9.9
+obsidian-plugin-templater 1.9.10
 obsidian-theme-minimal 4.4.1
 plotng v0.26
 shlink v2.10.2

@@ -24,7 +24,7 @@ Django 4.0.1
 Docker-for-Mac 4.3.2-72729
 Dropbox 139.4.4896
 FilePane 1.10.7
-Firefox 96.0
+Firefox 96.0.1
 Fork 2.15
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
@@ -73,7 +73,7 @@ Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.4.0-1501
 Surge-Mac-v4-Stable 4.3.1-1461
 Swar-Chia-Plot-Manager v.0.1.0
-Syncthing-for-macOS v1.18.5-1-101800501
+Syncthing-for-macOS v1.18.5-2-101800502
 TablePlus 4.5.2-402
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 7.2-294
@@ -134,7 +134,7 @@ obsidian-plugin-minimal-theme-settings 4.3.0
 obsidian-plugin-note-refactor 1.7.1
 obsidian-plugin-paste-url-into-selection 1.6.0
 obsidian-plugin-sliding-panes 3.2.3
-obsidian-plugin-templater 1.9.10
+obsidian-plugin-templater 1.9.11
 obsidian-theme-minimal 4.4.1
 plotng v0.26
 shlink v2.10.2
@@ -144,7 +144,7 @@ trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15.2 (19K53)
 tvOS-Beta 15.3 beta 2 (19K5541d)
-uview-ui 2.0.19
+uview-ui 2.0.20
 @vue/cli 4.5.15
 watchOS 8.3 (19S55)
 watchOS-Beta 8.4 beta 2 (19S5539e)

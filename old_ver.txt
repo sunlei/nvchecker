@@ -59,7 +59,7 @@ PyCharm 2021.3.1-213.6461.77
 QQ-for-Mac 6.7.5.20299
 React 17.0.2
 Royal-TSX 5.0-5.0.0.1000
-Sentry 21.12.0
+Sentry 22.1.0
 Sequel-Ace production/3.4.5-20025
 Setapp 2.13.2
 Sketch 81.1-135647
@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.4.0-1504
+Surge-Mac-v4-Beta 4.4.0-1506
 Surge-Mac-v4-Stable 4.3.1-1461
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.5-2-101800502

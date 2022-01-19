@@ -89,7 +89,7 @@ Wechat-for-Mac 3.3.0.19-20874
 Xcode 13.2.1 (13C100)
 Xcode-Beta null
 YOURLS 1.8.2
-aText 2.40.2-119
+aText 2.40.3-120
 alfred-vscode v2.1.0
 ansible 5.2.0
 chia_plot_manager v0.98

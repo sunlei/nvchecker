@@ -19,7 +19,7 @@ CotEditor-Stable 4.0.5-463
 DEVONthink 3.8
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
-DataGrip 2021.3.3-213.6461.82
+DataGrip 2021.3.4-213.6777.22
 Django 4.0.1
 Docker-for-Mac 4.3.2-72729
 Dropbox 139.4.4896
@@ -62,7 +62,7 @@ Royal-TSX 5.0-5.0.0.1000
 Sentry 22.1.0
 Sequel-Ace production/3.4.5-20025
 Setapp 2.13.2
-Sketch 81.1-135647
+Sketch 82-137003
 Snipaste 2.7.1-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -144,7 +144,7 @@ trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15.2 (19K53)
 tvOS-Beta 15.3 beta 2 (19K5541d)
-uview-ui 2.0.21
+uview-ui 2.0.22
 @vue/cli 4.5.15
 watchOS 8.3 (19S55)
 watchOS-Beta 8.4 beta 2 (19S5539e)

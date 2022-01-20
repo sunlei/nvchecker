@@ -29,7 +29,7 @@ Fork 2.15
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.6.3
-GitLab-Runner-Helm-Chart v0.37.0
+GitLab-Runner-Helm-Chart v0.37.1
 GoLand 2021.3.2-213.6461.81
 Google-Chrome-Beta 97.0.4692.45
 Google-Chrome-Dev 98.0.4750.2
@@ -89,7 +89,7 @@ Wechat-for-Mac 3.3.0.19-20874
 Xcode 13.2.1 (13C100)
 Xcode-Beta null
 YOURLS 1.8.2
-aText 2.40.3-120
+aText 2.40.4-121
 alfred-vscode v2.1.0
 ansible 5.2.0
 chia_plot_manager v0.98
@@ -117,8 +117,8 @@ iPadOS 15.2.1 (19C63)
 iPadOS-Beta 15.3 beta 2 (19D5040e)
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.17.3
-jumpserver-installer v2.17.3
+jumpserver v2.18.0
+jumpserver-installer v2.18.0
 kitty v0.24.1
 kombu 5.2.3
 macOS 12.1 (21C52)

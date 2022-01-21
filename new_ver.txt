@@ -8,7 +8,7 @@ BorgBackup 1.1.17
 Burp-Suite Professional / Community 2021.12.1
 Celery 5.2.3
 Chia-blockchain 1.2.11
-ClashX 1.72.0
+ClashX 1.90.0
 CleanMyMac-X 4.10.0-41000.0.2112211205
 Confluence 7.9.0
 Confluence-Enterprise(Long Term Support) 7.4.5
@@ -62,7 +62,7 @@ Royal-TSX 5.0-5.0.0.1000
 Sentry 22.1.0
 Sequel-Ace production/3.4.5-20025
 Setapp 2.13.2
-Sketch 82-137003
+Sketch 82.1-137007
 Snipaste 2.7.1-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
@@ -138,7 +138,7 @@ obsidian-plugin-templater 1.9.11
 obsidian-theme-minimal 4.4.3
 plotng v0.26
 shlink v2.10.2
-snell v2.0.6
+snell v3.0.0
 tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6

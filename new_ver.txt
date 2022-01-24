@@ -29,7 +29,7 @@ Fork 2.15
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
 GitLab-Release GitLab Patch Release: 14.6.3
-GitLab-Runner-Helm-Chart v0.37.1
+GitLab-Runner-Helm-Chart v0.37.2
 GoLand 2021.3.2-213.6461.81
 Google-Chrome-Beta 97.0.4692.45
 Google-Chrome-Dev 98.0.4750.2
@@ -96,9 +96,9 @@ chia_plot_manager v0.98
 coconutBattery 3.9.7
 cryptofeed 2.1.2
 cryptostore 0.4.0
-@dcloudio/uni-h5 2.0.1-33520211229002
-@dcloudio/uni-h5-ui 2.0.1-33520211229002
-@dcloudio/uni-mp-weixin 2.0.1-33520211229002
+@dcloudio/uni-h5 2.0.1-33920220121003
+@dcloudio/uni-h5-ui 2.0.1-33920220121003
+@dcloudio/uni-mp-weixin 2.0.1-33920220121003
 docker-compose v2.2.3
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
@@ -117,8 +117,8 @@ iPadOS 15.3 RC (19D49)
 iPadOS-Beta null
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.18.0
-jumpserver-installer v2.18.0
+jumpserver v2.18.1
+jumpserver-installer v2.18.1
 kitty v0.24.1
 kombu 5.2.3
 macOS 12.2 RC (21D48)

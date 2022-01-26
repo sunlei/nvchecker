@@ -56,7 +56,16 @@ jobs:
       - name: Send Email
         run: |
           RESULT=$(cat result.tmp)
-          [[ ! -z $RESULT ]] && curl -s --user 'api:${{ secrets.MAILGUN_API_KEY }}' https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages -F from='nvchecker <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' -F to=${{ secrets.EMAIL_TO }} -F subject='New version check result' -F text="$RESULT" --form-string html="<html><pre><code>$RESULT</code></pre><hr /></html>" -F attachment=@${{ env.LOG_FILE }} || echo "No new versions"
+          [[ ! -z $RESULT ]] \
+          && curl \
+            -s \
+            --user 'api:${{ secrets.MAILGUN_API_KEY }}' \
+            https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages \
+            -F from='nvchecker <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' \
+            -F to=${{ secrets.EMAIL_TO }} -F subject='New version check result @$(date +"%Y-%m-%d")' \
+            -F text="$RESULT" --form-string html="<html><pre><code>$RESULT</code></pre><hr /></html>" \
+            -F attachment=@${{ env.LOG_FILE }} \
+          || echo "No new versions"
           rm -f result.tmp ${{ env.LOG_FILE }}
 
       - name: Commit version record files

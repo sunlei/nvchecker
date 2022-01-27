@@ -24,7 +24,7 @@ Django 4.0.1
 Docker-for-Mac 4.3.2-72729
 Dropbox 140.4.1951
 FilePane 1.10.7
-Firefox 96.0.2
+Firefox 96.0.3
 Fork 2.15
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
@@ -71,7 +71,7 @@ Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.4.1-1532
-Surge-Mac-v4-Stable 4.4.0-1521
+Surge-Mac-v4-Stable 4.4.1-1532
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.18.5-2-101800502
 TablePlus 4.5.2-402
@@ -81,7 +81,7 @@ Transmit 5.8.2
 Typora 1.0.5-6032
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.63.2
-Vorta-Backup-Client v0.8.2
+Vorta-Backup-Client v0.8.3
 Vue.js 2.6.14
 Vuex 3.6.2
 WeChat-Work 4.0.0.90428

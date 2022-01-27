@@ -63,7 +63,7 @@ jobs:
             --user 'api:${{ secrets.MAILGUN_API_KEY }}' \
             https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages \
             -F from='nvchecker <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' \
-            -F to=${{ secrets.EMAIL_TO }} -F subject='New version check result · $DATE' \
+            -F to=${{ secrets.EMAIL_TO }} -F subject="New version check result · $DATE" \
             -F text="$RESULT" --form-string html="<html><pre><code>$RESULT</code></pre><hr /></html>" \
             -F attachment=@${{ env.LOG_FILE }} \
           || echo "No new versions"

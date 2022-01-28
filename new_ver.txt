@@ -63,7 +63,7 @@ Sentry 22.1.0
 Sequel-Ace production/3.4.5-20025
 Setapp 2.13.2
 Sketch 82.1-137007
-Snipaste 2.7.1-Beta
+Snipaste 2.7.2-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211
 Surge-Mac-Beta 3.5.8-1157
@@ -144,7 +144,7 @@ trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15.3 (19K547)
 tvOS-Beta 15.4 beta (19L5409j)
-uview-ui 2.0.25
+uview-ui 2.0.26
 @vue/cli 4.5.15
 watchOS 8.4 (19S546)
 watchOS-Beta 8.5 beta (19T5212h)

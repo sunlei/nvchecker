@@ -73,7 +73,7 @@ Surge-Mac-v3-Stable 3.5.9-1188
 Surge-Mac-v4-Beta 4.4.2-1535
 Surge-Mac-v4-Stable 4.4.1-1532
 Swar-Chia-Plot-Manager v.0.1.0
-Syncthing-for-macOS v1.18.5-2-101800502
+Syncthing-for-macOS v1.19.0-1-101900001
 TablePlus 4.5.2-402
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 7.2-294
@@ -125,7 +125,7 @@ macOS 12.2 (21D49)
 macOS-Beta 12.3 beta (21E5196i)
 mas v1.8.6
 nvALT 2.2.8-128
-nvchecker v2.5
+nvchecker v2.6
 obsidian-plugin-advanced-tables 0.17.2
 obsidian-plugin-calendar 2.0.0-beta.2
 obsidian-plugin-editor-syntax-highlight 0.1.3

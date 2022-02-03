@@ -16,7 +16,7 @@ Confluence-Enterprise(Long-Term-Support) 7.4.14
 Confluence-Standard 7.9.3
 CotEditor-Beta 4.0.5-463
 CotEditor-Stable 4.0.5-463
-DEVONthink 3.8
+DEVONthink 3.8.1
 DaisyDisk 4.12.1
 Dash-for-macOS 5.5.2-950
 DataGrip 2021.3.4-213.6777.22

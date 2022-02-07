@@ -77,7 +77,7 @@ Syncthing-for-macOS v1.19.0-1-101900001
 TablePlus 4.5.2-402
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 7.2-294
-Transmit 5.8.2
+Transmit 5.8.3
 Typora 1.0.5-6032
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.64.0

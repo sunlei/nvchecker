@@ -28,7 +28,7 @@ Firefox 97.0
 Fork 2.15
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
-GitLab-Release GitLab Security Release: 14.7.1, 14.6.4, and 14.5.4
+GitLab-Release GitLab Patch Release: 14.7.2
 GitLab-Runner-Helm-Chart v0.37.2
 GoLand 2021.3.3-213.6777.51
 Google-Chrome-Beta 97.0.4692.45
@@ -87,7 +87,7 @@ Vuex 4.0.2
 WeChat-Work 4.0.0.90428
 Wechat-for-Mac 3.3.0.19-20874
 Xcode 13.2.1 (13C100)
-Xcode-Beta 13.3 beta (13E5086k)
+Xcode-Beta 13.3 beta 2 (13E5095k)
 YOURLS 1.8.2
 aText 2.40.5-122
 alfred-vscode v2.1.0
@@ -112,9 +112,9 @@ hpool-chia-plotter v0.10
 iExplorer 4.5.0
 iMazing 2.14.6-15535
 iOS 15.3 (19D50)
-iOS-Beta 15.4 beta (19E5209h)
+iOS-Beta 15.4 beta 2 (19E5219e)
 iPadOS 15.3 (19D50)
-iPadOS-Beta 15.4 beta (19E5209h)
+iPadOS-Beta 15.4 beta 2 (19E5219e)
 iStat-Menus 6.61
 iTerm2 2.1.4
 jumpserver v2.18.1
@@ -122,7 +122,7 @@ jumpserver-installer v2.18.1
 kitty v0.24.2
 kombu 5.2.3
 macOS 12.2 (21D49)
-macOS-Beta 12.3 beta (21E5196i)
+macOS-Beta 12.3 beta 2 (21E5206e)
 mas v1.8.6
 nvALT 2.2.8-128
 nvchecker v2.6.1
@@ -143,9 +143,9 @@ tornado 6.1
 trojan-gfw v1.16.0
 trojan-go v0.10.6
 tvOS 15.3 (19K547)
-tvOS-Beta 15.4 beta (19L5409j)
+tvOS-Beta 15.4 beta 2 (19L5419e)
 uview-ui 2.0.27
 @vue/cli 4.5.15
 watchOS 8.4.1 (19S550)
-watchOS-Beta 8.5 beta (19T5212h)
+watchOS-Beta 8.5 beta 2 (19T5223e)
 webhook 2.8.0

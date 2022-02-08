@@ -22,7 +22,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2021.3.4-213.6777.22
 Django 4.0.2
 Docker-for-Mac 4.3.2-72729
-Dropbox 142.3.4086
+Dropbox 141.4.3299
 FilePane 1.10.7
 Firefox 96.0.3
 Fork 2.15
@@ -96,9 +96,9 @@ chia_plot_manager v0.98
 coconutBattery 3.9.7
 cryptofeed 2.1.2
 cryptostore 0.4.0
-@dcloudio/uni-h5 2.0.1-33920220121003
-@dcloudio/uni-h5-ui 2.0.1-33920220121003
-@dcloudio/uni-mp-weixin 2.0.1-33920220121003
+@dcloudio/uni-h5 2.0.1-33920220124001
+@dcloudio/uni-h5-ui 2.0.1-33920220124001
+@dcloudio/uni-mp-weixin 2.0.1-33920220124001
 docker-compose v2.2.3
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02

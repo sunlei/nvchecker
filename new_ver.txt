@@ -22,7 +22,7 @@ Dash-for-macOS 5.5.2-950
 DataGrip 2021.3.4-213.6777.22
 Django 4.0.2
 Docker-for-Mac 4.4.2-73305
-Dropbox 141.4.3299
+Dropbox 142.3.4155
 FilePane 1.10.7
 Firefox 97.0
 Fork 2.15
@@ -62,7 +62,7 @@ Royal-TSX 5.0-5.0.0.1000
 Sentry 22.1.0
 Sequel-Ace production/3.4.5-20025
 Setapp 2.13.2
-Sketch 83-138621
+Sketch 83.1-138631
 Snipaste 2.7.2-Beta
 SourceTree 1.2.7
 Sublime-Text Beta, Build 3211-3211

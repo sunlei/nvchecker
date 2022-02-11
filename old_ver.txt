@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.4.2-1539
+Surge-Mac-v4-Beta 4.4.2-1540
 Surge-Mac-v4-Stable 4.4.1-1532
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.19.0-1-101900001
@@ -84,7 +84,7 @@ Visual-Studio-Code 1.64.2
 Vorta-Backup-Client v0.8.3
 Vue.js 3.2.30
 Vuex 4.0.2
-WeChat-Work 4.0.0.90428
+WeChat-Work 4.0.0.90438
 Wechat-for-Mac 3.3.0.19-20874
 Xcode 13.2.1 (13C100)
 Xcode-Beta 13.3 beta 2 (13E5095k)
@@ -117,8 +117,8 @@ iPadOS 15.3.1 (19D52)
 iPadOS-Beta 15.4 beta 2 (19E5219e)
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.17.4
-jumpserver-installer v2.18.1
+jumpserver v2.18.2
+jumpserver-installer v2.18.2
 kitty v0.24.2
 kombu 5.2.3
 macOS 12.2.1 (21D62)

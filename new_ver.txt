@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.4.2-1538
+Surge-Mac-v4-Beta 4.4.2-1539
 Surge-Mac-v4-Stable 4.4.1-1532
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.19.0-1-101900001
@@ -96,9 +96,9 @@ chia_plot_manager v0.98
 coconutBattery 3.9.7
 cryptofeed 2.1.2
 cryptostore 0.4.0
-@dcloudio/uni-h5 2.0.1-33920220207001
-@dcloudio/uni-h5-ui 2.0.1-33920220124001
-@dcloudio/uni-mp-weixin 2.0.1-33920220207001
+@dcloudio/uni-h5 2.0.1-33920220208001
+@dcloudio/uni-h5-ui 2.0.1-33920220208001
+@dcloudio/uni-mp-weixin 2.0.1-33920220208001
 docker-compose v2.2.3
 docker-jumpserver v2.5.3
 docker-nexus3 3.13.0-02
@@ -117,7 +117,7 @@ iPadOS 15.3.1 (19D52)
 iPadOS-Beta 15.4 beta 2 (19E5219e)
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.18.1
+jumpserver v2.17.4
 jumpserver-installer v2.18.1
 kitty v0.24.2
 kombu 5.2.3

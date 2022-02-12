@@ -82,7 +82,7 @@ Typora 1.0.5-6032
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.64.2
 Vorta-Backup-Client v0.8.3
-Vue.js 3.2.30
+Vue.js 3.2.31
 Vuex 4.0.2
 WeChat-Work 4.0.0.90438
 Wechat-for-Mac 3.3.0.19-20874

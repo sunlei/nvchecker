@@ -60,7 +60,7 @@ QQ-for-Mac 6.7.5.20299
 React 17.0.2
 Royal-TSX 5.0-5.0.0.1000
 Sentry 22.1.0
-Sequel-Ace production/3.4.5-20025
+Sequel-Ace production/3.5.0-20029
 Setapp 2.13.2
 Sketch 83.2-138642
 Snipaste 2.7.2-Beta
@@ -70,7 +70,7 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.4.2-1550
+Surge-Mac-v4-Beta 4.4.2-1551
 Surge-Mac-v4-Stable 4.4.1-1532
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.19.0-1-101900001

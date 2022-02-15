@@ -28,7 +28,7 @@ Firefox 97.0
 Fork 2.15
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
-GitLab-Release GitLab Patch Release: 14.7.2
+GitLab-Release GitLab Patch Release: 14.7.3
 GitLab-Runner-Helm-Chart v0.37.2
 GoLand 2021.3.3-213.6777.51
 Google-Chrome-Beta 97.0.4692.45
@@ -70,13 +70,13 @@ Surge-Mac-Beta 3.5.8-1157
 Surge-Mac-Stable 3.5.8-1157
 Surge-Mac-v3-Beta 3.5.9-1188
 Surge-Mac-v3-Stable 3.5.9-1188
-Surge-Mac-v4-Beta 4.4.2-1552
+Surge-Mac-v4-Beta 4.4.2-1553
 Surge-Mac-v4-Stable 4.4.1-1532
 Swar-Chia-Plot-Manager v.0.1.0
 Syncthing-for-macOS v1.19.0-1-101900001
 TablePlus 4.5.2-402
 The-Unarchiver 4.3.0-132
-Tower-for-Mac 7.2-294
+Tower-for-Mac 8.0-308
 Transmit 5.8.4
 Typora 1.0.5-6032
 UniFi-Network-Controller 5.12.66

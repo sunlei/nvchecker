@@ -5,7 +5,7 @@ AriaNg-Native 1.2.3
 Arq-Backup 6.2.76
 Beancount 2.3.5
 BorgBackup 1.1.17
-Burp-Suite Professional / Community 2022.1.1
+Burp-Suite Professional / Community 2022.2
 Celery 5.2.3
 Chia-blockchain 1.2.11
 ClashX 1.90.0
@@ -39,7 +39,7 @@ IINA 0.0.14.1-55
 Jira 8.14.0
 Jira-Enterprise(Long Term Support) 8.13.1
 Jira-Enterprise(Long-Term-Support) null
-Jira-Standard 8.21.1
+Jira-Standard 8.22.0
 Kaleidoscope 2.4-1450
 Little-Snitch 5.3.2-6229
 MWeb 3.4.4

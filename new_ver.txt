@@ -24,7 +24,7 @@ Django 4.0.2
 Docker-for-Mac 4.4.2-73305
 Dropbox 142.4.4197
 FilePane 1.10.7
-Firefox 97.0
+Firefox 97.0.1
 Fork 2.15
 ForkLift 3.5.4-216
 GitLab v13.1.1-ee
@@ -78,7 +78,7 @@ TablePlus 4.5.2-402
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 8.0-308
 Transmit 5.8.4
-Typora 1.0.5-6032
+Typora 1.1.2-6222
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.64.2
 Vorta-Backup-Client v0.8.3
@@ -106,7 +106,7 @@ docker-openldap v1.5.0
 docker-openldap-backup v1.5.0
 docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
-grafana v8.3.6
+grafana v8.4.0
 hpool-chia-miner 1.5.6
 hpool-chia-plotter v0.10
 iExplorer 4.5.0
@@ -117,8 +117,8 @@ iPadOS 15.3.1 (19D52)
 iPadOS-Beta 15.4 beta 3 (19E5225g)
 iStat-Menus 6.61
 iTerm2 2.1.4
-jumpserver v2.18.2
-jumpserver-installer v2.18.2
+jumpserver v2.19.0
+jumpserver-installer v2.19.0
 kitty v0.24.2
 kombu 5.2.3
 macOS 12.2.1 (21D62)

@@ -125,7 +125,7 @@ macOS 12.2.1 (21D62)
 macOS-Beta 12.3 beta 3 (21E5212f)
 mas v1.8.6
 nvALT 2.2.8-128
-nvchecker v2.6.1
+nvchecker v2.7
 obsidian-plugin-advanced-tables 0.17.2
 obsidian-plugin-calendar 2.0.0-beta.2
 obsidian-plugin-editor-syntax-highlight 0.1.3

@@ -5,7 +5,7 @@ AriaNg-Native 1.2.3
 Arq-Backup 6.2.76
 Beancount 2.3.5
 BorgBackup 1.1.17
-Burp-Suite Professional / Community 2022.2
+Burp-Suite Professional / Community 2022.2.1
 Celery 5.2.3
 Chia-blockchain 1.2.11
 ClashX 1.90.0
@@ -78,7 +78,7 @@ TablePlus 4.5.2-402
 The-Unarchiver 4.3.0-132
 Tower-for-Mac 8.0-308
 Transmit 5.8.4
-Typora 1.1.4-6232
+Typora 1.1.5-6235
 UniFi-Network-Controller 5.12.66
 Visual-Studio-Code 1.64.2
 Vorta-Backup-Client v0.8.3

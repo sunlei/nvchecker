@@ -23,7 +23,7 @@ jobs:
     name: Check New Versions
     runs-on: ubuntu-latest
     container:
-      image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+      image: ghcr.io/sunlei/nvchecker:pr-1
       credentials:
         username: ${{ github.actor }}
         password: ${{ secrets.github_token }}

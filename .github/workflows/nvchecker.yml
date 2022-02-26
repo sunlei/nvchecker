@@ -23,6 +23,7 @@ jobs:
     name: Check New Versions
     runs-on: ubuntu-latest
     container:
+      # image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
       image: ghcr.io/sunlei/nvchecker:pr-1
       credentials:
         username: ${{ github.actor }}
@@ -48,9 +49,9 @@ jobs:
       - name: Send Email
         # -F attachment=@${{ env.LOG_FILE }} \
         run: |
-          LOG=$(cat ${{ env.LOG_FILE }})
-          RESULT=$(cat result.tmp)
-          DATE=$(date +"%Y-%m-%d")
+          LOG=$(cat ${{ env.LOG_FILE }}) \
+          RESULT=$(cat result.tmp) \
+          DATE=$(date +"%Y-%m-%d") \
           [[ ! -z $RESULT ]] \
           && curl \
             -s \

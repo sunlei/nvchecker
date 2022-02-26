@@ -47,6 +47,7 @@ jobs:
           nvtake --file config.toml --all
 
       - name: Send Email
+        shell: bash
         # -F attachment=@${{ env.LOG_FILE }} \
         run: |
           LOG=$(cat ${{ env.LOG_FILE }}) \

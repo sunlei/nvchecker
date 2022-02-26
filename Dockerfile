@@ -15,7 +15,7 @@ ENV NVCHECKER_VERSION 2.7
 RUN set -ex \
     # install packages
     && apt-get update \
-    && apt-get install -y --no-install-recommends curl tzdata libssl-dev libcurl4-openssl-dev build-essential jq grep unzip \
+    && apt-get install -y --no-install-recommends curl tzdata libssl-dev libcurl4-openssl-dev build-essential jq grep unzip git \
     # set timezone
     && ln -snf /usr/share/zoneinfo/${TZ} /etc/localtime && echo ${TZ} > /etc/timezone \
     # pip install

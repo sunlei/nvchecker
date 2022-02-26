@@ -184,8 +184,146 @@ github = "shlinkio/shlink"
 use_latest_release = true
 
 
+[tailscale]
+source = "github"
+github = "tailscale/tailscale"
+use_latest_release = true
+
+[headscale]
+source = "github"
+github = "juanfont/headscale"
+use_latest_release = true
+
+[Netmaker]
+source = "github"
+github = "gravitl/netmaker"
+use_latest_release = true
+
+[Boop]
+source = "github"
+github = "IvanMathy/Boop"
+use_latest_release = true
+
+[bat]
+source = "github"
+github = "sharkdp/bat"
+use_latest_release = true
+
+[fzf]
+source = "github"
+github = "junegunn/fzf"
+use_latest_release = true
+
+[fd]
+source = "github"
+github = "sharkdp/fd"
+use_latest_release = true
+
+[exa]
+source = "github"
+github = "ogham/exa"
+use_latest_release = true
+
+[docker-cli]
+source = "github"
+github = "docker/cli"
+use_max_tag = true
+
+[moby]
+source = "github"
+github = "moby/moby"
+use_latest_release = true
+
+[curl]
+source = "github"
+github = "curl/curl"
+use_latest_release = true
+
+[ghq]
+source = "github"
+github = "x-motemen/ghq"
+use_latest_release = true
+
+[git]
+source = "github"
+github = "git/git"
+use_max_tag = true
+
+[gmailctl]
+source = "github"
+github = "mbrt/gmailctl"
+use_latest_release = true
+
+[jq]
+source = "github"
+github = "stedolan/jq"
+use_latest_release = true
+
+[jc]
+source = "github"
+github = "kellyjonbrazil/jc"
+use_latest_release = true
+
+[jless]
+source = "github"
+github = "PaulJuliusMartinez/jless"
+use_max_tag = true
+
+[httpie]
+source = "github"
+github = "httpie/httpie"
+use_latest_release = true
+
+[monolith]
+source = "github"
+github = "Y2Z/monolith"
+use_latest_release = true
+
+[ripgrep]
+source = "github"
+github = "BurntSushi/ripgrep"
+use_latest_release = true
+
+[zsh]
+source = "github"
+github = "zsh-users/zsh"
+use_max_tag = true
+
+[zoxide]
+source = "github"
+github = "ajeetdsouza/zoxide"
+use_latest_release = true
+
+[font-fira-code]
+source = "github"
+github = "tonsky/FiraCode"
+use_latest_release = true
+
+[Signal-Desktop]
+source = "github"
+github = "signalapp/Signal-Desktop"
+use_latest_release = true
+
+[Bitwarden-Desktop]
+source = "github"
+github = "bitwarden/desktop"
+use_latest_release = true
+
+[Bitwarden-Mobile]
+source = "github"
+github = "bitwarden/mobile"
+use_latest_release = true
+
+
 # --------------------------------------------------
 # macOS Apps
+# TODO:
+# - shotrr
+# - apparency
+# - suspicious-package
+# - ledger
+# - eagle
+# - easyfind
 
 [Google-Chrome-Stable]
 # https://chromiumdash.appspot.com/releases?platform=Mac
@@ -555,6 +693,75 @@ source = "github"
 github = "kovidgoyal/kitty"
 use_latest_release = true
 
+
+[Mimestream]
+source = "sparkle"
+sparkle = "https://mimestream.com/appcast.xml"
+
+[Bob]
+source = "sparkle"
+sparkle = "https://gitee.com/ripperhe/Bob/raw/master/appcast.xml"
+
+[Hammerspoon]
+source = "sparkle"
+sparkle = "https://raw.githubusercontent.com/Hammerspoon/hammerspoon/master/appcast.xml"
+
+[QLMarkdown]
+source = "sparkle"
+sparkle = "https://sbarex.github.io/QLMarkdown/appcast.xml"
+
+[AppCleaner]
+source = "sparkle"
+sparkle = "https://freemacsoft.net/appcleaner/updates.xml"
+
+[Syntax-Highlight]
+source = "sparkle"
+sparkle = "https://sbarex.github.io/SourceCodeSyntaxHighlight/appcast.xml"
+
+[Marta]
+source = "sparkle"
+sparkle = "https://updates.marta.sh/release/appcast.xml"
+
+[Maestral]
+source = "sparkle"
+sparkle = "https://maestral.app/appcast.xml"
+
+[WeChat_Mac-App-Store]
+source = "cmd"
+cmd = '''
+    curl http://itunes.apple.com/lookup?bundleId=com.tencent.xinWeChat | \
+    jq --raw-output '.results[0].version'
+'''
+
+[WeChatWork_Mac-App-Store]
+source = "cmd"
+cmd = '''
+    curl http://itunes.apple.com/lookup?bundleId=com.tencent.WeWorkMac | \
+    jq --raw-output '.results[0].version'
+'''
+
+# [NeteaseMusic_Mac-App-Store]
+# source = "cmd"
+# cmd = '''
+#     curl http://itunes.apple.com/lookup?bundleId=com.netease.163music | \
+#     jq --raw-output '.results[0].version'
+# '''
+
+[MenubarX_Mac-App-Store]
+source = "cmd"
+cmd = '''
+    curl http://itunes.apple.com/lookup?bundleId=com.app.menubarx | \
+    jq --raw-output '.results[0].version'
+'''
+
+[Discord]
+source = "cmd"
+cmd = '''
+    curl -w "%{redirect_url}" -o /dev/null -s https://discord.com/api/download?platform=osx \
+    | grep -oP '/\K([\d.]+)(?=/)'
+'''
+
+
 # --------------------------------------------------
 # Apple
 # OS_NAME="macOS" REGEX=`printf '^%s (?:(?!beta).)*$' $OS_NAME` xq -n 'env.REGEX'
@@ -648,6 +855,7 @@ cmd = '''
     | OS_NAME="Xcode" REGEX="$OS_NAME .+ beta " xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
+
 # --------------------------------------------------
 # Python packages
 
@@ -691,6 +899,7 @@ pypi = "cryptofeed"
 source = "pypi"
 pypi = "cryptostore"
 
+
 # --------------------------------------------------
 # npm packages
 
@@ -726,6 +935,7 @@ npm = "@dcloudio/uni-h5-ui"
 [vue_cli]
 source = "npm"
 npm = "@vue/cli"
+
 
 # --------------------------------------------------
 # obsidian
@@ -779,6 +989,7 @@ use_latest_release = true
 source = "github"
 github = "kepano/obsidian-hider"
 use_latest_release = true
+
 
 # --------------------------------------------------
 # Chia

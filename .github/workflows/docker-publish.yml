@@ -21,6 +21,10 @@ jobs:
   build-docker-image:
     name: Build Docker Image
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
     steps:
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v1

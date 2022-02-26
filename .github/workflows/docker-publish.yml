@@ -14,7 +14,8 @@ on:
       - '.github/workflows/docker-publish.yml'
 
 env:
-  IMAGE_NAME: nvchecker
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
 
 jobs:
   build-docker-image:

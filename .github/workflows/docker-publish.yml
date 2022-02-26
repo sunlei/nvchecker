@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - master
-    # tags:
-    #   - v*
     paths:
       - 'Dockerfile'
 
@@ -13,26 +11,33 @@ env:
   IMAGE_NAME: nvchecker
 
 jobs:
-  build_docker_image:
+  build-docker-image:
     name: Build Docker Image
     runs-on: ubuntu-latest
-    if: github.event_name == 'push'
-
     steps:
-      - uses: actions/checkout@v2
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v1
 
-      - name: Set image info
-        run: |
-          IMAGE_ID=docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME
-          echo "IMAGE_ID=$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')" >> $GITHUB_ENV
-          echo "IMAGE_TAG=$IMAGE_ID:latest" >> $GITHUB_ENV
-      - name: Build image
-        run: |
-          docker build --pull --file Dockerfile --tag ${{ env.IMAGE_TAG }} .
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
 
-      - name: Log into registry
-        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login docker.pkg.github.com -u ${{ github.actor }} --password-stdin
+      - name: Log in to the GitHub Container registry
+        uses: docker/login-action@v1
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push image
-        run: |
-          docker push ${{ env.IMAGE_TAG }}
+      - name: Extract metadata (tags, labels) for Docker
+        id: meta
+        uses: docker/metadata-action@v3
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+
+      - name: Build and push
+        uses: docker/build-push-action@v2
+        with:
+          context: .
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}

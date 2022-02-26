@@ -38,10 +38,6 @@ jobs:
 
       - name: Check version
         run: |
-          # echo "VERSIONS_COMPARE=$(docker exec nvchecker-app nvcmp config.toml 2>&1)" >> $GITHUB_ENV
-
-          # touch old_ver.json new_ver.json
-
           nvchecker --file config.toml 2>&1 | tee ${{ env.LOG_FILE }}
           nvcmp --file config.toml > result.tmp
           nvtake --file config.toml --all
@@ -53,9 +49,6 @@ jobs:
           LOG=$(cat ${{ env.LOG_FILE }}) \
           RESULT=$(cat result.tmp) \
           DATE=$(date +"%Y-%m-%d") \
-          && echo $LOG \
-          && echo $RESULT \
-          && echo $DATE \
           && [[ ! -z $RESULT ]] \
           && curl \
             -s \

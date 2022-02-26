@@ -5,74 +5,65 @@ on:
     branches:
       - master
     paths:
-      - 'source.ini'
+      - "config.toml"
   pull_request:
     branches:
       - master
     paths:
-      - 'source.ini'
+      - "config.toml"
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: "0 */3 * * *"
 
 env:
-  IMAGE_NAME: nvchecker
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
 
 jobs:
   check-new-versions:
-    runs-on: ubuntu-latest
     name: Check New Versions
+    runs-on: ubuntu-latest
+    container:
+      # image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+      image: ghcr.io/sunlei/nvchecker:pr-1
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.github_token }}
 
     steps:
       - uses: actions/checkout@v2
 
       - name: Set environment variables
         run: |
-          IMAGE_ID=docker.pkg.github.com/$GITHUB_REPOSITORY/$IMAGE_NAME
-          echo "IMAGE_ID=$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')" >> $GITHUB_ENV
-          echo "IMAGE_TAG=$IMAGE_ID:latest" >> $GITHUB_ENV
-
           echo "LOG_FILE=nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log" >> $GITHUB_ENV
-
-      - name: Log into registry
-        # $GITHUB_ACTOR
-        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login docker.pkg.github.com -u ${{ github.actor }} --password-stdin
-
-      - name: Pull Docker image
-        run: docker pull "${{ env.IMAGE_ID }}"
-
-      - name: Run image
-        run: docker run -it -d --name nvchecker-app -v $GITHUB_WORKSPACE:/workspace -w /workspace --env NVCHECKER_GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} ${{ env.IMAGE_ID }}:latest
 
       - name: Check version
         run: |
-          # echo "VERSIONS_COMPARE=$(docker exec nvchecker-app nvcmp source.ini 2>&1)" >> $GITHUB_ENV
-
-          touch old_ver.txt new_ver.txt
-
-          docker exec nvchecker-app nvchecker --tries 3 source.ini 2>&1 | tee ${{ env.LOG_FILE }}
-          docker exec nvchecker-app nvcmp source.ini > result.tmp
-          docker exec nvchecker-app nvtake source.ini --all
+          nvchecker --file config.toml 2>&1 | tee ${{ env.LOG_FILE }}
+          nvcmp --file config.toml > result.tmp
+          nvtake --file config.toml --all
 
       - name: Send Email
+        shell: bash
+        # -F attachment=@${{ env.LOG_FILE }} \
         run: |
-          RESULT=$(cat result.tmp)
-          DATE=$(date +"%Y-%m-%d")
-          [[ ! -z $RESULT ]] \
+          LOG=$(cat ${{ env.LOG_FILE }}) \
+          RESULT=$(cat result.tmp) \
+          DATE=$(date +"%Y-%m-%d") \
+          && [[ ! -z $RESULT ]] \
           && curl \
             -s \
             --user 'api:${{ secrets.MAILGUN_API_KEY }}' \
             https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages \
             -F from='nvchecker <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' \
             -F to=${{ secrets.EMAIL_TO }} -F subject="New version check result · $DATE" \
-            -F text="$RESULT" --form-string html="<html><pre><code>$RESULT</code></pre><hr /></html>" \
-            -F attachment=@${{ env.LOG_FILE }} \
+            -F text="$RESULT" --form-string html="<html><pre><code>$RESULT</code></pre><hr /><pre><code>$LOG</code></pre></html>" \
           || echo "No new versions"
           rm -f result.tmp ${{ env.LOG_FILE }}
 
       - name: Commit version record files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'chore: Apply version record files changes'
+          commit_message: "chore: Apply version record files changes"
 
           # branch: ${{ github.head_ref }}
           branch: master
@@ -88,4 +79,4 @@ jobs:
       #   id: nvchecker-action
       #   uses: guizai/nvchecker-action@master
       #   with:
-      #     source-file: 'source.ini'
+      #     source-file: 'config.toml'

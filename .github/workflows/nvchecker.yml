@@ -52,6 +52,9 @@ jobs:
           LOG=$(cat ${{ env.LOG_FILE }}) \
           RESULT=$(cat result.tmp) \
           DATE=$(date +"%Y-%m-%d") \
+          echo $LOG \
+          && echo $RESULT \
+          && echo $DATE \
           [[ ! -z $RESULT ]] \
           && curl \
             -s \

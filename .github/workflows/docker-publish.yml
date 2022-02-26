@@ -5,13 +5,14 @@ on:
     branches:
       - master
     paths:
-      - 'Dockerfile'
+      - "Dockerfile"
+      - ".github/workflows/docker-publish.yml"
   pull_request:
     branches:
       - master
     paths:
-      - 'Dockerfile'
-      - '.github/workflows/docker-publish.yml'
+      - "Dockerfile"
+      - ".github/workflows/docker-publish.yml"
 
 env:
   REGISTRY: ghcr.io

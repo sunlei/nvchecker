@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       # image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
-      image: ghcr.io/sunlei/nvchecker:pr-1
+      image: ghcr.io/sunlei/nvchecker
       credentials:
         username: ${{ github.actor }}
         password: ${{ secrets.github_token }}
@@ -68,7 +68,7 @@ jobs:
           # branch: ${{ github.head_ref }}
           branch: master
           commit_options: "--no-verify --signoff"
-          file_pattern: ./*.txt
+          file_pattern: ./*.json
           repository: .
 
           commit_user_name: GitHub Actions

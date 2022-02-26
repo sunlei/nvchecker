@@ -108,7 +108,7 @@ docker-phpLDAPadmin v0.9.0
 docker-self-service-password 2.7
 grafana v8.4.2
 hpool-chia-miner 1.5.6
-hpool-chia-plotter v0.10
+hpool-chia-plotter v0.9
 iExplorer 4.5.0
 iMazing 2.14.6-15535
 iOS 15.3.1 (19D52)

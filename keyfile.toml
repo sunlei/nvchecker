@@ -1,0 +1,4 @@
+[keys]
+# https://github.com/settings/tokens
+# scope: repo -> public_repo
+github = "__GITHUB_ACCESS_TOKEN__"

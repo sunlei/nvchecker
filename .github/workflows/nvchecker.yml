@@ -6,11 +6,13 @@ on:
       - master
     paths:
       - "config.toml"
+      - ".github/workflows/nvchecker.yml"
   pull_request:
     branches:
       - master
     paths:
       - "config.toml"
+      - ".github/workflows/nvchecker.yml"
   schedule:
     - cron: "0 */3 * * *"
 
@@ -35,10 +37,11 @@ jobs:
       - name: Set environment variables
         run: |
           echo "LOG_FILE=nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log" >> $GITHUB_ENV
+          sed -i -e "s/__GITHUB_ACCESS_TOKEN__/${{ secrets.GITHUB_TOKEN }}/g" keyfile.toml
 
       - name: Check version
         run: |
-          nvchecker --file config.toml 2>&1 | tee ${{ env.LOG_FILE }}
+          nvchecker --file config.toml --keyfile keyfile.toml 2>&1 | tee ${{ env.LOG_FILE }}
           nvcmp --file config.toml > result.tmp
           nvtake --file config.toml --all
 

@@ -331,21 +331,21 @@ use_latest_release = true
 source = "regex"
 url = "https://chromiumdash.appspot.com/fetch_releases?channel=Stable&platform=Mac&num=1"
 regex = '''
-    "version": "([\d.]+)"
+"version": "([\d.]+)"
 '''
 
 [Google-Chrome-Beta]
 source = "regex"
 url = "https://chromiumdash.appspot.com/fetch_releases?channel=Beta&platform=Mac&num=1"
 regex = '''
-    "version": "([\d.]+)"
+"version": "([\d.]+)"
 '''
 
 [Google-Chrome-Dev]
 source = "regex"
 url = "https://chromiumdash.appspot.com/fetch_releases?channel=Dev&platform=Mac&num=1"
 regex = '''
-    "version": "([\d.]+)"
+"version": "([\d.]+)"
 '''
 
 [Visual-Studio-Code]
@@ -607,11 +607,14 @@ source = "sparkle"
 sparkle = "https://s3-us-west-2.amazonaws.com/updateinfo.devmate.com/com.setapp.InstallSetapp/updates.xml"
 
 [QQ-for-Mac]
-source = "cmd"
-cmd = '''
-    curl -s https://im.qq.com/proxy/domain/qzonestyle.gtimg.cn/qzone/qzactStatics/configSystem/data/1373/config1.js \
-    | grep -oP '.*\K(?<=QQ_)[\d.]+(?=\.dmg)'
-'''
+# source = "cmd"
+# cmd = '''
+#     curl -s https://im.qq.com/proxy/domain/qzonestyle.gtimg.cn/qzone/qzactStatics/configSystem/data/1373/config1.js \
+#     | grep -oP '.*\K(?<=QQ_)[\d.]+(?=\.dmg)'
+# '''
+source = "regex"
+url = "https://im.qq.com/rainbow/"
+regex = '''"version":"(.+)",'''
 
 [Notion]
 # https://www.notion.so/desktop/mac/download&user_agent=MacOS

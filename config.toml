@@ -454,9 +454,9 @@ sparkle = "https://iina.io/appcast.xml"
 source = "sparkle"
 sparkle = "https://macroplant.com/iexplorer/mac/v4/appcast"
 
-[Hazel]
-source = "sparkle"
-sparkle = "https://www.noodlesoft.com/Products/Hazel/generate-appcast.php"
+# [Hazel]
+# source = "sparkle"
+# sparkle = "https://www.noodlesoft.com/Products/Hazel/generate-appcast.php"
 
 [DEVONthink]
 source = "sparkle"

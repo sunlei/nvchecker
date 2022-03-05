@@ -330,23 +330,17 @@ use_latest_release = true
 # https://omahaproxy.appspot.com/history?os=mac;channel=stable
 source = "regex"
 url = "https://chromiumdash.appspot.com/fetch_releases?channel=Stable&platform=Mac&num=1"
-regex = '''
-"version": "([\d.]+)"
-'''
+regex = '''"version":\s*"([\d.]+)"'''
 
 [Google-Chrome-Beta]
 source = "regex"
 url = "https://chromiumdash.appspot.com/fetch_releases?channel=Beta&platform=Mac&num=1"
-regex = '''
-"version": "([\d.]+)"
-'''
+regex = '''"version":\s*"([\d.]+)"'''
 
 [Google-Chrome-Dev]
 source = "regex"
 url = "https://chromiumdash.appspot.com/fetch_releases?channel=Dev&platform=Mac&num=1"
-regex = '''
-"version": "([\d.]+)"
-'''
+regex = '''"version":\s*"([\d.]+)"'''
 
 [Visual-Studio-Code]
 # source = "github"

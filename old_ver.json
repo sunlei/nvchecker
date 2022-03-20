@@ -122,7 +122,7 @@
   "git": "v2.35.1",
   "gmailctl": "v0.10.0",
   "grafana": "v8.4.4",
-  "headscale": "v0.14.0",
+  "headscale": "v0.15.0",
   "hpool-chia-miner": "1.5.6",
   "hpool-chia-plotter": "v0.10",
   "httpie": "3.1.0",

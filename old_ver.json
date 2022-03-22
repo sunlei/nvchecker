@@ -1,6 +1,6 @@
 {
   "1Password-for-Mac": "7.9.3",
-  "Alfred": "4.6.3",
+  "Alfred": "4.6.4",
   "AppCleaner": "3.4-3804",
   "AriaNg": "1.2.3",
   "AriaNg-Native": "1.2.3",
@@ -170,7 +170,7 @@
   "tvOS": "15.4 (19L440)",
   "tvOS-Beta": "null",
   "uview-ui": "2.0.29",
-  "vue_cli": "5.0.3",
+  "vue_cli": "5.0.4",
   "watchOS": "8.5 (19T242)",
   "watchOS-Beta": "null",
   "webhook": "2.8.0",

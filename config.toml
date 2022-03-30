@@ -597,8 +597,10 @@ cmd = '''
 '''
 
 [Setapp]
+# https://updates.devmate.com/com.setapp.DesktopClient.xml
 source = "sparkle"
-sparkle = "https://s3-us-west-2.amazonaws.com/updateinfo.devmate.com/com.setapp.InstallSetapp/updates.xml"
+# sparkle = "https://s3-us-west-2.amazonaws.com/updateinfo.devmate.com/com.setapp.InstallSetapp/updates.xml"
+sparkle = "https://s3-us-west-2.amazonaws.com/updateinfo.devmate.com/com.setapp.DesktopClient/updates.xml"
 
 [QQ-for-Mac]
 # source = "cmd"

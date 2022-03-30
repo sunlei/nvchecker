@@ -52,7 +52,7 @@ jobs:
           LOG=$(cat ${{ env.LOG_FILE }}) \
           RESULT=$(cat result.tmp) \
           DATE=$(date +"%Y-%m-%d") \
-          && [[ ! -z $RESULT ]] \
+          && [[ ! -z $LOG ]] || [[ ! -z $RESULT ]] \
           && curl \
             -s \
             --user 'api:${{ secrets.MAILGUN_API_KEY }}' \

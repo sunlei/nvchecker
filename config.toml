@@ -739,12 +739,14 @@ cmd = '''
     jq --raw-output '.results[0].version'
 '''
 
-# [NeteaseMusic_Mac-App-Store]
-# source = "cmd"
-# cmd = '''
-#     curl http://itunes.apple.com/lookup?bundleId=com.netease.163music | \
-#     jq --raw-output '.results[0].version'
-# '''
+# http://itunes.apple.com/lookup?country=cn&id=944848654
+# http://itunes.apple.com/cn/lookup?id=944848654
+[NeteaseMusic_Mac-App-Store]
+source = "cmd"
+cmd = '''
+    curl http://itunes.apple.com/cn/lookup?id=944848654 | \
+    jq --raw-output '.results[0].version'
+'''
 
 [MenubarX_Mac-App-Store]
 source = "cmd"

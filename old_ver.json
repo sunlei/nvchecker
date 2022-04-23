@@ -175,6 +175,6 @@
   "watchOS": "8.5.1 (19T252)",
   "watchOS-Beta": "8.6 beta 2 (19T5557d)",
   "webhook": "2.8.0",
-  "zoxide": "v0.8.0",
+  "zoxide": "v0.8.1",
   "zsh": "5.4.1"
 }

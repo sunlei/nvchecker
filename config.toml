@@ -294,6 +294,16 @@ source = "github"
 github = "ajeetdsouza/zoxide"
 use_latest_release = true
 
+[smartdns]
+source = "github"
+github = "pymumu/smartdns"
+use_latest_release = true
+
+[wakapi]
+source = "github"
+github = "muety/wakapi"
+use_latest_release = true
+
 [font-fira-code]
 source = "github"
 github = "tonsky/FiraCode"
@@ -314,6 +324,24 @@ source = "github"
 github = "bitwarden/mobile"
 use_latest_release = true
 
+[Bitwarden-Mac_App_Store]
+source = "cmd"
+cmd = '''
+    curl https://itunes.apple.com/lookup?id=1352778147 | \
+    jq --raw-output '.results[0].version'
+'''
+
+[Bitwarden-iOS_App_Store]
+source = "cmd"
+cmd = '''
+    curl https://itunes.apple.com/lookup?id=1137397744 | \
+    jq --raw-output '.results[0].version'
+'''
+
+[vaultwarden]
+source = "github"
+github = "dani-garcia/vaultwarden"
+use_latest_release = true
 
 # --------------------------------------------------
 # macOS Apps
@@ -725,33 +753,33 @@ sparkle = "https://updates.marta.sh/release/appcast.xml"
 source = "sparkle"
 sparkle = "https://maestral.app/appcast.xml"
 
-[WeChat_Mac-App-Store]
+[WeChat-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl http://itunes.apple.com/lookup?bundleId=com.tencent.xinWeChat | \
+    curl https://itunes.apple.com/lookup?bundleId=com.tencent.xinWeChat | \
     jq --raw-output '.results[0].version'
 '''
 
-[WeChatWork_Mac-App-Store]
+[WeChatWork-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl http://itunes.apple.com/lookup?bundleId=com.tencent.WeWorkMac | \
+    curl https://itunes.apple.com/lookup?bundleId=com.tencent.WeWorkMac | \
     jq --raw-output '.results[0].version'
 '''
 
-# http://itunes.apple.com/lookup?country=cn&id=944848654
-# http://itunes.apple.com/cn/lookup?id=944848654
-[NeteaseMusic_Mac-App-Store]
+# https://itunes.apple.com/lookup?country=cn&id=944848654
+# https://itunes.apple.com/cn/lookup?id=944848654
+[NeteaseMusic-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl http://itunes.apple.com/cn/lookup?id=944848654 | \
+    curl https://itunes.apple.com/cn/lookup?id=944848654 | \
     jq --raw-output '.results[0].version'
 '''
 
-[MenubarX_Mac-App-Store]
+[MenubarX-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl http://itunes.apple.com/lookup?bundleId=com.app.menubarx | \
+    curl https://itunes.apple.com/lookup?bundleId=com.app.menubarx | \
     jq --raw-output '.results[0].version'
 '''
 

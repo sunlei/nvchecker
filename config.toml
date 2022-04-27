@@ -304,11 +304,6 @@ source = "github"
 github = "muety/wakapi"
 use_latest_release = true
 
-[font-fira-code]
-source = "github"
-github = "tonsky/FiraCode"
-use_latest_release = true
-
 [Signal-Desktop]
 source = "github"
 github = "signalapp/Signal-Desktop"
@@ -1056,4 +1051,48 @@ use_latest_release = true
 [plotng]
 source = "github"
 github = "maded2/plotng"
+use_latest_release = true
+
+
+# --------------------------------------------------
+# Fonts
+
+[font-Sarasa_Gothic]
+source = "github"
+github = "be5invis/Sarasa-Gothic"
+use_latest_release = true
+
+[font-Iosevka]
+source = "github"
+github = "be5invis/Iosevka"
+use_latest_release = true
+
+[font-Cascadia_Code]
+source = "github"
+github = "microsoft/cascadia-code"
+use_latest_release = true
+
+[font-LXGW_WenKai_霞鹜文楷]
+source = "github"
+github = "lxgw/LxgwWenKai"
+use_latest_release = true
+
+[font-Fira_Code]
+source = "github"
+github = "tonsky/FiraCode"
+use_latest_release = true
+
+[font-Nerd_Fonts]
+source = "github"
+github = "ryanoasis/nerd-fonts"
+use_latest_release = true
+
+[font-JetBrains_Mono]
+source = "github"
+github = "JetBrains/JetBrainsMono"
+use_latest_release = true
+
+[font-Inconsolata]
+source = "github"
+github = "googlefonts/Inconsolata"
 use_latest_release = true

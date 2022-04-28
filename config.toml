@@ -338,6 +338,16 @@ source = "github"
 github = "dani-garcia/vaultwarden"
 use_latest_release = true
 
+[prometheus-Node_exporter]
+source = "github"
+github = "prometheus/node_exporter"
+use_latest_release = true
+
+[prometheus-Blackbox_exporter]
+source = "github"
+github = "prometheus/blackbox_exporter"
+use_latest_release = true
+
 # --------------------------------------------------
 # macOS Apps
 # TODO:

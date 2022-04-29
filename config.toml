@@ -1082,7 +1082,7 @@ source = "github"
 github = "microsoft/cascadia-code"
 use_latest_release = true
 
-[font-LXGW_WenKai_霞鹜文楷]
+[font-LXGW_WenKai]
 source = "github"
 github = "lxgw/LxgwWenKai"
 use_latest_release = true

@@ -795,6 +795,10 @@ cmd = '''
     | grep -oP '/\K([\d.]+)(?=/)'
 '''
 
+[YesPlayMusic]
+source = "github"
+github = "qier222/YesPlayMusic"
+use_latest_release = true
 
 # --------------------------------------------------
 # Apple

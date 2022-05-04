@@ -32,7 +32,7 @@
   "Fork": "2.17",
   "ForkLift": "3.5.6-218",
   "GitLab-Release": "GitLab Security Release: 14.10.1, 14.9.4, and 14.8.6",
-  "GitLab-Runner-Helm-Chart": "v0.40.0",
+  "GitLab-Runner-Helm-Chart": "v0.40.1",
   "GoLand": "2022.1-221.5080.224",
   "Google-Chrome-Beta": "102.0.5005.40",
   "Google-Chrome-Dev": "103.0.5028.0",

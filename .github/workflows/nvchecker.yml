@@ -1,6 +1,7 @@
 name: nvchecker
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -32,7 +33,7 @@ jobs:
         password: ${{ secrets.github_token }}
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Set environment variables
         run: |
@@ -66,7 +67,7 @@ jobs:
       - name: Commit version record files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore: Apply version record files changes"
+          commit_message: "chore: apply version record files changes"
 
           # branch: ${{ github.head_ref }}
           branch: master
@@ -74,9 +75,9 @@ jobs:
           file_pattern: ./*.json
           repository: .
 
-          commit_user_name: GitHub Actions
+          commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
-          commit_author: GitHub Actions <actions@github.com>
+          commit_author: GitHub Actions Bot <actions@github.com>
 
       # - name: nvchecker-action
       #   id: nvchecker-action

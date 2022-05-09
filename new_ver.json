@@ -174,7 +174,7 @@
   "prometheus-Blackbox_exporter": "v0.20.0",
   "prometheus-Node_exporter": "v1.3.1",
   "ripgrep": "13.0.0",
-  "shlink": "v3.1.0",
+  "shlink": "v3.1.1",
   "smartdns": "Release36.1",
   "snell": "v3.0.1",
   "tailscale": "v1.24.2",

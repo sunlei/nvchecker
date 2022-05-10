@@ -31,7 +31,7 @@ use_latest_release = true
 # url = https://about.gitlab.com/releases.xml
 source = "cmd"
 cmd = """
-    curl -s https://about.gitlab.com/atom.xml \
+curl -s https://about.gitlab.com/atom.xml \
     | xq --raw-output '.feed.entry | map(select(.title|test("release:"; "i")))[0] | .title'
 """
 
@@ -46,35 +46,35 @@ use_max_tag = true
 # https://my.atlassian.com/download/feeds/archived/jira-software.json
 source = "cmd"
 cmd = """
-    curl -s https://my.atlassian.com/download/feeds/current/jira-software.json \
+curl -s https://my.atlassian.com/download/feeds/current/jira-software.json \
     | jq --raw-input --raw-output 'explode | .[1+index("("|explode): rindex(")"|explode)] | implode | fromjson | map(select(.edition=="Standard")) | .[0].version'
 """
 
 [Jira-Enterprise_Long-Term-Support]
 source = "cmd"
 cmd = """
-    curl -s https://my.atlassian.com/download/feeds/current/jira-software.json \
+curl -s https://my.atlassian.com/download/feeds/current/jira-software.json \
     | jq --raw-input --raw-output 'explode | .[1+index("("|explode): rindex(")"|explode)] | implode | fromjson | map(select(.edition=="Enterprise")) | .[0].version'
 """
 
 [Confluence-Standard]
 source = "cmd"
 cmd = """
-    curl -s https://my.atlassian.com/download/feeds/current/confluence.json \
+curl -s https://my.atlassian.com/download/feeds/current/confluence.json \
     | jq --raw-input --raw-output 'explode | .[1+index("("|explode): rindex(")"|explode)] | implode | fromjson | map(select(.edition=="Standard")) | .[0].version'
 """
 
 [Confluence-Enterprise_Long-Term-Support]
 source = "cmd"
 cmd = """
-    curl -s https://my.atlassian.com/download/feeds/current/confluence.json \
+curl -s https://my.atlassian.com/download/feeds/current/confluence.json \
     | jq --raw-input --raw-output 'explode | .[1+index("("|explode): rindex(")"|explode)] | implode | fromjson | map(select(.edition=="Enterprise")) | .[0].version'
 """
 
 [UniFi-Network-Controller]
 source = "cmd"
 cmd = '''
-    curl -s 'https://www.ui.com/download/?software=2451&eula=true' \
+curl -s 'https://www.ui.com/download/?software=2451&eula=true' \
         -H 'authority: www.ui.com' \
         -H 'pragma: no-cache' \
         -H 'cache-control: no-cache' \
@@ -182,7 +182,6 @@ use_latest_release = true
 source = "github"
 github = "shlinkio/shlink"
 use_latest_release = true
-
 
 [tailscale]
 source = "github"
@@ -322,14 +321,14 @@ use_latest_release = true
 [Bitwarden-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl https://itunes.apple.com/lookup?id=1352778147 | \
+curl https://itunes.apple.com/lookup?id=1352778147 | \
     jq --raw-output '.results[0].version'
 '''
 
 [Bitwarden-iOS_App_Store]
 source = "cmd"
 cmd = '''
-    curl https://itunes.apple.com/lookup?id=1137397744 | \
+curl https://itunes.apple.com/lookup?id=1137397744 | \
     jq --raw-output '.results[0].version'
 '''
 
@@ -381,7 +380,7 @@ regex = '''"version":\s*"([\d.]+)"'''
 # use_max_tag = true
 source = "cmd"
 cmd = '''
-    curl -s https://update.code.visualstudio.com/api/update/darwin/stable/VERSION \
+curl -s https://update.code.visualstudio.com/api/update/darwin/stable/VERSION \
     | jq --raw-output .productVersion
 '''
 
@@ -521,21 +520,21 @@ sparkle = "https://updates.marked2app.com/marked.xml"
 [GoLand]
 source = "cmd"
 cmd = '''
-    curl -s 'https://data.services.jetbrains.com/products/releases?code=GO&latest=true&type=release' \
+curl -s 'https://data.services.jetbrains.com/products/releases?code=GO&latest=true&type=release' \
     | jq --raw-output '.GO[0] | [.version, .build] | join("-")'
 '''
 
 [DataGrip]
 source = "cmd"
 cmd = '''
-    curl -s 'https://data.services.jetbrains.com/products/releases?code=DG&latest=true&type=release' \
+curl -s 'https://data.services.jetbrains.com/products/releases?code=DG&latest=true&type=release' \
     | jq --raw-output '.DG[0] | [.version, .build] | join("-")'
 '''
 
 [PyCharm]
 source = "cmd"
 cmd = '''
-    curl -s 'https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&type=release' \
+curl -s 'https://data.services.jetbrains.com/products/releases?code=PCP&latest=true&type=release' \
     | jq --raw-output '.PCP[0] | [.version, .build] | join("-")'
 '''
 
@@ -562,21 +561,21 @@ sparkle = "https://yichengchen.github.io/clashX/appcast.xml"
 [WeChat-Work]
 source = "cmd"
 cmd = '''
-    curl -ILs -o /dev/null -w %{url_effective} 'https://work.weixin.qq.com/wework_admin/commdownload?platform=mac' \
+curl -ILs -o /dev/null -w %{url_effective} 'https://work.weixin.qq.com/wework_admin/commdownload?platform=mac' \
     | grep -oP '.*\K(?<=_)[\d.]+(?=\.dmg)'
 '''
 
 [Dropbox]
 source = "cmd"
 cmd = '''
-    curl -ILs -o /dev/null -w %{url_effective} 'https://www.dropbox.com/download?plat=mac&full=1' \
+curl -ILs -o /dev/null -w %{url_effective} 'https://www.dropbox.com/download?plat=mac&full=1' \
     | grep -oP '.*\K(?<=%20)[\d.]+(?=\.dmg)'
 '''
 
 [iStat-Menus]
 source = "cmd"
 cmd = '''
-    curl -ILs -o /dev/null -w %{url_effective} 'https://download.bjango.com/istatmenus/' \
+curl -ILs -o /dev/null -w %{url_effective} 'https://download.bjango.com/istatmenus/' \
     | grep -oP '.*\K(?<=istatmenus)[\d.]+(?=\.zip)'
 '''
 
@@ -584,21 +583,21 @@ cmd = '''
 # https://ftp.mozilla.org/pub/firefox/releases/latest/README.txt
 source = "cmd"
 cmd = '''
-    curl -ILs -o /dev/null -w %{url_effective} 'https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=en-US' \
+curl -ILs -o /dev/null -w %{url_effective} 'https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=en-US' \
     | grep -oP '.*\K(?<=releases\/)[\d.]+(?=\/mac)'
 '''
 
 [Transmit]
 source = "cmd"
 cmd = '''
-    curl -ILs -o /dev/null -w %{url_effective} 'https://download.panic.com/transmit/Transmit-5-Latest.zip' \
+curl -ILs -o /dev/null -w %{url_effective} 'https://download.panic.com/transmit/Transmit-5-Latest.zip' \
     | grep -oP '.*\K(?<=%20)[\d.]+(?=\.zip)'
 '''
 
 [Little-Snitch]
 source = "cmd"
 cmd = '''
-    curl -s https://www.obdev.at/products/littlesnitch/releasenotes.html \
+curl -s https://www.obdev.at/products/littlesnitch/releasenotes.html \
     | pup 'h3#first-releasenotes-headline, h3#first-releasenotes-headline span.buildnumber json{}' \
     | jq --raw-output '[.[0].text, .[1].text] | map(match("[\\d.]+").string) | join("-")'
 '''
@@ -606,7 +605,7 @@ cmd = '''
 [Burp-Suite]
 source = "cmd"
 cmd = '''
-    curl -s https://portswigger.net/burp/releases/rss \
+curl -s https://portswigger.net/burp/releases/rss \
     | xq --raw-output '.rss.channel.item | map(select(.title|test("Professional"; "i")))[0] | .title'
 '''
 
@@ -625,7 +624,7 @@ sparkle = "https://product-downloads.atlassian.com/software/sourcetree/Appcast/S
 [Snipaste]
 source = "cmd"
 cmd = '''
-    curl -ILs -o /dev/null -w %{url_effective} 'https://dl.snipaste.com/mac-beta' \
+curl -ILs -o /dev/null -w %{url_effective} 'https://dl.snipaste.com/mac-beta' \
     | grep -oP '.*\K(?<=Snipaste-)[\d.\-\w]+(?=\.dmg)'
 '''
 
@@ -649,7 +648,7 @@ regex = '''"version":"(.+)",'''
 # https://www.notion.so/desktop/mac/download&user_agent=MacOS
 source = "cmd"
 cmd = '''
-    curl -s 'https://www.notion.so/api/v3/getDesktopDownloadUrl' \
+curl -s 'https://www.notion.so/api/v3/getDesktopDownloadUrl' \
         -H 'pragma: no-cache' \
         -H 'cache-control: no-cache' \
         -H 'content-type: application/json' \
@@ -675,7 +674,7 @@ source = "cmd"
 #     | xq --raw-output '.latest.package | map(select(.title|test("Office 365/2019 Suite Installer"; "i")))[0] | .version'
 # '''
 cmd = '''
-    curl -ILs -o /dev/null -w %{url_effective} 'https://go.microsoft.com/fwlink/?linkid=525133' \
+curl -ILs -o /dev/null -w %{url_effective} 'https://go.microsoft.com/fwlink/?linkid=525133' \
     | grep -oP '.*\K(?<=Microsoft_Office_)[\d.]+(?=_Installer\.pkg)'
 '''
 
@@ -683,7 +682,7 @@ cmd = '''
 # https://app-updates.agilebits.com/product_history/OPM7
 source = "cmd"
 cmd = '''
-    curl -ILs -o /dev/null -w %{url_effective} 'https://app-updates.agilebits.com/download/OPM7' \
+curl -ILs -o /dev/null -w %{url_effective} 'https://app-updates.agilebits.com/download/OPM7' \
     | grep -oP '.*\K(?<=1Password-)[\d.]+(?=\.pkg)'
 '''
 
@@ -701,7 +700,7 @@ sparkle = "https://s3.ap-northeast-2.amazonaws.com/update.cocoable.com/appcast.x
 [Arq-Backup]
 source = "cmd"
 cmd = '''
-    curl -s https://www.arqbackup.com/download/arqbackup/arq6_release_notes.html \
+curl -s https://www.arqbackup.com/download/arqbackup/arq6_release_notes.html \
     | pup 'h1:nth-child(1)' \
     | grep -oP '.*\K(?<= )[\d.]+(?=)'
 '''
@@ -715,16 +714,10 @@ cmd = '''
 #     | grep -oP '.*\K(?<= )[\d.]+(?=)'
 # '''
 
-[Obsidian]
-source = "github"
-github = "obsidianmd/obsidian-releases"
-use_latest_release = true
-
 [kitty]
 source = "github"
 github = "kovidgoyal/kitty"
 use_latest_release = true
-
 
 [Mimestream]
 source = "sparkle"
@@ -761,14 +754,14 @@ sparkle = "https://maestral.app/appcast.xml"
 [WeChat-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl https://itunes.apple.com/lookup?bundleId=com.tencent.xinWeChat | \
+curl https://itunes.apple.com/lookup?bundleId=com.tencent.xinWeChat | \
     jq --raw-output '.results[0].version'
 '''
 
 [WeChatWork-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl https://itunes.apple.com/lookup?bundleId=com.tencent.WeWorkMac | \
+curl https://itunes.apple.com/lookup?bundleId=com.tencent.WeWorkMac | \
     jq --raw-output '.results[0].version'
 '''
 
@@ -777,21 +770,21 @@ cmd = '''
 [NeteaseMusic-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl https://itunes.apple.com/cn/lookup?id=944848654 | \
+curl https://itunes.apple.com/cn/lookup?id=944848654 | \
     jq --raw-output '.results[0].version'
 '''
 
 [MenubarX-Mac_App_Store]
 source = "cmd"
 cmd = '''
-    curl https://itunes.apple.com/lookup?bundleId=com.app.menubarx | \
+curl https://itunes.apple.com/lookup?bundleId=com.app.menubarx | \
     jq --raw-output '.results[0].version'
 '''
 
 [Discord]
 source = "cmd"
 cmd = '''
-    curl -w "%{redirect_url}" -o /dev/null -s https://discord.com/api/download?platform=osx \
+curl -w "%{redirect_url}" -o /dev/null -s https://discord.com/api/download?platform=osx \
     | grep -oP '/\K([\d.]+)(?=/)'
 '''
 
@@ -811,7 +804,7 @@ use_latest_release = true
 # cmd = curl -s https://developer.apple.com/news/releases/rss/releases.rss | xq --raw-output '.rss.channel.item | map(select(.title|test("^macOS (?:(?!beta).)*$"; "i")))[0] | .title'
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="macOS" REGEX=`printf '^%s (?:(?!beta).)*$' $OS_NAME` xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
@@ -819,77 +812,77 @@ cmd = '''
 # cmd = curl -s https://developer.apple.com/news/releases/rss/releases.rss | xq --raw-output '.rss.channel.item | map(select(.title|test("macOS .+ beta "; "i")))[0] | .title'
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="macOS" REGEX="$OS_NAME .+ beta " xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [iOS]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="iOS" REGEX=`printf '^%s (?:(?!beta).)*$' $OS_NAME` xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [iOS-Beta]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="iOS" REGEX="$OS_NAME .+ beta " xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [iPadOS]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="iPadOS" REGEX=`printf '^%s (?:(?!beta).)*$' $OS_NAME` xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [iPadOS-Beta]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="iPadOS" REGEX="$OS_NAME .+ beta " xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [watchOS]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="watchOS" REGEX=`printf '^%s (?:(?!beta).)*$' $OS_NAME` xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [watchOS-Beta]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="watchOS" REGEX="$OS_NAME .+ beta " xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [tvOS]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="tvOS" REGEX=`printf '^%s (?:(?!beta).)*$' $OS_NAME` xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [tvOS-Beta]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="tvOS" REGEX="$OS_NAME .+ beta " xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [Xcode]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="Xcode" REGEX=`printf '^%s (?:(?!beta).)*$' $OS_NAME` xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
 [Xcode-Beta]
 source = "cmd"
 cmd = '''
-    curl -s https://developer.apple.com/news/releases/rss/releases.rss \
+curl -s https://developer.apple.com/news/releases/rss/releases.rss \
     | OS_NAME="Xcode" REGEX="$OS_NAME .+ beta " xq --raw-output '.rss.channel.item | map(select(.title|test(env.REGEX; "i")))[0] | .title | ltrimstr(env.OS_NAME + " ")'
 '''
 
@@ -977,6 +970,25 @@ npm = "@vue/cli"
 
 # --------------------------------------------------
 # obsidian
+
+# [Obsidian]
+# source = "github"
+# github = "obsidianmd/obsidian-releases"
+# use_latest_release = true
+
+[Obsidian]
+source = "cmd"
+cmd = '''
+curl https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json | \
+    jq --raw-output '.latestVersion'
+'''
+
+[Obsidian-Insider-build]
+source = "cmd"
+cmd = '''
+curl https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json | \
+    jq --raw-output '.beta.latestVersion'
+'''
 
 [obsidian-theme-minimal]
 source = "github"

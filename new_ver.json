@@ -112,7 +112,7 @@
   "dcloudio_uni-h5-ui": "2.0.1-34720220422002",
   "dcloudio_uni-mp-weixin": "2.0.1-34720220422002",
   "docker-cli": "v20.10.16",
-  "docker-compose": "v2.5.1",
+  "docker-compose": "v2.6.0",
   "docker-jumpserver": "v2.5.3",
   "docker-nexus3": "3.13.0-02",
   "docker-openldap": "v1.5.0",

@@ -347,6 +347,16 @@ source = "github"
 github = "prometheus/blackbox_exporter"
 use_latest_release = true
 
+[Pulumi]
+source = "github"
+github = "pulumi/pulumi"
+use_latest_release = true
+
+[Terraform]
+source = "github"
+github = "hashicorp/terraform"
+use_latest_release = true
+
 # --------------------------------------------------
 # macOS Apps
 # TODO:

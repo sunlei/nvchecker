@@ -158,7 +158,7 @@
   "jq": "jq-1.6",
   "jumpserver": "v2.22.1",
   "jumpserver-installer": "v2.22.1",
-  "kitty": "v0.25.1",
+  "kitty": "v0.25.2",
   "kombu": "5.2.4",
   "macOS": "12.4 (21F79)",
   "macOS-Beta": "13 beta (22A5266r)",

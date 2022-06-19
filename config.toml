@@ -1132,3 +1132,26 @@ use_latest_release = true
 source = "github"
 github = "googlefonts/Inconsolata"
 use_latest_release = true
+
+# --------------------------------------------------
+# Languages
+
+[Python]
+source = "github"
+github = "python/cpython"
+use_max_tag = true
+
+[Rust]
+source = "github"
+github = "rust-lang/rust"
+use_latest_release = true
+
+[Go]
+source = "github"
+github = "golang/go"
+use_max_tag = true
+
+[Nodejs]
+source = "github"
+github = "nodejs/node"
+use_latest_release = true

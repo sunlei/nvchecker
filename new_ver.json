@@ -176,7 +176,7 @@
   "obsidian-theme-minimal": "5.3.0",
   "plotman": "v0.5.3",
   "plotng": "v0.26",
-  "prometheus-Blackbox_exporter": "v0.21.0",
+  "prometheus-Blackbox_exporter": "v0.21.1",
   "prometheus-Node_exporter": "v1.3.1",
   "ripgrep": "13.0.0",
   "shlink": "v3.1.2",

@@ -128,7 +128,7 @@
   "font-Cascadia_Code": "v2111.01",
   "font-Fira_Code": "6.2",
   "font-Inconsolata": "v3.000",
-  "font-Iosevka": "v15.5.1",
+  "font-Iosevka": "v15.5.2",
   "font-JetBrains_Mono": "v2.242",
   "font-LXGW_WenKai": "v1.235.2",
   "font-Nerd_Fonts": "v2.1.0",
@@ -162,6 +162,7 @@
   "mas": "v1.8.6",
   "moby": "v20.10.17",
   "monolith": "v2.6.1",
+  "nvALT": "2.2.8-128",
   "nvchecker": "v2.8",
   "obsidian-plugin-advanced-tables": "0.17.3",
   "obsidian-plugin-calendar": "2.0.0-beta.2",
@@ -194,6 +195,6 @@
   "watchOS": "8.6 (19T572)",
   "watchOS-Beta": "9 beta 2 (20R5307h)",
   "webhook": "2.8.0",
-  "zoxide": "v0.8.1",
+  "zoxide": "v0.8.2",
   "zsh": "5.4.1"
 }

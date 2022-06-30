@@ -696,9 +696,16 @@ curl -ILs -o /dev/null -w %{url_effective} 'https://app-updates.agilebits.com/do
     | grep -oP '.*\K(?<=1Password-)[\d.]+(?=\.pkg)'
 '''
 
-[Alfred]
+[Alfred-4]
 source = "regex"
 url = "https://www.alfredapp.com/app/update4/general.xml"
+regex = '''
+<string>([\d.]+)<\/string>
+'''
+
+[Alfred-5]
+source = "regex"
+url = "https://www.alfredapp.com/app/update5/general.xml"
 regex = '''
 <string>([\d.]+)<\/string>
 '''

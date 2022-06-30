@@ -707,7 +707,7 @@ regex = '''
 source = "regex"
 url = "https://www.alfredapp.com/app/update5/general.xml"
 regex = '''
-<string>([\d.]+)<\/string>
+<string>(5\..+)<\/string>
 '''
 
 [Movist-Pro]

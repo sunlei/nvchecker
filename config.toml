@@ -947,6 +947,9 @@ pypi = "cryptofeed"
 source = "pypi"
 pypi = "cryptostore"
 
+[spdlog-python]
+source = "pypi"
+pypi = "spdlog"
 
 # --------------------------------------------------
 # npm packages
@@ -1161,4 +1164,12 @@ use_max_tag = true
 [Nodejs]
 source = "github"
 github = "nodejs/node"
+use_latest_release = true
+
+# --------------------------------------------------
+# C++ library
+
+[spdlog]
+source = "github"
+github = "gabime/spdlog"
 use_latest_release = true

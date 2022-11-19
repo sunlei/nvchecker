@@ -109,9 +109,9 @@ github = "adnanh/webhook"
 use_latest_release = true
 
 [snell]
-source = "github"
-github = "surge-networks/snell"
-use_latest_release = true
+# source = "github"
+# github = "surge-networks/snell"
+# use_latest_release = true
 
 [docker-compose]
 source = "github"

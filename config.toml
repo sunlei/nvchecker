@@ -108,7 +108,7 @@ source = "github"
 github = "adnanh/webhook"
 use_latest_release = true
 
-[snell]
+# [snell]
 # source = "github"
 # github = "surge-networks/snell"
 # use_latest_release = true

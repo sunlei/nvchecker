@@ -108,6 +108,7 @@
   "ansible": "7.1.0",
   "bat": "v0.22.1",
   "chia_plot_manager": "v0.98",
+  "coconutBattery": "3.9.10",
   "cryptofeed": "2.3.1",
   "cryptostore": "0.4.0",
   "curl": "curl-7_87_0",

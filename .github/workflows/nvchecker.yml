@@ -68,7 +68,7 @@ jobs:
       # - https://github.com/actions/checkout/issues/1048
       # - https://github.com/actions/runner-images/issues/6775
       - name: Fix git safe.directory in container
-        run: git config --global --add safe.directory /__w/{repo_name}/{repo_name}
+        run: git config --global --add safe.directory /__w/${{ github.event.repository.name }}/${{ github.event.repository.name }}
 
       - name: Commit version record files
         uses: stefanzweifel/git-auto-commit-action@v4

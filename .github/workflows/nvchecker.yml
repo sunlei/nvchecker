@@ -64,6 +64,12 @@ jobs:
           || echo "No new versions"
           rm -f result.tmp ${{ env.LOG_FILE }}
 
+      # - https://github.com/actions/runner/issues/2033
+      # - https://github.com/actions/checkout/issues/1048
+      # - https://github.com/actions/runner-images/issues/6775
+      - name: Fix git safe.directory in container
+        run: git config --global --add safe.directory /__w/{repo_name}/{repo_name}
+
       - name: Commit version record files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

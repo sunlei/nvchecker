@@ -357,6 +357,11 @@ source = "github"
 github = "hashicorp/terraform"
 use_latest_release = true
 
+[rclone]
+source = "github"
+github = "rclone/rclone"
+use_latest_release = true
+
 # --------------------------------------------------
 # macOS Apps
 # TODO:

@@ -303,6 +303,11 @@ source = "github"
 github = "muety/wakapi"
 use_latest_release = true
 
+[realm]
+source = "github"
+github = "zhboner/realm"
+use_latest_release = true
+
 [Signal-Desktop]
 source = "github"
 github = "signalapp/Signal-Desktop"

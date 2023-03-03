@@ -323,6 +323,11 @@ source = "github"
 github = "bitwarden/mobile"
 use_latest_release = true
 
+[Emby]
+source = "github"
+github = "MediaBrowser/Emby.Releases"
+use_latest_release = true
+
 [Bitwarden-Mac_App_Store]
 source = "cmd"
 cmd = '''

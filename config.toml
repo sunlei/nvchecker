@@ -420,6 +420,7 @@ use_latest_release = true
 [transmission]
 source = "github"
 github = "transmission/transmission"
+use_latest_release = true
 
 [vertex]
 source = "github"

@@ -759,7 +759,7 @@ source = "cmd"
 # '''
 cmd = '''
 curl -ILs -o /dev/null -w %{url_effective} 'https://go.microsoft.com/fwlink/?linkid=525133' \
-    | grep -oP '.*\K(?<=Microsoft_Office_)[\d.]+(?=_Installer\.pkg)'
+    | grep -oP '.*\K(?<=Microsoft_365_and_Office_)[\d.]+(?=_Installer\.pkg)'
 '''
 
 [1Password-for-Mac]

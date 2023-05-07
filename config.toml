@@ -372,6 +372,65 @@ source = "github"
 github = "rclone/rclone"
 use_latest_release = true
 
+[nginx-proxy]
+source = "github"
+github = "nginx-proxy/nginx-proxy"
+use_latest_release = true
+
+[n8n]
+source = "github"
+github = "n8n-io/n8n"
+use_latest_release = true
+
+[cross-seed]
+source = "github"
+github = "cross-seed/cross-seed"
+use_latest_release = true
+
+[nas-tools]
+source = "github"
+github = "NAStool/nas-tools"
+use_latest_release = true
+
+[navidrome]
+source = "github"
+github = "navidrome/navidrome"
+use_latest_release = true
+
+[autobrr]
+source = "github"
+github = "autobrr/autobrr"
+use_latest_release = true
+
+[docker-plex]
+source = "github"
+github = "linuxserver/docker-plex"
+use_latest_release = true
+
+[docker-transmission]
+source = "github"
+github = "linuxserver/docker-transmission"
+use_latest_release = true
+
+[docker-qbittorrent]
+source = "github"
+github = "linuxserver/docker-qbittorrent"
+use_latest_release = true
+
+[transmission]
+source = "github"
+github = "transmission/transmission"
+
+[vertex]
+source = "github"
+github = "vertex-app/vertex"
+use_max_tag = true
+
+[qBittorrent]
+source = "github"
+github = "qbittorrent/qBittorrent"
+use_max_tag = true
+
 # --------------------------------------------------
 # macOS Apps
 # TODO:

@@ -136,7 +136,7 @@
   "docker-plex": "1.32.4.7195-7c8f9d3b6-ls174",
   "docker-qbittorrent": "4.5.4-r0-ls272",
   "docker-self-service-password": "5.3.1",
-  "docker-transmission": "4.0.3-r3-ls182",
+  "docker-transmission": "4.0.3-r3-ls183",
   "exa": "v0.10.1",
   "fd": "v8.7.0",
   "font-Cascadia_Code": "v2111.01",

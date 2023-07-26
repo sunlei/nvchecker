@@ -1,4 +1,5 @@
 {
+  "1Password-for-Mac": "7.9.10",
   "Alfred-4": "4.8",
   "Alfred-5": "5.1.1",
   "AppCleaner": "3.4-3804",
@@ -112,7 +113,7 @@
   "cross-seed": "v5.4.0",
   "cryptofeed": "2.3.2",
   "cryptostore": "0.4.0",
-  "curl": "curl-8_2_0",
+  "curl": "curl-8_2_1",
   "dcloudio_uni-h5": "2.0.2-3080720230703001",
   "dcloudio_uni-h5-ui": "2.0.2-3080720230703001",
   "dcloudio_uni-mp-weixin": "2.0.2-3080720230703001",
@@ -141,7 +142,7 @@
   "ghq": "v1.4.2",
   "git": "v2.41.0",
   "gmailctl": "v0.10.6",
-  "grafana": "v10.0.2",
+  "grafana": "v10.0.3",
   "headscale": "v0.22.3",
   "hpool-chia-miner": "v1.8.0",
   "hpool-chia-plotter": "v0.10",

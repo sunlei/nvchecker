@@ -107,7 +107,7 @@
   "WeChatWork-Mac_App_Store": "4.1.7",
   "WeChatWork_Mac-App-Store": "4.0.3",
   "WeChat_Mac-App-Store": "3.4.0",
-  "Wechat-for-Mac": "3.8.1.17-26638",
+  "Wechat-for-Mac": "3.8.2.17-27289",
   "Xcode": "14.3.1 (14E300c)",
   "Xcode-Beta": "15 beta 5 (15A5209g)",
   "YOURLS": "1.9.2",
@@ -221,6 +221,6 @@
   "watchOS": "9.6 (20U73)",
   "watchOS-Beta": "10 beta 4 (21R5320i)",
   "webhook": "2.8.1",
-  "zoxide": "v0.9.1",
+  "zoxide": "v0.9.2",
   "zsh": "5.4.1"
 }

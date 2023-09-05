@@ -117,7 +117,7 @@
   "ansible": "8.3.0",
   "autobrr": "v1.28.0",
   "bat": "v0.23.0",
-  "chia_plot_manager": "v0.991a",
+  "chia_plot_manager": "v0.991b",
   "coconutBattery": "3.9.12",
   "cross-seed": "v5.4.2",
   "cryptofeed": "2.3.2",

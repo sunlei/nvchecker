@@ -344,11 +344,18 @@ curl https://plex.tv/api/downloads/5.json | \
 '''
 
 # NOTE: Need `X-Plex-Token`
-[Plex-Media-Server-Beta]
+# [Plex-Media-Server-Beta]
+# source = "cmd"
+# cmd = '''
+# curl https://plex.tv/api/downloads/5.json?channel=plexpass | \
+#     jq --raw-output '.computer.Linux.version'
+# '''
+
+[Plexamp]
 source = "cmd"
 cmd = '''
-curl https://plex.tv/api/downloads/5.json?channel=plexpass | \
-    jq --raw-output '.computer.Linux.version'
+curl https://plexamp.plex.tv/plexamp.plex.tv/desktop/latest-mac.yml | \
+    yq '.version'
 '''
 
 [Bitwarden-iOS_App_Store]

@@ -16,14 +16,31 @@ RUN : \
     && set -ex \
     # install packages
     && apt-get update \
-    && apt-get install -y --no-install-recommends curl tzdata libssl-dev libcurl4-openssl-dev build-essential jq grep unzip git ca-certificates \
+    && apt-get install -y --no-install-recommends \
+        curl \
+        tzdata \
+        libssl-dev \
+        libcurl4-openssl-dev \
+        build-essential \
+        jq \
+        grep \
+        unzip \
+        git \
+        ca-certificates \
     && update-ca-certificates \
     # set timezone
     && ln -snf /usr/share/zoneinfo/${TZ} /etc/localtime && echo ${TZ} > /etc/timezone \
     # pip install
-    && pip install --upgrade pip setuptools wheel \
-    && pip install --upgrade yq lxml packaging \
-    && pip install --upgrade nvchecker==${NVCHECKER_VERSION} \
+    && pip install --upgrade \
+        pip \
+        setuptools \
+        wheel \
+    && pip install --upgrade \
+        yq \
+        lxml \
+        packaging \
+    && pip install --upgrade \
+        nvchecker==${NVCHECKER_VERSION} \
     # && pip install --upgrade https://github.com/lilydjwg/nvchecker/archive/master.zip#egg=nvchecker \
     # https://github.com/mgdm/htmlq
     # install pup https://github.com/ericchiang/pup

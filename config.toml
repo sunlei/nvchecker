@@ -327,12 +327,28 @@ use_latest_release = true
 source = "github"
 github = "MediaBrowser/Emby.Releases"
 use_latest_release = true
+include_prereleases = true
 
 [Bitwarden-Mac_App_Store]
 source = "cmd"
 cmd = '''
 curl https://itunes.apple.com/lookup?id=1352778147 | \
     jq --raw-output '.results[0].version'
+'''
+
+[Plex-Media-Server]
+source = "cmd"
+cmd = '''
+curl https://plex.tv/api/downloads/5.json | \
+    jq --raw-output '.computer.Linux.version'
+'''
+
+# NOTE: Need `X-Plex-Token`
+[Plex-Media-Server-Beta]
+source = "cmd"
+cmd = '''
+curl https://plex.tv/api/downloads/5.json?channel=plexpass | \
+    jq --raw-output '.computer.Linux.version'
 '''
 
 [Bitwarden-iOS_App_Store]
@@ -469,15 +485,15 @@ curl -s https://update.code.visualstudio.com/api/update/darwin/stable/VERSION \
     | jq --raw-output .productVersion
 '''
 
-[Surge-Mac-v3-Stable]
-# source = "cmd"
-# cmd = curl -s https://www.nssurge.com/mac/v3/appcast-signed.xml | xq --raw-output '.rss.channel.item[0].enclosure | [."@sparkle:shortVersionString", ."@sparkle:version"] | join("-")'
-source = "sparkle"
-sparkle = "https://www.nssurge.com/mac/v3/appcast-signed.xml"
+# [Surge-Mac-v3-Stable]
+# # source = "cmd"
+# # cmd = curl -s https://www.nssurge.com/mac/v3/appcast-signed.xml | xq --raw-output '.rss.channel.item[0].enclosure | [."@sparkle:shortVersionString", ."@sparkle:version"] | join("-")'
+# source = "sparkle"
+# sparkle = "https://www.nssurge.com/mac/v3/appcast-signed.xml"
 
-[Surge-Mac-v3-Beta]
-source = "sparkle"
-sparkle = "https://www.nssurge.com/mac/v3/appcast-signed-beta.xml"
+# [Surge-Mac-v3-Beta]
+# source = "sparkle"
+# sparkle = "https://www.nssurge.com/mac/v3/appcast-signed-beta.xml"
 
 [Surge-Mac-v4-Stable]
 source = "sparkle"

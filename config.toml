@@ -481,7 +481,7 @@ regex = '''"version":\s*"([\d.]+)"'''
 # use_max_tag = true
 source = "cmd"
 cmd = '''
-curl -s https://update.code.visualstudio.com/api/update/darwin/stable/VERSION \
+curl -s https://update.code.visualstudio.com/api/update/darwin/stable/latest \
     | jq --raw-output .productVersion
 '''
 

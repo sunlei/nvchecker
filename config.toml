@@ -455,6 +455,12 @@ source = "github"
 github = "qbittorrent/qBittorrent"
 use_max_tag = true
 
+[PT-Plugin-Plus]
+source = "github"
+github = "pt-plugins/PT-Plugin-Plus"
+use_latest_release = true
+include_prereleases = true
+
 # --------------------------------------------------
 # macOS Apps
 # TODO:

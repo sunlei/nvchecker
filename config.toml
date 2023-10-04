@@ -508,13 +508,21 @@ curl -s https://update.code.visualstudio.com/api/update/darwin/stable/latest \
 # source = "sparkle"
 # sparkle = "https://www.nssurge.com/mac/v3/appcast-signed-beta.xml"
 
-[Surge-Mac-v4-Stable]
-source = "sparkle"
-sparkle = "https://www.nssurge.com/mac/v4/appcast-signed.xml"
+# [Surge-Mac-v4-Stable]
+# source = "sparkle"
+# sparkle = "https://www.nssurge.com/mac/v4/appcast-signed.xml"
 
-[Surge-Mac-v4-Beta]
+# [Surge-Mac-v4-Beta]
+# source = "sparkle"
+# sparkle = "https://www.nssurge.com/mac/v4/appcast-signed-beta.xml"
+
+[Surge-Mac-v5-Stable]
 source = "sparkle"
-sparkle = "https://www.nssurge.com/mac/v4/appcast-signed-beta.xml"
+sparkle = "https://www.nssurge.com/mac/v5/appcast-signed.xml"
+
+[Surge-Mac-v5-Beta]
+source = "sparkle"
+sparkle = "https://www.nssurge.com/mac/v5/appcast-signed-beta.xml"
 
 [Fork]
 # source = "cmd"
@@ -1054,6 +1062,10 @@ pypi = "cryptostore"
 [spdlog-python]
 source = "pypi"
 pypi = "spdlog"
+
+[pyrogram]
+source = "pypi"
+pypi = "pyrogram"
 
 # --------------------------------------------------
 # npm packages

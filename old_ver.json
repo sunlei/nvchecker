@@ -140,7 +140,7 @@
   "docker-openldap-backup": "v1.5.0",
   "docker-phpLDAPadmin": "v0.9.0",
   "docker-plex": "1.32.6.7557-1cf77d501-ls188",
-  "docker-qbittorrent": "4.5.5-r0-ls290",
+  "docker-qbittorrent": "4.5.5-r0-ls291",
   "docker-self-service-password": "5.3.3",
   "docker-transmission": "4.0.4-r0-ls202",
   "exa": "v0.10.1",

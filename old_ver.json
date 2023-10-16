@@ -180,7 +180,7 @@
   "jumpserver-installer": "v3.7.2",
   "kitty": "v0.30.1",
   "kombu": "5.3.2",
-  "langchain": "0.0.314",
+  "langchain": "0.0.315",
   "llama-index": "0.8.45.post1",
   "macOS": "14 (23A344)",
   "macOS-Beta": "14.1 beta 3 (23B5067a)",

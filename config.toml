@@ -74,14 +74,18 @@ curl -s https://my.atlassian.com/download/feeds/current/confluence.json \
 [UniFi-Network-Controller]
 source = "cmd"
 cmd = '''
-curl -s 'https://www.ui.com/download/?software=2451&eula=true' \
-        -H 'authority: www.ui.com' \
-        -H 'pragma: no-cache' \
-        -H 'cache-control: no-cache' \
-        -H 'x-requested-with: XMLHttpRequest' \
-        --compressed \
-    | jq --raw-output '.download_url | match("[\\d.]+").string'
+curl -s 'https://download.svc.ui.com/v1/software-downloads' \
+    | jq --raw-output '.downloads | map(select(.platform=="debian")) | .[0].version'
 '''
+# cmd = '''
+# curl -s 'https://www.ui.com/download/?software=2451&eula=true' \
+#         -H 'authority: www.ui.com' \
+#         -H 'pragma: no-cache' \
+#         -H 'cache-control: no-cache' \
+#         -H 'x-requested-with: XMLHttpRequest' \
+#         --compressed \
+#     | jq --raw-output '.download_url | match("[\\d.]+").string'
+# '''
 
 [docker-openldap]
 source = "github"
@@ -1066,6 +1070,18 @@ pypi = "spdlog"
 [pyrogram]
 source = "pypi"
 pypi = "pyrogram"
+
+[telethon]
+source = "pypi"
+pypi = "telethon"
+
+[llama-index]
+source = "pypi"
+pypi = "llama-index"
+
+[langchain]
+source = "pypi"
+pypi = "langchain"
 
 # --------------------------------------------------
 # npm packages

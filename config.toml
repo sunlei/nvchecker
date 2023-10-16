@@ -465,6 +465,16 @@ github = "pt-plugins/PT-Plugin-Plus"
 use_latest_release = true
 include_prereleases = true
 
+[Prowlarr]
+source = "github"
+github = "Prowlarr/Prowlarr"
+use_latest_release = true
+
+[Jackett]
+source = "github"
+github = "Jackett/Jackett"
+use_latest_release = true
+
 # --------------------------------------------------
 # macOS Apps
 # TODO:

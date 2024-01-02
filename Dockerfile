@@ -1,4 +1,4 @@
-FROM python:3.11-slim-bullseye
+FROM python:3.11-slim
 
 ENV DEBIAN_FRONTEND noninteractive
 
@@ -7,7 +7,7 @@ ENV PIP_DISABLE_PIP_VERSION_CHECK on
 
 ENV TZ Asia/Shanghai
 
-ENV NVCHECKER_VERSION 2.12
+ENV NVCHECKER_VERSION 2.13.1
 
 # ENV APP_HOME /app/nvchecker
 # WORKDIR ${APP_HOME}

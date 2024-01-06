@@ -307,6 +307,40 @@ source = "github"
 github = "muety/wakapi"
 use_latest_release = true
 
+[gatus]
+source = "github"
+github = "TwiN/gatus"
+use_latest_release = true
+
+[ClickHouse-stable]
+source = "github"
+github = "ClickHouse/ClickHouse"
+use_max_tag = true
+include_regex = ".+-stable"
+
+[ClickHouse-lts]
+source = "github"
+github = "ClickHouse/ClickHouse"
+use_max_tag = true
+include_regex = ".+-lts"
+
+[VictoriaMetrics]
+source = "github"
+github = "VictoriaMetrics/VictoriaMetrics"
+use_max_tag = true
+exclude_regex = ".+victorialogs"
+
+[VictoriaLogs]
+source = "github"
+github = "VictoriaMetrics/VictoriaMetrics"
+use_max_tag = true
+include_regex = ".+victorialogs"
+
+[ntfy-sh]
+source = "github"
+github = "binwiederhier/ntfy"
+use_latest_release = true
+
 [realm]
 source = "github"
 github = "zhboner/realm"
@@ -1315,3 +1349,6 @@ use_latest_release = true
 source = "github"
 github = "gabime/spdlog"
 use_latest_release = true
+
+# --------------------------------------------------
+# docker container

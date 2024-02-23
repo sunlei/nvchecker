@@ -47,10 +47,11 @@ jobs:
           nvtake --file config.toml --all
 
       # --form-string html="<html><pre><code>$RESULT</code></pre><hr /><pre><code>$LOG</code></pre></html>" \
+      # LOG=$(cat ${{ env.LOG_FILE }}) \
+      # || echo "No new versions" \
       - name: Send Email
         shell: bash
         run: |
-          # LOG=$(cat ${{ env.LOG_FILE }}) \
           RESULT=$(cat result.tmp) \
           DATE=$(date +"%Y-%m-%d") \
           && [[ ! -z $LOG ]] || [[ ! -z $RESULT ]] \
@@ -65,7 +66,6 @@ jobs:
             -F text=@result.tmp \
             -F attachment=@${{ env.LOG_FILE }} \
             --form-string html="<html><pre><code>$RESULT</code></pre></html>" \
-          || echo "No new versions"
           rm -f result.tmp ${{ env.LOG_FILE }}
 
       # - https://github.com/actions/runner/issues/2033

@@ -732,7 +732,7 @@ sparkle = "https://yichengchen.github.io/clashX/appcast.xml"
 source = "cmd"
 cmd = '''
 curl -ILs -o /dev/null -w %{url_effective} 'https://work.weixin.qq.com/wework_admin/commdownload?platform=mac' \
-    | grep -oP '.*\K(?<=_)[\d.]+(?=\.dmg)'
+    | grep -oP '.*\K(?<=_)[\d.]+(?=.+\.dmg)'
 '''
 
 [Dropbox]

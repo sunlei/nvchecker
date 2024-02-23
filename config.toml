@@ -1127,6 +1127,10 @@ pypi = "llama-index"
 source = "pypi"
 pypi = "langchain"
 
+[textual]
+source = "pypi"
+pypi = "textual"
+
 # --------------------------------------------------
 # npm packages
 

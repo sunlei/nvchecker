@@ -28,6 +28,7 @@ RUN : \
         unzip \
         git \
         ca-certificates \
+    && apt-get install --reinstall ca-certificates \
     && update-ca-certificates \
     # set timezone
     && ln -snf /usr/share/zoneinfo/${TZ} /etc/localtime && echo ${TZ} > /etc/timezone \

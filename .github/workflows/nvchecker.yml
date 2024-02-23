@@ -54,7 +54,7 @@ jobs:
         run: |
           RESULT=$(cat result.tmp) \
           DATE=$(date +"%Y-%m-%d") \
-          && [[ ! -z $LOG ]] || [[ ! -z $RESULT ]] \
+          && [[ ! -f ${{ env.LOG_FILE }} ]] || [[ ! -z $RESULT ]] \
           && curl \
             -s \
             --user 'api:${{ secrets.MAILGUN_API_KEY }}' \

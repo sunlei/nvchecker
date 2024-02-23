@@ -13,6 +13,8 @@ ENV NVCHECKER_VERSION 2.13.1
 # ENV APP_HOME /app/nvchecker
 # WORKDIR ${APP_HOME}
 
+ENV CURL_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+
 RUN : \
     && set -ex \
     # install packages
@@ -28,7 +30,7 @@ RUN : \
         unzip \
         git \
         ca-certificates \
-    && apt-get install --reinstall ca-certificates \
+    # && apt-get install --reinstall ca-certificates \
     && update-ca-certificates \
     # set timezone
     && ln -snf /usr/share/zoneinfo/${TZ} /etc/localtime && echo ${TZ} > /etc/timezone \

@@ -51,7 +51,7 @@ jobs:
         shell: bash
         run: |
           # LOG=$(cat ${{ env.LOG_FILE }}) \
-          # RESULT=$(cat result.tmp) \
+          RESULT=$(cat result.tmp) \
           DATE=$(date +"%Y-%m-%d") \
           && [[ ! -z $LOG ]] || [[ ! -z $RESULT ]] \
           && curl \

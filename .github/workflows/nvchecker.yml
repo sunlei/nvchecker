@@ -15,7 +15,7 @@ on:
       - "config.toml"
       - ".github/workflows/nvchecker.yml"
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 8,20 * * *"
 
 env:
   REGISTRY: ghcr.io

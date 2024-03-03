@@ -203,7 +203,7 @@
   "rclone": "v1.65.2",
   "realm": "v2.5.3",
   "ripgrep": "14.1.0",
-  "shlink": "v3.7.3",
+  "shlink": "v4.0.0",
   "smartdns": "Release45",
   "spdlog": "v1.13.0",
   "spdlog-python": "2.0.6",

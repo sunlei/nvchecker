@@ -45,7 +45,7 @@
   "Google-Chrome-Stable": "133.0.6943.54",
   "Hammerspoon": "1.0.0-6864",
   "IINA": "0.0.14.1-55",
-  "Jackett": "v0.22.1391",
+  "Jackett": "v0.22.1393",
   "Jira-Enterprise_Long-Term-Support": "null",
   "Jira-Standard": "10.4.0",
   "Little-Snitch": "6.2-7147",
@@ -240,6 +240,6 @@
   "watchOS": "11.3 (22S555)",
   "watchOS-Beta": "null",
   "webhook": "2.8.2",
-  "zoxide": "v0.9.6",
+  "zoxide": "v0.9.7",
   "zsh": "5.4.1"
 }

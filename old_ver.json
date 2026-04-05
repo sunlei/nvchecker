@@ -225,7 +225,7 @@
   "spdlog-python": "2.0.6",
   "tailscale": "v1.96.4",
   "telethon": "1.42.0",
-  "textual": "8.2.2",
+  "textual": "8.2.3",
   "tornado": "6.5.5",
   "transmission": "4.1.1",
   "trojan-gfw": "v1.16.0",

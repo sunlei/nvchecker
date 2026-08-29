@@ -138,7 +138,7 @@
   "dcloudio_uni-h5": "2.0.2-5020420260813001",
   "dcloudio_uni-h5-ui": "2.0.2-5020420260813001",
   "dcloudio_uni-mp-weixin": "2.0.2-5020420260813001",
-  "docker-cli": "v29.7.2",
+  "docker-cli": "v29.8.0-rc.1",
   "docker-compose": "v5.5.0",
   "docker-jumpserver": "v4.10.19",
   "docker-nexus3": "3.13.0-02",
